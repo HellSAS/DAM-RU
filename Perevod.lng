@@ -698,7 +698,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_IND_ZONE_NAME" LANG "Индустриальная зона"
 "U_IND_ZONE_DESC" LANG "."
 
-"IND_EFFECT_NAME" LANG "Региона разработки"
+"IND_EFFECT_NAME" LANG "Регион разработки"
 "IND_EFFECT_DESC" LANG "."
 
 "BOMB_PENETRATOR_M_NAME" LANG "Bunker Buster Munition"
