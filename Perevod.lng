@@ -695,7 +695,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_EXC_LASER_NAME" LANG "Эскалибур основной лазер"
 "M_EXC_LASER_DESC" LANG "."
 
-"U_IND_ZONE_NAME" LANG "Индустриальная зона"
+"U_IND_ZONE_NAME" LANG "Промышленная зона"
 "U_IND_ZONE_DESC" LANG "."
 
 "IND_EFFECT_NAME" LANG "Регион разработки"
