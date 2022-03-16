@@ -520,8 +520,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SAM80_NAME" LANG "Phased Array Tracking Radars"
 "SAM80_DESC" LANG "Modern passive electronically scanned array radars would prove pivotal in designing general-purpose SAM systems capable of dealing with airbourne threats of all kinds, at long range, with high reliability, and capable of feeding in to newly developed external data links over computer networks.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown"
 
-"SAM10_NAME" LANG "Modern SAMs"
-"SAM10_DESC" LANG "Modern SAM networks utilise distributed computer and radar networks with high redundancy against both kinetic and cyber attacks, and can be expected to operate even in hostile environments with the threat of radiation missiles and significant electronic countermeasures. Laser illumination can also now be utilised as an alternative to radar.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown\n\n\n+Allows the SAM site to also equip ABM missiles(Require Improved ABM systems)"
+"SAM10_NAME" LANG "Современные ЗРК"
+"SAM10_DESC" LANG "В современных комплексах ЗРК используются распределенные компьютерные и радиолокационные сети с высокой Защищённостью как от кинетических, так и от кибератак, и можно ожидать, что они будут работать даже во враждебной среде с угрозой Противорадиолокационных ракет и значительными электронными средствами противодействия. Лазерное указание цели теперь также можно использовать в качестве альтернативы радару.\n\n\n+Увеличивает дальность, точность и скорость ракет ЗРК\n\n\n+Уменьшает время перезарядки установки ЗРК.\n\n\n+Позволяет ЗРК также использовать ракеты ПРО (требуются улучшенные системы ПРО)"
 
 "SAM30_NAME" LANG "Avanced Ηybrid SAMs"
 "SAM30_DESC" LANG "Advanced SAM networks utilise both new high-tech kinetic interceptors.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown\n\n\n+Allows the SAM site to also equip laser systems"
@@ -565,29 +565,29 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SPYPLANE_NAME" LANG "Reconnaissance aircraft"
 "SPYPLANE_DESC" LANG "A reconnaissance aircraft is a military aircraft designed or adapted to perform aerial reconnaissance with roles including collection of imagery intelligence(including using photography), signals intelligence, as well as measurement and signature intelligence."
 
-"SPYSAT_NAME" LANG "Reconnaissance satellite"
-"SPYSAT_DESC" LANG "A reconnaissance satellite or intelligence satellite (commonly, although unofficially, referred to as a spy satellite) is an Earth observation satellite or communications satellite deployed for military or intelligence applications."
+"SPYSAT_NAME" LANG "Разведывательный спутник"
+"SPYSAT_DESC" LANG "Разведывательный спутник (обычно, хотя и неофициально, называемый спутником-шпионом) — это спутник наблюдения Земли или спутник связи, развернутый для военных или разведывательных целей."
 
-"M_ICBM_10MMIRV_NAME" LANG "Heavy MIRV ICBM"
-"M_ICBM_10MMIRV_DESC" LANG "A heavy ICBM containing 13 1Mt Warheads"
+"M_ICBM_10MMIRV_NAME" LANG "Тяжелая МБР РГЧ"
+"M_ICBM_10MMIRV_DESC" LANG "Тяжелая МБР с 13 боеголовками мощностью 1 Мт."
 
-"M_KIN_ROD_NAME" LANG "Kinetic Rod"
-"M_KIN_ROD_DESC" LANG "Tungsten rod with a directional thrust system capable of amasing massive amounts of kinetic energy."
+"M_KIN_ROD_NAME" LANG "Кинетический стержень"
+"M_KIN_ROD_DESC" LANG "Вольфрамовый стержень с системой направленной тяги, способной накапливать огромное количество кинетической энергии."
 
-"M_Laser_weapon2_NAME" LANG "Anti-Satellite Laser"
-"M_Laser_weapon2_DESC" LANG "High powered Laser capable of neutralising hostile satellites by burning their electronics."
+"M_Laser_weapon2_NAME" LANG "Противоспутниковый лазер"
+"M_Laser_weapon2_DESC" LANG "Мощный лазер, способный нейтрализовать враждебные спутники, сжигая их электронику."
 
-"U_LASER_SAT_NAME" LANG "Laser Satellite"
-"U_LASER_SAT_DESC" LANG "A satellite equiped with directed energy weapons capable of engaging ballistic targets and other satellites."
+"U_LASER_SAT_NAME" LANG "Спутник с лазерным оружием"
+"U_LASER_SAT_DESC" LANG "Спутник, оснащенный оружием направленной энергии, способным поражать баллистические цели и другие спутники."
 
-"U_KAS_SAT_NAME" LANG "Kinetic Bombardment Satellite"
-"U_KAS_SAT_DESC" LANG "A satellite equiped with 12 kinetic rods capable of amasing large amounts of kinetic energy causing widespread destruction."
+"U_KAS_SAT_NAME" LANG "Спутник кинетической бомбардировки"
+"U_KAS_SAT_DESC" LANG "Спутник, оснащенный 12 кинетическими стержнями, способными накапливать большое количество кинетической энергии, вызывая широкомасштабные разрушения."
 
 "KAS_TECH_NAME" LANG "Kinetic Bombardment"
 "KAS_TECH_DESC" LANG "A kinetic bombardment or a kinetic orbital strike is the hypothetical act of attacking a planetary surface with an inert projectile from orbit, where the destructive power comes from the kinetic energy of the projectile impacting at very high speeds. The concept originated during the Cold War.\n\n\n+Requires Space Radar for targeting.\n\n\n+Contains 12 Rods\n\n\n+CANNOT BE RESUPPLIED"
 
-"LASER_ANTISAT_NAME" LANG "Anti-Satellite Laser"
-"LASER_ANTISAT_DESC" LANG "High powered Laser capable of neutralising hostile satellites by burning their electronics."
+"LASER_ANTISAT_NAME" LANG "Противоспутниковый лазер"
+"LASER_ANTISAT_DESC" LANG "Мощный лазер, способный нейтрализовать враждебные спутники, сжигая их электронику."
 
 "U_CDMS_NAME" LANG "Anti-Ship Missile Battery"
 "U_CDMS_DESC" LANG "Anti-Ship Missile Battery is a military unit tasked with defending costal waters against enemy surface combatans.They are equivalent to cruisers in terms of ship to ship firepower."
@@ -613,23 +613,23 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_NORAD_NAME" LANG "Airspace Defence Command"
 "U_NORAD_DESC" LANG "Airspace Defense Command located in a hardened command organization responsible for monitoring strategic nuclear threats and managing various strategic assets.Only one can exist at any given time.(Allows silos to fire 3 missiles at a time)"
 
-"AWACS_EFFECT_NAME" LANG "Early Warning and Control Center"
-"AWACS_EFFECT_DESC" LANG "Combines information from multiple platforms and shares informations via datalink."
+"AWACS_EFFECT_NAME" LANG "СПРН (Система Предупреждения о Ракетном Нападении)"
+"AWACS_EFFECT_DESC" LANG "Объединяет информацию с нескольких платформ и обменивается информацией по каналу передачи данных."
 
-"NORAD_EFFECT_NAME" LANG "Missile Silo Command"
-"NORAD_EFFECT_DESC" LANG "Allows silos to fire 3 missiles at a time."
+"NORAD_EFFECT_NAME" LANG "Командование ракетной шахты"
+"NORAD_EFFECT_DESC" LANG "Позволяет ракетным шахтам запускать 3 ракеты одновременно."
 
-"M_ICBM_EMP_NAME" LANG "EMP ICBM"
-"M_ICBM_EMP_DESC" LANG "This ICBM is programmed to detonate in the upper atmosphere creating a Nuclear electromagnetic pulse overloading electrical systems while minimizing physical damage."
+"M_ICBM_EMP_NAME" LANG "ЭМИ МБР"
+"M_ICBM_EMP_DESC" LANG "Эта МБР запрограммирована на детонацию в верхних слоях атмосферы, создавая ядерный электромагнитный импульс, перегружающий электрические системы и сводящий к минимуму физические повреждения."
 
-"M_ICBM_MIRV_EMP_NAME" LANG "ICBM MIRV EMP"
-"M_ICBM_MIRV_EMP_DESC" LANG "This ICBM contains 3 1 Mt nuclear warheads as well as a warhead detonating in the upper atomoshpere creating a Nuclear electromagnetic pulse"
+"M_ICBM_MIRV_EMP_NAME" LANG "ЭМИ МБР с Разделяющейся головной частью"
+"M_ICBM_MIRV_EMP_DESC" LANG "Эта МБР содержит 3 ядерных боеголовки по 1 Мт, а также боеголовку, детонирующую в верхней атомосфере, создающую ядерный электромагнитный импульс."
 
-"M_EMP_WARHEAD_NAME" LANG "EMP warhead"
-"M_EMP_WARHEAD_DESC" LANG "A warhead programmed to detonate in the upper atmosphere creating a Nuclear electromagnetic pulse."
+"M_EMP_WARHEAD_NAME" LANG "ЭМИ боеголовка"
+"M_EMP_WARHEAD_DESC" LANG "Боеголовка запрограммирована на детонацию в верхних слоях атмосферы, создавая ядерный электромагнитный импульс."
 
-"R_SONAR_L_NAME" LANG "MPA Sonar"
-"R_SONAR_L_DESC" LANG "MPA Sonar"
+"R_SONAR_L_NAME" LANG "Сонар для морского патрульного самолёта"
+"R_SONAR_L_DESC" LANG "Сонар для морского патрульного самолёта"
 
 "R_AWACS_CVN_LW_RADAR_NAME" LANG "Carrier AWACS LW"
 "R_AWACS_CVN_LW_RADAR_DESC" LANG "Carrier AWACS LW"
@@ -640,8 +640,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "TACTICAL_NUKES_NAME" LANG "Warhead Miniaturization"
 "TACTICAL_NUKES_DESC" LANG "Warhead Miniaturization is the technological process in which nuclear warheads are miniaturized in order to fit in smaller delivery systems while retaining considerable destructive power."
 
-"U_SAM_SITE_DESC" LANG "Anti-aircraft weapon systems, associated sensor systems and command and control arrangements to protect your homeland.\n\nCan be extended to the Missile defence to perform the task of intercepting any projectile in flight.\n\n\n+ Intercepts enemy aircrafts.\n+ Intercepts missiles (with ABM technology).\n+ Cheap to build.\n- Cannot see missiles without the OTH radar support."
-"U_SAM_SITE_NAME" LANG "Air Defence Site"
+"U_SAM_SITE_DESC" LANG "Системы зенитного вооружения, связанные с ними сенсорные системы и системы управления и контроля для защиты вашего воздушного пространства.\n\nМожет быть расширен до ПРО для выполнения задачи по перехвату любого снаряда в полете\n\n\n+ Перехватывает вражеские самолеты\n+ Перехватывает ракеты (с технологией ПРО)\n+ Дешево построить\n- Не может видеть ракеты без поддержки ЗГРЛС"
+"U_SAM_SITE_NAME" LANG "Установка ПВО"
 
 "ART1_NAME" LANG "Ядерная артиллерия"
 "ART1_DESC" LANG "Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets."
