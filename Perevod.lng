@@ -1,0 +1,701 @@
+"AAM_Mk2_DESC" LANG "Compact solid-fuel engines for \"air-to-air\" class missiles helped increase the speed and range of the weapon, and optical-electronic steering tips overall solved the problem of on-board electronic warfare systems for an aircraft's self-defense. Matrix electro-optical transmitters don't depend on a heat source, so a missile can successfully strike all types of targets, even ones that are difficult to spot in the infrared spectrum.\n\nIncreases the range and accuracy of air-to-air missiles."
+"AAM_Mk2_NAME" LANG "Advanced AAM"
+"ABM_Mk2_DESC" LANG "The introduction of new X-ray radars with active phased antennas solved many ABM problems. Next generation air defense systems confidently control the sky and can catch any air target up to and including drones, winged missiles and even ICBMs at the end of their trajectory. The integrated series of complexes covers a large area with a practically impenetrable dome. Other than a massive strategic strike, no other type of attack can overcome this defense. However, the early warning system can't be forgotten. Without timely receipt of data from the beyond-the-horizon radar, even the new ABM systems won't be effective.\n\nIt substantially increases the range and accuracy of anti-missile defenses. It also increases the amount of simultaneous maintained targets."
+"ABM_Mk2_NAME" LANG "Advanced ABM"
+"Advanced_aircrafts_DESC" LANG "Dual circuit, turboreactive engines, and their stronger version with additional afterburners, led to a real revolution in strategic aviation. Strike bombers, the third group of the nuclear Triad, received a significant increase in cruising speed and flight range as well as a noticeable increase in payload. And making pylons according to one standard increased the range of weapon types and variants to solve various problems.\n\nIt increases the speed, maneuverability, durability and payload of the planes."
+"Advanced_aircrafts_NAME" LANG "Advanced Aircraft"
+"Air_refuel_DESC" LANG "The distance of many key targets and the necessity of deploying strategic bombers close to the borders of potential enemies introduced a number of difficult to solve problems.\nThe capacity of fuel tanks both internal and external did not lead to an increase in range, and the additional volume actually decreased the useful military payload. The mitigating solution was to make develop effective means for inflight refuelling utilizing long range-heavy payload cargo aircraft.\n\nIt substantially increases the range of all plane types."
+"Air_refuel_NAME" LANG "Aerial Refueling"
+"Air_to_surface_missile_DESC" LANG "The rudimentary technology of the first air-launched missiles did not allow for pinpoint accuracy. However, even near misses at least confirmed the new weapon's high effectiveness, but also highlighted the high cost of the ASM-ordnance in comparison with all other standard heavy and special air ordinance. To successfully use the air-launched missiles, it was necessary to increase the maneuvarability and accuracy of the weapons, and correspondingly, the rate of successful strikes."
+"Air_to_surface_missile_NAME" LANG "ASM"
+"Aircraft-launched_MRBM_DESC" LANG "The first nuclear warheads were too heavy to be used on air-platforms as missiles, so strike aircraft used the more arcane bombing methods at high altitudes. But the development of Tactical Nuclear Weapons technology has led to the appearance of aerial, short and medium-range nuclear missiles.\nDespite the fairly limited current use, aviation MRBM have been permanently deployed by many nations,  as a mobile and quick response protocol."
+"Aircraft-launched_MRBM_NAME" LANG "Aircraft Launched MRBM"
+"anti_ballistic_missile_DESC" LANG "The SAM complexes were made at first to defend against strike aircraft, but over time, ballistic and winged missiles became number one for priority targets. But, unfortunately, early versions of ABM complexes demonstrated insufficient effectiveness. The speed and flight trajectory of ballistic missiles is noticeably different from aircraft. For more accurate results, all the systems needed to be modernized. Another exclusively important part of anti-missile defense is an early warning system. It's a complex of beyond-the-horizon radars that can track the trajectory of ballistic missiles long before they reach target. Without such a radar system, no anti-air defense will be effective."
+"anti_ballistic_missile_NAME" LANG "ABM"
+"ASAT_DESC" LANG "It makes sense that the next stage of developing anti-air systems is making anti-satellite weapons. With the appearance of modernized space defense complexes and exoatmospheric air-based missiles, attacking targets in space is becoming not only possible, but feasible. In a crisis, such a weapon would be able to blind the enemy and take out up to 80% of the satellite network. It's worth noting that the first military use of an antisatellite weapon system could provoke a nuclear-missile strike in response.\n\nThe ASAT missile is launched by undeground missile silo, mobile ICBM platform or Cruiser.\n\nRequires Space Radar to detect a satellite and guide the missile."
+"ASAT_NAME" LANG "ASAT"
+"ASM_Mk2_DESC" LANG "The experimental targeting equipment, called \"fire-and-forget\" has sharply increased the ASM-ordnance's accuracy. Instead of massive carpet bombing to guarantee a target's destruction, there is now the possibility to destroy a specific target using attack aircraft outside AA zones. The inaccuracy in relative terms of the new devices and fairly difficult steering in intense weather conditions can by compensated for by duplicate launches.\n\nThis increases the accuracy and improves the destructive effects of the missiles."
+"ASM_Mk2_NAME" LANG "Advanced ASM"
+"AWACS_DESC" LANG "The long-range radar relay aviation complex solved the problem of radar signals on the battlefield in hard-to-reach areas.\nCarrier aircraft that have energy-efficient engines for long-duration flights and sufficiently powerful electronics systems to power their equipment control airspace in a greater than 500 km radius. However, these \"flying radars\" are extremely vulnerable if they're attacked and need to be protected by SAM or fighter planes."
+"AWACS_NAME" LANG "AWACS"
+"Cruise_missiles_DESC" LANG "A cruise missile is a guided missile used against surface land and naval targets that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. The new aerodynamic profiles allows for cruise missile programmed to vary their altitude and speed, which greatly decreases their vulnerability to traditional AA defenses. But the small amount of fuel and somewhat limited navigation systems do not allow them to execute complex maneuvers close to their targets, even though they qualify as SSM missiles.\n\nSignificantly increases the accuracy of SSM missiles."
+"Cruise_missiles_NAME" LANG "Cruise Missile"
+"False_warheads_DESC" LANG "The completion of combined anti-missile weapons systems led to separate missiles being too vulnerable to AA systems. So, this led to a combination of MIRVs containing a combination of real nukes with real targets, with a group of decoy warheads that imitate individually steered warheads. In practice this showed that 4 additional targets per missile seriously overwhelms ABM systems and decreases the risk of warheads being shot down."
+"False_warheads_NAME" LANG "False Warheads"
+"Heavy_Missiles_DESC" LANG "The super heavy nuclear warhead missiles can carry thermonuclear warheads with up to 10Mt loads and have much greater range than the 1Mt missiles.\nSeparating warheads with individual trajectories require a powerful payload, so only the recent generation of missile systems can be used for MIRVs. The different complexities in use and high cost of manufacture don't let even the richest governments create a large amount of these missiles."
+"Heavy_Missiles_NAME" LANG "Heavy Rockets"
+"Hypersonic_missiles_DESC" LANG "Hypersonic ballistic missiles have a cruising speed of Mach 5-10 which makes their being caught by standard AA almost impossible. The unique accelerating characteristics have seriously affected the flight range and accuracy, but due to the difficulty to control them and maintain their HSM, they are primarily installed on naval platforms. A series of experimental launches of hypersonic air-based missiles also confirmed the possibility of using them on bombers, as well as aircraft carrier planes, but when you consider the cost of their systems, the use of these air-based HSM nuclear-tipped missiles is limited.\n\nThis substantially increases the speed and range of the SSM missiles, including tactical, nuclear-tipped, naval-based missiles, and air-based nuclear missiles. Hypersonic missiles are almost impossible to shoot down."
+"Hypersonic_missiles_NAME" LANG "Hypersonic Missiles"
+"ICBM_DESC" LANG "Increased rocket power, and the combining of several rockets into one vehicle noticeably increased the range and useful load of ballistic exoatmospheric missiles. After several unsuccessful attempts, a reliable weapon that can assure destruction of a target anywhere on the planet was finally achieved. The new type of strategic weaponry has been called inter-continental, or ICBM."
+"ICBM_NAME" LANG "ICBM"
+"Improved_optics_DESC" LANG "Replacing the optic system with an optic-electronic one and using panchromatic, infrared and multispectral images together fixed almost all the simple problems the satellites had. Now, the orbital satellites can control both space and hidden objects on the surface which completely prevents a surprise missile attack.\n\nThe satellite observation radius is increased."
+"Improved_optics_NAME" LANG "Advanced Optics"
+"Laser_weapon_DESC" LANG "The most likely upcoming energy weapon is a laser weapon. But it has limited use even in thin atmospheres. However, there's the possibility of using concentrated laser beams in space on a target to cause an explosion. Low-power lasers are used to blind and desync satellites. Strong lasers with nuclear cores can theoretically destroy warheads while they're in the space stage of their trajectory."
+"Laser_weapon_NAME" LANG "Laser Space Weapons"
+"LW_Mk2_DESC" LANG "Long-wave radar systems were considered \"old\" for a long time when compared to more compact decimeter and centimeter radars. The bulky, meter-wide radars could not be placed on mobile chassis which meant they could only be stationary radar systems. And they seriously depend on the weather conditions and ionosphere activity. However, reflected wave technology brought these old radars back to life. They're the only ones that can identify objects at the maximum distance.\n\nLong-wave radars are used to detect the potential targets at long distance, but they are not very precise.\nIf you invest into LW radars your units will see the enemy at longer distances, but to attack a small moving targets like aircraft, you need the SW radar instead.\n\nIncreases the operating radius of long-wave radar."
+"LW_Mk2_NAME" LANG "Improved LW Radar"
+"LW_Mk3_DESC" LANG "Dual circuit radar with repeated beam reflections off the Earth's ionosphere increased the discovery range of strategic targets to thousands of kilometers. The essentially integrated system of similar radar with a reliable power source can control the air space across the whole planet. However, the constructive lack of these systems remains unchanged. The massive size and absolute susceptibility to micro-target airstrikes like those by drones or special raid groups.\n\nLong-wave radars are very good at detecting big targets at long distance, but if you need to improve the efficiency of your SAMs, look at the SW radars!\n\nIncreases the operating radius of long-wave radar."
+"LW_Mk3_NAME" LANG "Advanced LW Radar"
+"M_10M_THERMONUCLEAR_BOMB_DESC" LANG "A 10 megaton thermonuclear bomb, delivers death and destruction."
+"M_10M_THERMONUCLEAR_BOMB_NAME" LANG "10 Megaton bomb"
+"M_1M_NUCLEAR_BOMB_DESC" LANG "A 1 megaton TNT equivalent A-Bomb carried by Strategic Bomber. Primary role is to destroy enemy cities."
+"M_1M_NUCLEAR_BOMB_NAME" LANG "Megaton bomb"
+"M_1M_WARHEAD_FALSE_NAME" LANG "1M Warhead"
+"M_1M_WARHEAD_NAME" LANG "1M Warhead"
+"M_500K_WARHEAD_NAME" LANG "500K Warhead"
+"M_50M_THERMONUCLEAR_BOMB_DESC" LANG "A city-killer 50 megaton Tsar-bomb. One is enough to completely raze even the biggest city."
+"M_50M_THERMONUCLEAR_BOMB_NAME" LANG "50 Megaton bomb"
+"M_Air_to_air_missile_NAME" LANG "AAM"
+"M_Air_to_surface_missile_NAME" LANG "ASM"
+"M_Aircraft-launched_MRBM_DESC" LANG "A tactical nuclear missile launched from an aircraft."
+"M_Aircraft-launched_MRBM_NAME" LANG "ALBM"
+"M_anti_ballistic_missile_NAME" LANG "ABM"
+"M_ASAT_DESC" LANG "A missile designed to destroy enemy satellites."
+"M_ASAT_NAME" LANG "ASAT"
+"M_FREE_FALL_BOMB_NAME" LANG "Bomb"
+"M_ICBM_10M_DESC" LANG "A heavy ICBM equipped with 10 megaton thermonuclear warhead."
+"M_ICBM_10M_NAME" LANG "10 Megaton ICBM"
+"M_ICBM_1M_DESC" LANG "An ICBM equipped with 1 megaton nuclear warhead."
+"M_ICBM_1M_NAME" LANG "Megaton ICBM"
+"M_ICBM_MIRV_DESC" LANG "A heavy ICBM equipped with three splitting thermonuclear warheads, 1 megaton each."
+"M_ICBM_MIRV_FALSE_DESC" LANG "A heavy ICBM equipped with four megaton warheads and four false targets to saturate the enemy anti-missile defence."
+"M_ICBM_MIRV_FALSE_NAME" LANG "4x1M+4F MIRV ICBM"
+"M_ICBM_MIRV_NAME" LANG "3x1M MIRV ICBM"
+"M_Laser_weapon_NAME" LANG "Laser"
+"M_MRBM_DESC" LANG "A medium-range missile equipped with a 100 kiloton TNT equivalent nuclear warhead."
+"M_MRBM_NAME" LANG "MRBM"
+"M_NUCLEAR_BOMB_DESC" LANG "A 100 kiloton TNT equivalent A-Bomb, can be carried by Strategic Bomber or Attack Bomber to destroy the protected military facilities."
+"M_NUCLEAR_BOMB_NAME" LANG "Nuclear Bomb"
+"M_SRBM_NAME" LANG "SRBM"
+"M_SUB_MRBM_DESC" LANG "A ballistic missile capable of being launched from submarines.\n\nEquipped with a single 500 kilotons TNT equivalent nuclear warhead or 3 splitting 500 kiloton warheads (with MIRV technology)."
+"M_SUB_MRBM_NAME" LANG "SLBM"
+"M_Surface_to_air_missile_NAME" LANG "SAM"
+"M_Surface_to_surface_missile_NAME" LANG "SSM"
+"M_TORPEDO_NAME" LANG "Torpedo"
+"M_DEPTH_CHARGE_NAME" LANG "Depth Charge"
+
+"M_EW_NAME" LANG "Jamming Device"
+"M_Air_to_air_missile_DESC" LANG "Air-to-air missile, the primary weapon in any aerial dogfight."
+"M_Air_to_surface_missile_DESC" LANG "Air-to-surface missile, used by aircraft against naval or land targets."
+"M_anti_ballistic_missile_DESC" LANG "Anti-ballistic missile - a missile capable of intercepting ballistic missiles, including those equipped with nuclear warhead."
+"M_FREE_FALL_BOMB_DESC" LANG "A heavy free falling bomb, crude and not very effective."
+"M_Laser_weapon_DESC" LANG "Satellite-based laser weapon, used to intercept ballistic missiles in space."
+"M_SRBM_DESC" LANG "Short range ballistic missiles - a tactical nuclear weapon with a low-yield warhead, best used against military targets."
+"M_Surface_to_air_missile_DESC" LANG "Surface-to-air missile - a primary weapon to protect land or naval units against enemy aircraft."
+"M_Surface_to_surface_missile_DESC" LANG "Surface-to-surface missile - a short range missile launched from naval or land units to attack enemy naval or land units."
+"M_TORPEDO_DESC" LANG "Torpedo is an effective weapon in naval engagement."
+"M_DEPTH_CHARGE_DESC" LANG "Depth charge is a special weapon used against submarines."
+"M_EW_DESC" LANG "A set of electromagnetic measures targeted to limit the functionality of enemy sensors."
+
+"Maneuring_missiles_DESC" LANG "Maneuverable missiles have improved engines and tilted, aerodynamic elements. These new SSMs can change their flight parameters and maneuver in AA areas until they strike. Shooting down the missiles is harder overall now, but the cruising speed remains unchanged.\n\nIt's now harder to shoot down the missiles and their range is increased by 10%."
+"Maneuring_missiles_NAME" LANG "Maneuvering Missiles"
+"Mega-warheads_DESC" LANG "The technology to quickly split an atom when special parts are disrupted allow for increasing the maximum power of TNWs to 50 mt. However, such destructive weapons don't fulfill the demand for operational plans since they leave a gigantic scorched area behind. However, the change to a spherical second-level container opened the way for comparatively compact missile tips with loads up to 10 mt."
+"Mega-warheads_NAME" LANG "Boosted fission weapon"
+"MIRV_DESC" LANG "The improvement of ICBM engines provided the opportunity to seriously increase the mass of the payload. The abundant power of a single thermonuclear blast has not always corresponded to the destructive goals and the designers suggested putting in several separating TNW charges. Such missiles have been unofficially called \"city killers\"."
+"MIRV_NAME" LANG "MIRV"
+"MOBILE_ICBM_DESC" LANG "The effectiveness of the first missile launch facilities noticeably decreased as did the low maneuverability of the tow cars and the insufficient load capacity. Designing a better chassis led to successfully solving some problems. The new mobile complexes could operate in difficult to access areas and powerful gas turbine engines and new-generation diesel engines let the mobile ground missile system transport even heavy ICBMs."
+"MOBILE_ICBM_NAME" LANG "ICBM Vehicle"
+"MOBILE_MRBM_DESC" LANG "Advanced solid-fuel engines led to simplifying the production of MRBM and greatly decreased the time for pre-launch preparations. However, the enemy had the opportunity to find and destroy the vigilant missile silos in a surprise attack. So, the next step logically was a reaction to this vulnerability. Mobile launch complexes needed to be developed."
+"MOBILE_MRBM_NAME" LANG "Missile Vehicle"
+"Mobile_SAM_DESC" LANG "The main weakness of SAM complexes is their lack of mobility. Enemy scouts have fairly quickly revealed the location of launching compounds, and detection and resistance radars which led to dangerous gaps in the ABM system perimeter in a preventative attack.\nLocal conflicts have shown the real need to make mobile anti-air complex on track or wheel chassis."
+"Mobile_SAM_NAME" LANG "Mobile SAM"
+"MRBM_DESC" LANG "The space race by the superpowers helped develop reliable rocket motors to take useful loads into orbit. R&D of all necessary technologies from heat resistant material for ignition chambers and pipes to highly aggressive oxidizing chemicals provided the possibility to start mass production of the first military missiles."
+"MRBM_NAME" LANG "MRBM"
+"NUCLEAR_SUBMARINE_DESC" LANG "Nuclear-powered submarines have a unique ability to be underwater for up to 6 months at a time. New naval doctrines quickly requalified submarines as underwater missile carriers instead of the classic status of radar and special operations ships. Nuclear submarines cruise at a specific depth, are always ready for battle and remain practically unreachable by the enemy's anti-naval weaponry."
+"NUCLEAR_SUBMARINE_NAME" LANG "SSBN"
+"OVER_HORIZON_RADAR_DESC" LANG "The off the charts speed of ballistic missiles has decreased the flight time to just dozens of minutes which essentially precludes the defender from a second shot if the first misses.\nThe time to calculate the missiles projected flight path was significant, especially if it was a MIRV, so in response there was a dire need for effective early warning technology.\nThe ionospheric wave effect allowed for the creation of a suitable radar system for the VHF band which uses ionosphere reflected probing beams.\nWithout a complex of beyond-the-horizon radars, the missile defense system can't fulfill all its objectives."
+"Over_horizon_radar_Mk2_DESC" LANG "The space-distributed complex of beyond-the-horizon radars in the system has ushered in a new era in the conception of long and super-long-range detection. The newest technology  increases the effective range of OVH radar to breathtaking levels. In addition, the utilized frequency range is for all intents not significantly affected by so-called stealth technology, that counts on the absorption of centimeter and sometimes decimeter waves.\n\nIt increases the range of detection for enemy missiles."
+"Over_horizon_radar_Mk2_NAME" LANG "Early Warning System"
+"OVER_HORIZON_RADAR_NAME" LANG "Over-the-horizon Radar"
+"Powerful_Engine_DESC" LANG "Diesel powered war-ship engines have been used since WWII. But today nonreversible diesel engines are still used with regulated propellers that have decent dynamic accelerating properties. But in modern war conditions, the noticeable engine noise at full throttle completely and fatally reveals the ship to even passive sonar.\n\nIncreases the speed on surface ships, but substantially increases the chance to be detected by a submarine’s sonar equipment.\nIncreases the range of torpedoes."
+"Powerful_Engine_Mk2_DESC" LANG "The increased fuel cost in gas-turbine engines is more than offset by the huge service life of the engines. Besides that, the accelerating dynamics of even large ships is noticeably better when using them. Work on decreasing the noise helped lessen the sonar visibility to acceptable values.\n\nIncreases the speed of surface ships but doesn't increase the range of being discovered by submarines.\nFurther increases the range of torpedoes."
+"Powerful_Engine_Mk2_NAME" LANG "Improved Powerful Engines"
+"Powerful_Engine_Mk3_DESC" LANG "Nuclear main propulsion machinery is considered the pinnacle of development in ship engines because its highly efficient water-cooled reactor provides almost unlimited range and acceleration in any maneuvers. Unfortunately, the giant size of the nuclear main propulsion machinery and substantial anti-radiation protection covering doesn't let them be used on ships smaller than 1st class, meaning only on aircraft carriers, heavy cruisers and major anti-submarine ships.\n\nIncreases the speed of surface ships but doesn't increase the range of being discovered by submarines."
+"Powerful_Engine_Mk3_NAME" LANG "Advanced Powerful Engines"
+"Powerful_Engine_NAME" LANG "Powerful Engines"
+"R_CAMERA_NAME" LANG "Camera"
+"R_LONG_WAVE_RADAR_NAME" LANG "LW Radar"
+"R_Over_horizon_radar_NAME" LANG "Overhorizon"
+"R_SHORT_WAVE_RADAR_NAME" LANG "SW Radar"
+"R_SONAR_NAME" LANG "Sonar"
+"R_Space_radar_NAME" LANG "Space radar"
+"R_Space_radar_OTH_NAME" LANG "Overhorizon"
+"R_VISOR_NAME" LANG "Visor"
+"SAM_Mk2_DESC" LANG "From the very advent of anti-air missile defense systems, constructive thought has constantly focused on aircraft capabilities and was able at times to find a few workable solutions. So, AAM systems had to be constantly reviewed and revised to keep pace with the attackers capabilities. First, their computational power, projectile aerodynamics and fuel mixtures were cconsidered. In the end, the target location range, and flight speed were increased and additional types of steering were added. Some of the especially successful designs in ideal conditions work according to fire-and-forget protocol.\n\nIt increases the range and speed of the missiles and the amount of simultaneously acquired and maintained targets."
+"SAM_Mk2_NAME" LANG "Advanced SAM"
+"SATELLITE_DESC" LANG "The Earth's first artificial satellites didn't carry much in the way of technically refined detection equipment, but the military quickly understood the potential of these orbital objects. This essentially unreachable surveillance platform could observe a huge amount of the enemy's territory which would force him to constantly spend resources on relocating key targets. Completely realizing the potential of satellite observation was hindered by the early lack of suitable optic material, thus reducing the clarity of imagery in the early days.  This however has evolved greatly with the passage of time."
+"SATELLITE_NAME" LANG "Satellite"
+"SILENT_ENGINE_DESC" LANG "To successfully maneuver in a zone with possible sonar equipment, noise reduction from the engines on strike submarines has been of paramount concern. However, for submarines a reduction in noise has been paid for with low speed and a limited operational range. This won't work during wartime operations.\n\nDecreases the effectiveness of enemy sonar equipment.\nIncreases the range of torpedoes."
+"Silent_Engine_Mk2_DESC" LANG "Development of noise cancelling technologies and material led to the creation of special granules made from new noise cancelling materials in the submarine hull. In accordance with the required parameters, the noise was successfully decreased by almost 100 times without decreasing the cruising speed. The main limitations of these coverings are the extensive R&D requirement, increased production complexity and a large cost.\n\nDecreases the range of enemy sonar equipment and increases the submarine's speed.\nFurther increases the range of torpedoes."
+"Silent_Engine_Mk2_NAME" LANG "Improved Silent Engines"
+"Silent_Engine_Mk3_DESC" LANG "While moving underwater at high speeds there's a certain danger for submarines due to the cavitation effect, which can make the submarine audible, especially for propellers where rotational speeds can reach 200 rpm. But even using low rpm propellers doesn't give full protection from detection by decloaking air caverns. Only high-tech material propellers with minimal launching solved the multi-year problem.\n\nDecreases the range of enemy sonar equipment and increases the submarine's speed.\nFurther increases the range of torpedoes."
+"Silent_Engine_Mk3_NAME" LANG "Advanced Silent Engines"
+"SILENT_ENGINE_NAME" LANG "Silent Engines"
+"Space_radar_DESC" LANG "The explosive mastery of space expectedly led to the creation of many satellites in orbit to solve various problems including observation and weaponry. The enemy is focusing on concealing the strike and observation satellites by using hard-to-detect orbits or in general is hiding their launches with fake information about launch accidents, so the appearance of a space control complex is an absolutely expected result."
+"Space_radar_NAME" LANG "Space Radar"
+"Stealth_aircrafts_DESC" LANG "Complex solutions to decrease the visibility of aircraft has been called \"stealth\" technology in the media. Compound radio coverage, a distorting profile, and engine and reactive muzzle protection led to a distinct decrease in visibility in radio and infrared frequencies. But the extreme cost for the joint work according to stealth standards does not imply that there has been the achievement of completely shrouded flight.\n\nIt substantially decreases the range of aircraft radar equipment, especially short-wave, which decreases their chances of being shot down."
+"Stealth_aircrafts_NAME" LANG "Stealth Aircraft"
+"Surface_to_air_missile_DESC" LANG "Increasing speeds of strike aircraft and incredible expansion of the use of air power made clear to all after the end of WWII the need for monumental rebuilding of anti-air defenses at all levels.\nA result of the modernization of radar and increase in fighter capabilities resulted in a change away from anit-air artillery, moving instead to ground-to-air missiles. Despite the limitations in early years of the missiles and control options, the percent of successful strikes quickly grew to 15-20%."
+"Surface_to_air_missile_NAME" LANG "SAM"
+"SW_Mk2_DESC" LANG "The first experiments with short-wave radar showed its significant efficiency. The decreased energy consumption and compact design allows for making mobile radar systems. Sealed military reports contain the term \"radio-locating maneuver\" which meant a very fast way to expand the zone of control.\n\nShort-wave radar allows your units to lock on a small moving target like aircraft or missile and shoot it down.\nInvest into SW radars if you want to give your units an advantage against enemy jets. It is even more important to have the best possible SW radars if your enemy possesses the Stealth technology.\n\nIncreases the operating radius of short-wave radars."
+"SW_Mk2_NAME" LANG "Improved SW Radar"
+"SW_Mk3_DESC" LANG "Reflected radar waves help determine more than the distance to the target. Using the Doppler effect, computing radar equipment can calculate the speed of an object, its dynamic characteristics and approximate its size and even the materials it’s made from. Powerful program support and prepared profiles with given parameters substantially increases the range of finding even stealth targets.\n\nShort-wave radars give the precision required to fire a missile against enemy aircraft.\n\nInvest into this technology if you need to oppose the Stealth airplanes!\n\nIncreases the operating radius of short-wave radars."
+"SW_Mk3_NAME" LANG "Advanced SW Radar"
+"Tactical_nukes_DESC" LANG "Some tasks suitable for nuclear weapons didn't need the impressive power that TNWs have. After a brief experimentation with super small charges, universal compact weapons with 0.5 to 5 kt payloads were developed for tactical purposes for land and naval use to be used by high-power artillery systems and winged missiles both sea and air based. The low cost and simple construction led to a large amount of stockpiled weapons."
+"Tactical_nukes_NAME" LANG "Tactical Nuclear Weapons"
+"THERMONUCLEAR_BOMB_DESC" LANG "Thermonuclear weapons that are based on nuclear fusion reactions have theoretically unlimited power. At a comparable mass, a deuterium core gives a tenfold increase in the explosive energy when compared to a standard nuclear explosion and up to 10 mt of the TNT equivalent. Some types of TNWs leave far fewer radioactive particles than uranium and plutonium blasts, so the rate of radiation poisoning in the affected area will dissipate more quickly after an attack."
+"THERMONUCLEAR_BOMB_NAME" LANG "Thermonuclear Bomb"
+"U_AIRPORT_DESC" LANG "An air base is an facility with one or more runways, used as a military base by a military force for the operation of military aircraft.\n\n\n+ Hosts Fighters and Bombers.\n+ Has its own Radar facilities.\n- Difficult to miss target."
+"U_AIRPORT_NAME" LANG "Air base"
+"U_ATTACK_DESC" LANG "An attack bomber is a tactical military aircraft that has a primary role of carrying out airstrikes with greater precision than bombers, and is prepared to encounter strong low-level air defenses while pressing the attack. This class of aircraft is designed mostly for naval air-to-surface missions, overlapping the tactical bomber mission.\n\n\n+ Can carry Nuclear Weapons.\n+ Difficult to intercept.\n- Not as capable in aerial battles."
+"U_ATTACK_NAME" LANG "Attack Bomber"
+"U_AWACS_CARRIER_DESC" LANG "The naval version of the AEW&C system is the combination of an airborne radar picket system and a dipping sonar system that provides AEW coverage for the naval task force. It is designed to detect aircraft, ships and submarines at long ranges. AEW&C units are also used to carry out surveillance, including over ground targets. When used at altitude, the radar on the aircraft allows the operators to detect and track targets and distinguish between friendly and hostile aircraft much farther away than a similar ground-based radar.\n\n\n+ Very long detection range.\n+ Can also track the enemy missiles.\n+ Can detect enemy submarines.\n- No defence."
+"U_AWACS_CARRIER_NAME" LANG "Carrier AEW&C"
+"U_AWACS_DESC" LANG "An airborne early warning and control (AEW&C) system is an airborne radar picket system designed to detect aircraft, ships and vehicles at long ranges and establish command and control of the battlespace in an air engagement by directing fighter and attack aircraft strikes. AEW&C units are also used to carry out surveillance, including over ground targets. When used at altitude, the radar on the aircraft allows the operators to detect and track targets and distinguish between friendly and hostile aircraft much farther away than a similar ground-based radar.\n\n\n+ Very long detection range.\n+ Can also track the enemy missiles.\n- No defence."
+"U_AWACS_NAME" LANG "AWACS"
+"U_BOMBER_DESC" LANG "A strategic bomber is a long-range penetration bomber aircraft designed to drop large amounts of air-to-ground weaponry onto a distant target for the purposes of debilitating the enemy's capacity to wage war.\n\n\n+ Very long range.\n+ Can carry even the heaviest bombs.\n- No defence."
+"U_BOMBER_NAME" LANG "Bomber"
+"U_CARRIER_DESC" LANG "An aircraft carrier is a warship that serves as a seagoing airbase, equipped with a full-length flight deck and facilities for carrying, arming, deploying, and recovering aircraft.\n\nTypically, it is the capital ship of a fleet, as it allows a naval force to project air power worldwide without depending on local bases for staging aircraft operations.\n\nBy its diplomatic and tactical power, its mobility, its autonomy and the variety of its means, the aircraft carrier is often the centerpiece of modern combat fleets. Tactically or even strategically, it replaced the battleship in the role of flagship of a fleet.\n\n\n+ Carries Nuclear weapons (bombs and ALBMs).\n- Vulnerable to submarines.\n- No Anti-Missile defence.\n- Expensive."
+"U_CARRIER_NAME" LANG "Carrier"
+"U_CITY_NAME" LANG "City"
+"U_CRUISER_DESC" LANG "In the later 20th century, the obsolescence of the battleship left the cruiser as the largest and most powerful surface combatant after the aircraft carrier. The role of the cruiser varied according to ship and navy, often including air defense and shore bombardment. Cruisers have heavy anti-ship missile armament designed to sink carrier task forces via saturation attack.\n\n\n+ Great firepower.\n+ Can carry Tactical Nuclear Missiles.\n+ Anti-Air defence.\n+ Can carry ASAT missiles.\n- No Anti-Missile defence.\n- Vulnerable to submarines."
+"U_CRUISER_NAME" LANG "Cruiser"
+"U_DESTROYER_DESC" LANG "In naval terminology, a destroyer is a fast, maneuverable, long-endurance warship intended to escort larger vessels in a fleet, convoy or battle group and defend them against powerful short range attackers.\n\nAt the start of the 21st century, destroyers are the global standard for surface combatant ships.\n\n\n+ Cheap to build.\n+ Anti-Air and Anti-Missile defence.\n- Does not carry Nuclear Weapons."
+"U_DESTROYER_NAME" LANG "Destroyer"
+"U_FIGHTER_Carrier_NAME" LANG "Carrier fighter"
+"U_FIGHTER_DESC" LANG "A fighter aircraft is a military fixed-wing aircraft designed primarily for air-to-air combat against other aircraft. The key performance features of a fighter include not only its firepower but also its high speed and maneuverability relative to the target aircraft.\n\nThe fighter's main tactical purpose is to establish air superiority over the battlefield.\n\n\n+ Great speed and maneuverability.\n+ Heavy Air-to-Air armament.\n+ Can carry ALBMs.\n- Short range.\n- Limited use against surface targets."
+"U_FIGHTER_NAME" LANG "Fighter"
+"U_LONG_WAVE_RADAR_DESC" LANG "Radar is a detection system that uses radio waves to determine the range, angle, or velocity of objects. It can be used to detect aircraft, ships, spacecraft, guided missiles, motor vehicles, weather formations, and terrain."
+"U_LONG_WAVE_RADAR_NAME" LANG "Radar Site"
+"U_Missile_Silo_DESC" LANG "A missile launch facility, also known as an underground missile silo, is a vertical cylindrical structure constructed underground, for the storage and launching of intercontinental ballistic missiles (ICBMs).\n\n\n+ Can launch even the heaviest missiles.\n+ Difficult to detect.\n- Gives out its location when launches a missile."
+"U_Missile_Silo_NAME" LANG "Missile silo"
+"U_Mobile_ICBM_DESC" LANG "A heavy Missile vehicle, capable of transporting and launching ICBM and ASAT missiles.\n\n\n+ Can reposition anywhere inside your territory.\n- Cannot carry the heavy missiles."
+"U_Mobile_ICBM_NAME" LANG "ICBM vehicle"
+"U_Mobile_MRBM_DESC" LANG "Missile vehicles be used to transport or launch missiles, essentially a form of rocket artillery.\n\n\n+ Can reposition anywhere inside your territory.\n- MRBMs are easier to intercept."
+"U_Mobile_MRBM_NAME" LANG "Missile vehicle"
+"U_Mobile_SAM_DESC" LANG "Anti-aircraft weapon systems installed on the mobile platform, so it can be repositioned to strengthen the air defence where required.\n\n\n+ Can reposition anywhere inside your territory.\n- More expensive to build than the fixed SAM site."
+"U_Mobile_SAM_NAME" LANG "Mobile SAM"
+"U_Nuclear_Submarine_DESC" LANG "A ballistic missile submarine is a submarine capable of deploying submarine-launched ballistic missiles (SLBMs) with nuclear warheads.\n\n These submarines became a major weapon system in the Cold War because of their nuclear deterrence capability. They can fire missiles thousands of kilometers from their targets, and acoustic quieting makes them difficult to detect, thus making them a survivable deterrent in the event of a first strike and a key element of the mutual assured destruction policy of nuclear deterrence.\n\n\n+ Carries Nuclear weapons (SLBMs).\n- Can launch missiles only when surfaced.\n- Limited defence capabilities."
+"U_Nuclear_Submarine_NAME" LANG "SSBN"
+"U_Over_horizon_radar_DESC" LANG "Over-the-horizon radar, or OTH is a type of radar system with the ability to detect targets at very long ranges, beyond the radar horizon, which is the distance limit for ordinary radar.\n\nThe primary role is to detect the incoming enemy missiles long before they reach your territory, so your missile defence has time to intercept them.\n\n\n+ Extremely long missile detection range.\n+ Precisely calculates the launch source.\n- Only detects ballistic missiles."
+"U_Over_horizon_radar_NAME" LANG "Over-the-horizon radar"
+"U_SAM_SITE_DESC" LANG "Anti-aircraft weapon systems, associated sensor systems and command and control arrangements to protect your homeland.\n\nCan be extended to the Missile defence to perform the task of intercepting any projectile in flight.\n\n\n+ Intercepts enemy aircrafts.\n+ Intercepts missiles (with ABM technology).\n+ Cheap to build.\n- Cannot see missiles without the OTH radar support."
+"U_SAM_SITE_NAME" LANG "SAM site"
+"U_Satellite_DESC" LANG "A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.\n\nCan be equipped with the laser weapon systems to intercept the enemy warheads in flight."
+"U_Satellite_NAME" LANG "Satellite"
+"U_SHORT_WAVE_RADAR_NAME" LANG "SW Radar"
+"U_Space_radar_DESC" LANG "The Space Surveillance Radar detects, tracks, catalogs and identifies artificial objects orbiting Earth.\nIt is the essential component of the Anti-Satellite weapon systems."
+"U_Space_radar_NAME" LANG "Space radar"
+"U_SUBMARINE_DESC" LANG "A submarine (or sub) is a watercraft capable of independent operation underwater.\nAlthough experimental submarines had been built before, submarine design took off during the 19th century, and they were adopted by several navies. Submarines were first widely used during World War I (1914–1918), and are now used in many navies large and small. Military uses include attacking enemy surface ships (merchant and military), or other submarines, aircraft carrier protection, blockade running and reconnaissance.\n\n\n+ Can sneak past the enemy's defences.\n- Limited attack possibilities."
+"U_SUBMARINE_NAME" LANG "Submarine"
+
+END
+
+----------------------------------
+
+USE PREVIOUS "LANG/Rus/tech_t1.lng"
+
+"U_Cavern" LANG "Cavern Airfield"
+"U_Cavern_DESC" LANG "Underground Airfield facilities provide better protecition against the effects of weapons deployed against this structure. However, this limits the size of the aircraft that can be stored in the caverns."
+"U_Cavern_NAME" LANG "Cavern Airfield"
+
+"U_BATTLECRUISER_NAME" LANG "Heavy surface combatant"
+"U_BATTLECRUISER_DESC" LANG "Heavy surface combatans refer to both battleships still used as gun platforms during the early cold war as well as a class of nuclear-powered guided missile cruisers of the Soviet Navy and Russian Navy, the largest and heaviest surface combatant warships in operation in the world. Among modern warships, they are second in size only to large aircraft carriers, and of similar size to a World War I era battleship."
+
+"U_ATTACK_NAME" LANG "Multirole combat aircraft"
+"U_ATTACK_DESC" LANG "A multirole combat aircraft (MRCA) is a combat aircraft intended to perform different roles in combat.A multirole fighter is a multirole combat aircraft which is, at the same time, also a fighter aircraft; in other words, an aircraft whose various roles include, among others, the role of air-to-air combat."
+
+"U_AIRPORT_NAME" LANG "Strategic Airbase"
+"U_AIRPORT_DESC" LANG "An airbase which host strategic bombers and interceptors"
+
+"U_AIRPORT2_NAME" LANG "Tactical Airbase"
+"U_AIRPORT2_DESC" LANG "An airbase which hosts interceptors as well as fighter-bombers"
+
+"U_AIRPORT3_NAME" LANG "Naval Air Station"
+"U_AIRPORT3_DESC" LANG "A naval air station is a military air base, and consists of a permanent land-based operations locations for the military aviation division of the relevant branch of a navy. These bases are typically populated by squadrons, groups or wings, their various support commands, and other tenant commands."
+
+"U_AIRPORT4_NAME" LANG "Special Operations Airbase"
+"U_AIRPORT4_DESC" LANG "An airbase which hosts strategic transports and Reconnaissance aircraft."
+
+"U_LHA_NAME" LANG "Amphibious Assault Ship"
+"U_LHA_DESC" LANG "An amphibious assault ship is a type of amphibious warfare ship employed to land and support ground forces on enemy territory by an amphibious assault. Modern ships support amphibious landing craft, with most designs including a well deck. Coming full circle, some amphibious assault ships also support V/STOL fixed-wing aircraft, now having a secondary role as aircraft carriers."
+
+"ASM1_M_NAME" LANG "Air-to-surface missile"
+"ASM1_M_DESC" LANG "An air-to-surface missile is a missile designed to be launched from military aircraft at targets on land or sea.The two most common propulsion systems for air-to-surface missiles are rocket motors, usually with shorter range, and slower, longer-range jet engines. Some air-to-surface missiles are powered by ramjets, giving them both long range and high speed."
+
+"M_CONV_CRUISE_NAME" LANG "Conventional Cruise Missile"
+"M_CONV_CRUISE_DESC" LANG "A cruise missile is a guided missile using GPS guidance and used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances with high precision. Modern cruise missiles are capable of travelling at supersonic or high subsonic speeds, are self-navigating, and are able to fly on a non-ballistic, extremely low-altitude trajectory."
+
+"M_NUKE_CRUISE_NAME" LANG "Nuclear Cruise Missile"
+"M_NUKE_CRUISE_DESC" LANG "Cruise missiles armed with nuclear warheads were first became operational and used by soviet strategic bombers against NATO naval groups.Later with the emergance of GPS they became a viable weapon against surface targets"
+
+"M_SHIP_SHIP_NAME" LANG "Противокорабельная ракета"
+"M_SHIP_SHIP_DESC" LANG "Противокорабельная ракета — это управляемая ракета, предназначенная для применения против кораблей и крупных катеров. Большинство противокорабельных ракет относятся к типу скользящих по морю, и многие из них используют комбинацию инерциального наведения и активного радиолокационного самонаведения. Многие другие противокорабельные ракеты используют инфракрасное самонаведение, чтобы следовать за теплом, излучаемым кораблем; также возможно наведение ПКР."
+
+"CVN_FR_NAME" LANG "Carrier-capable Fighter"
+"CVN_FR_DESC" LANG "Carrier capable fighters are the primary defense of a carrier, tasked with intercepting attacks against the carrier and ensuring air superiority that enables the carrier to perform its operations. Many fighters can be re-fitted for multiple roles, allowing them to participate in all types of operations once air superiority is achieved."
+
+"CVN_AWACS_NAME" LANG "Carrier-capable AWACS"
+"CVN_AWACS_DESC" LANG "Typically smaller than their land-based equivalents, carrier-based AEW&C (AWACS) offer the same ability for a carrier to get a picture of the battlespace around them, combining both exceptional airborne early warning and command and control, battle management capabilities essential for both attack and defense."
+
+"CVN_ASW_NAME" LANG "ASW Helicopter"
+"CVN_ASW_DESC" LANG "Anti-Submarine Warfare helicopters provide naval fleets with the ability to track down and eliminate otherwise hidden submarines before they can strike. Utilising a range of technologies such as torpedoes, dipping sonars, and sonobuoys, ASW are hunter-killers that keep the fleet safe by turning would-be predators in to prey."
+
+"ASW_NAME" LANG "Maritime patrol aircraft"
+"ASW_DESC" LANG "A maritime patrol aircraft (MPA), also known as a patrol aircraft, maritime reconnaissance aircraft, or by the older American term patrol bomber, is a fixed-wing aircraft designed to operate for long durations over water in maritime patrol roles — in particular anti-submarine warfare (ASW), anti-ship warfare (AShW), and search and rescue (SAR)."
+
+
+"U_CVN_EWAIR_NAME" LANG "Carrier Electronic-warfare aircraft"
+"U_CVN_EWAIR_DESC" LANG "An electronic-warfare aircraft is a military aircraft equipped for electronic warfare (EW), that is, degrading the effectiveness of enemy radar and radio systems by using radar jamming and deception methods."
+
+"U_EWAIR_NAME" LANG "Electronic-warfare aircraft"
+"U_EWAIR_DESC" LANG "An electronic-warfare aircraft is a military aircraft equipped for electronic warfare (EW), that is, degrading the effectiveness of enemy radar and radio systems by using radar jamming and deception methods."
+
+"CVN_ATK_NAME" LANG "Carrier-capable Attack Aircraft"
+"CVN_ATK_DESC" LANG "The most important element of a carrier's force projection is their attack aircraft. These aircraft are designed to strike both naval and ground targets, allowing a carrier to threaten a huge number of enemy assets, from nuclear infrastructure to surface fleets."
+
+"NAVY60_NAME" LANG "Атомные боевые корабли"
+"NAVY60_DESC" LANG "В 60-е годы появились атомные ракетные подводные лодки и первые в мире военные корабли с атомными двигателями. Многие технологии и методы Второй мировой войны оставались актуальными, а орудия продолжали использоваться наряду с ранними ракетными системами. Теперь, когда доступны улучшенные системы управления огнем и противолодочные возможности вертолетов, технологии, а не размер ствола, начинают переопределять военно-морскую войну.\n\n\n+Увеличивает скорость корабля и сокращает время перезарядки оружия."
+
+"NAVY80_NAME" LANG "Военно-морские конструкции времен холодной войны"
+"NAVY80_DESC" LANG "Вне космической гонки 70-е и 80-е годы стали свидетелями технологической гонки вооружений между сверхдержавами, что привело к многочисленным достижениям в военно-морских технологиях. Ракетное наведение и передовые радиолокационные технологии привели к быстрому устареванию старых корпусов, оставшихся после Второй мировой войны, которые нельзя было модернизировать управляемыми ракетами, что привело к морской войне за пределами видимости. Боевая система «Иджис» олицетворяет улучшения в информационной войне.\n\n\n+Увеличивает скорость корабля и сокращает время восстановления оружия."
+
+"NAVY00_NAME" LANG "Современные военные корабли"
+"NAVY00_DESC" LANG "В 2000-е годы появились вездесущие и смертоносно точные управляемые ракеты самых разных форм и размеров, как для нападения, так и для обороны. Угроза истребителей-невидимок и радиоэлектронной борьбы действительно стала доминировать, требуя для компенсации более совершенной электроники и интеллектуальных систем защиты, таких как CIWS. Появление GPS позволит улучшить координацию флота на уровне, который раньше считался невозможным.\n\n\n+Увеличивает скорость корабля и сокращает время восстановления оружия."
+
+"NAVY30_NAME" LANG "Экспериментальные военно-морские проекты"
+"NAVY30_DESC" LANG "Эксперименты с прибрежными боевыми кораблями, беспилотными системами, первыми лазерными и рельсотронными системами, полностью интегрированными системами управления и контроля и корпусами-невидимками определяют ближайшее будущее военных кораблей. Многие военные корабли снова увеличиваются в размерах, но сокращаются в количестве, оснащены для противодействия множеству потенциальных будущих угроз и действуют в боевом пространстве, которое включает в себя как кибервойну, так и космические операции.\n\n\n+Увеличивает скорость корабля и сокращает время перезарядки оружия. и снижает RCS корабля, что затрудняет попадание."
+
+"SUB60_NAME" LANG "Проекты подводных лодок 1960-х годов"
+"SUB60_DESC" LANG "В конце 1950-х годов атомная энергетика частично заменила дизель-электрическую тягу. За отплытием первой атомной подводной лодки "USN Nautilus" в 1955 году вскоре последовали аналогичные британские, французские и российские лодки. Также было разработано оборудование для извлечения кислорода из морской воды. Эти два нововведения вместе с инерциальными навигационными системами дали подводным лодкам возможность оставаться под водой в течение недель или месяцев и позволили совершать ранее невозможные путешествия, такие как пересечение Северного полюса под арктической ледяной шапкой на корабле "USS Nautilus" в 1958 году. военно-морские подводные лодки, построенные с того времени в Соединенных Штатах и Советском Союзе, а также в его правопреемнике Российской Федерации, приводились в действие ядерными реакторами. Факторами, ограничивающими выносливость этих кораблей в подводном положении, являются снабжение продовольствием и боевой дух экипажа на подводной лодке с ограниченным пространством.\n\n\n+Увеличивает скорость подводных лодок, уменьшает время перезарядки оружия и делает их двигатели более незаметными."
+
+"SUB80_NAME" LANG "Проекты подводных лодок 1980-х годов"
+"SUB80_DESC" LANG "К концу 20 века на некоторых подводных лодках вместо гребных винтов были установлены водометные движители. Хотя они тяжелее, дороже и часто менее эффективны, чем пропеллеры, они значительно тише, что дает важное тактическое преимущество.\n\n\n+Увеличивает скорость подводных лодок, уменьшает время перезарядки оружия и делает их двигатели более незаметными."
+
+"SUB00_NAME" LANG "Дизайн подводных лодок 2000-х годов"
+"SUB00_DESC" LANG "Достижения в области технологий шумоподавления еще больше уменьшили шумовую сигнатуру двигателей подводных лодок.\n\n\n+Увеличивает скорость подводных лодок, уменьшает время перезарядки оружия и делает их двигатели более незаметными."
+
+"SUB30_NAME" LANG "Дизайн подводных лодок 2030-х годов"
+"SUB30_DESC" LANG "Возможным движителем подводных лодок является магнитогидродинамический привод, или гусеничный привод, не имеющий движущихся частей. Он был популяризирован в киноверсии «Охоты за Красным Октябрем» по сценарию Тома Клэнси, в котором он изображался как практически бесшумная система. (В книге использовалась форма движителя, а не МГД.) Хотя некоторые экспериментальные надводные корабли были построены с этой двигательной установкой, скорость не была такой высокой, как ожидалось. Кроме того, шум, создаваемый пузырями, и более высокие настройки мощности, которые потребуются реактору подводной лодки, означают, что он вряд ли будет рассматриваться для каких-либо военных целей.\n\n\n+Увеличивает скорость подводных лодок, снижает уровень шума от двигателя."
+
+"3GEN_NAME" LANG "3rd Generation Aircraft"
+"3GEN_DESC" LANG "With 3rd generation aircraft, air-to-air missiles became the standard method of dogfighting, with guns taking a backseat. The first generation of mainstream guided weapons would also be deployed on these aircraft, providing new ground attack capabilities that had previously required much more error to perform; further enhanced by the employment of analogue avionics over steam. \n\n\n+Improves Range,Improves Turn Speed,Improves Speed and is harder to intercept"
+
+"4GEN_NAME" LANG "4th Generation Aircraft"
+"4GEN_DESC" LANG "4th generation aircraft would be typified by fly-by wire flight control systems, digitisation of avionics, early stealth technology, and modern fire control systems. Air combat manoeuvring, rather than raw speed, was established as a key doctrinal requirement of most fighters. Many 4th generation aircraft are still in use across the world today and continue to enjoy a fantastic record when employed against older generation aircraft.\n\n\n+Improves Range,Improves Turn Speed,Improves Speed and is harder to intercept"
+
+"4GEN2_NAME" LANG "4.5 Generation Aircraft"
+"4GEN2_DESC" LANG "As fourth generation aircraft came to dominate the battlefield, but their technology and hardware started to age, the 4.5 generation of aircraft were defined by their upgrades; better radar, avionics, data links, and modernised weapon systems built upon the same principles as their earlier counterparts - often in the same airframe.\n\n\n+Improves Range,Improves Turn Speed,Improves Speed and is harder to intercept"
+
+"5GEN_NAME" LANG "5th Generation Aircraft"
+"5GEN_DESC" LANG "The most advanced aircraft currently in service, 5th generation aircraft such as the F-22 or J-20 employ modern stealth construction, extremely capable electronic capabilities, next-generation networked digital systems, low-probability-of-intercept radars, and high-performance airframes capable of operating at extremes.\n\n\n+Improves Turn Speed,Improves Speed,much harder to intercept"
+
+"6GEN_NAME" LANG "6th Generation Aircraft"
+"6GEN_DESC" LANG "Sixth-generation aircrafts is a conceptualized class of aircraft design more advanced than the fifth-generation jets that are currently in service and development.Typical design characteristics anticipated to include advanced digital capabilities including high-capacity networking, AI, data fusion, cyber warfare, D2D and battlefield command, control and communications (C3) capabilities,optionally manned, with the same airframe capable of conducting piloted, remote controlled or onboard-AI controlled missions,advanced variable-cycle engines able to cruise economically but still deliver high thrust when required.\n\n\n+Improves Turn Speed,Improves Speed,much harder to intercept"
+
+"M_SNAVALGUN_NAME" LANG "Легкие морские орудия"
+"M_SNAVALGUN_DESC" LANG "Легкая морская артиллерия находится на эскорте и крейсерах и используется в основном против эскорта противника, нанося минимальный урон линкорам."
+
+"M_BIGGUNS_NAME" LANG "Тяжелые морские орудия"
+"M_BIGGUNS_DESC" LANG "Тяжелые артиллерийские орудия могут нанести значительный урон как капитальным и кораблям сопровождения противника, так и наземным целям."
+
+"M_FLAKGUN_NAME" LANG "Военно-морской зенитный ракетный комплекс"
+"M_FLAKGUN_DESC" LANG "ПВО — это зенитное орудие самообороны, используемое против самолетов противника."
+
+"LW_Mk4_NAME" LANG "Future LW Radar"
+"LW_Mk4_DESC" LANG "\n\n\n+Increase LW Radar range"
+
+
+"GPS_NAME" LANG "GPS"
+"GPS_DESC" LANG "Global Positioning Systems are provided by satellite networks acting as a precise navigation aid, allowing for tracking of targets during combat, providing precision guidance to missile systems of all shapes and sizes, supporting search & rescue, and allowing for precise reconnaissance. They are often tied directly to nuclear capabilities."
+
+"CIWS_NAME" LANG "CIWS"
+"CIWS_DESC" LANG "Close-in Weapon Systems provide a last-line defense against missile attacks, tracking missiles at high speed and pumping them full of bullets before they can close the final distance with ships."
+
+"CIWS_LASER_NAME" LANG "Laser CIWS"
+"CIWS_LASER_DESC" LANG "With the developments in power output of directed energy in conjuction with ever increasing missile threats to high value assets led to the fielding of laser CIWS in order to defeat these advanced threat mainly hypersonic missiles and swarm strikes.\n\n\n+Improves range and interception chance\n\n\n+Allows airborne laser to be equiped by EW aircraft"
+
+"M_CIWS_NAME" LANG "CIWS"
+"M_CIWS_DESC" LANG "The Phalanx CIWS is a close-in weapon system for defense against incoming threats such as small boats, surface torpedoes, anti-ship missiles and helicopters."
+
+"M_CIWS_LASER_NAME" LANG "Laser CIWS"
+"M_CIWS_LASER_DESC" LANG "With the developments in power output of directed energy in conjuction with ever increasing missile threats to high value assets led to the fielding of laser CIWS in order to defeat these advanced threat mainly hypersonic missiles and swarm strikes."
+
+"SUPER_HEAVY_MISSILES_NAME" LANG "Сверхтяжёлая МБР"
+"SUPER_HEAVY_MISSILES_DESC" LANG "Первоначально сверхтяжелые ракеты-носители, эти ракеты были перепрофилированы для доставки больших боеголовок или нескольких РГЧ для поражения даже самых крупных систем ПВО.."
+
+"M_ICBM_50M_NAME" LANG "50 Megaton ICBM"
+"M_ICBM_50M_DESC" LANG "Originally super heavy-lift launch vehicles these rockets were repurposed to deliver large warheads to devastate enemy population centers."
+
+//"LASER_GUIDE_NAME" LANG "Laser guidance"
+//"LASER_GUIDE_DESC" LANG "Laser guidance is used by military to guide a missile or other projectile or vehicle to a target by means of a laser beam.This technique is sometimes called SALH, for Semi-Active Laser Homing. With this technique, a laser is kept pointed at the target and the laser radiation bounces off the target and is scattered in all directions. The missile, bomb, etc. is launched or dropped somewhere near the target. When it is close enough for some of the reflected laser energy from the target to reach it, a laser seeker detects which direction this energy is coming from and adjusts the projectile trajectory towards the source."
+
+"LASER_PRACTICAL_NAME" LANG "Practical Laser Weapons"
+"LASER_PRACTICAL_DESC" LANG "With the advancements in laser power we are at a point where laser can be used to cause physical damage to enemy projectiles."
+
+"SW_Mk4_NAME" LANG "AESA"
+"SW_Mk4_DESC" LANG "The AESA is a more advanced, sophisticated, second-generation of the original PESA phased array technology. PESAs can only emit a single beam of radio waves at a single frequency at a time. The AESA can radiate multiple beams of radio waves at multiple frequencies simultaneously. AESA radars can spread their signal emissions across a wider range of frequencies, which makes them more difficult to detect over background noise, allowing ships and aircraft to radiate powerful radar signals while still remaining stealthy, as well as being more resistant to jamming."
+
+"ICBM1_NAME" LANG "Early ICBMs"
+"ICBM1_DESC" LANG "Early ICBMs had limited precision, which made them suitable for use only against the largest targets, such as cities. They were seen as a basing option, one that would keep the deterrent force close to home where it would be difficult to attack. Attacks against military targets (especially hardened ones) still demanded the use of a more precise, manned bomber.These were repurposed launch vehicles from the escalating space race meaning their launch facilities were vulnerable."
+
+"ICBM2_NAME" LANG "Improved ICBMs"
+"ICBM2_DESC" LANG "Second and third-generation designs dramatically improved accuracy to the point where even the smallest point targets can be successfully attacked while also receiving specialised hardened silos in order to be better protected against enemy first strikes.\n\n\n+Increases 1Mt ICBM range\n\n\n+Increases ICBM silo Health and reduces its size"
+
+"SLBM_NAME" LANG "SLBM"
+"SLBM_DESC" LANG "A submarine-launched ballistic missile (SLBM) is a ballistic missile capable of being launched from submarines. Modern variants usually deliver multiple independently targetable reentry vehicles (MIRVs) each of which carries a nuclear warhead and allows a single launched missile to strike several targets. Submarine-launched ballistic missiles operate in a different way from submarine-launched cruise missiles."
+
+"ABM0_NAME" LANG "Nuclear ABM systems"
+"ABM0_DESC" LANG "During the early period of the cold war the lack of precise targeting systems meant that the only viable way to intercept enemy ballistic missiles was to use nuclear warheads."
+
+"ABM02_NAME" LANG "Heavy Nuclear ABM Systems"
+"ABM02_DESC" LANG "The introduction of MIRVs as well as more advanced midflight evasion manoeuvring greatly reduced the effectiveness of conventional ABM systems.Thus fielding high yield nuclear warheads as ABMs could defeat multiple MIRVs."
+
+"ABM1_NAME" LANG "Early ABM systems"
+"ABM1_DESC" LANG "An anti-ballistic missile is a surface-to-air missile designed to counter ballistic missiles.Ballistic missiles are used to deliver nuclear, chemical, biological, or conventional warheads in a ballistic flight trajectory. The term anti-ballistic missile is a generic term conveying a system designed to intercept and destroy any type of ballistic threat; however, it is commonly used for systems specifically designed to counter intercontinental ballistic missiles.\n\n\n+Allows ABMs to be used by Phased Array Tracking SAMs(High Cooldown)"
+
+"ABM2_NAME" LANG "Improved ABM systems"
+"ABM2_DESC" LANG "Advancements in radar technology as well as the developments of more sophisticated computers allowed the tracking and interception of faster projectiles and longer ranges.\n\n\n+Drastically reduces ABM cooldown on SAMs\n\n\n+Increases ABM range,precision and speed\n\n\n+Reduces ABM cooldown"
+
+"ABM3_NAME" LANG "Advanced ABM systems"
+"ABM3_DESC" LANG "With further developments in electronics and rocketry fields as well as material sciences led to more advanced interceptors capable of defeating even the most advanced ballistic missiles.\n\n\n+Increases ABM range,precision and speed\n\n\n+Reduces ABM cooldown"
+
+"ABM4_NAME" LANG "Ηybrid ABM systems"
+"ABM4_DESC" LANG "Allows the fielding of Anti Ballistic Lasers in conjunction with advanced kinetic interceptors.\n\n\n+Increases ABM range,precision and speed\n\n\n+Reduces ABM cooldown"
+
+
+"SONAR1_NAME" LANG "Улучшенная система сонара"
+"SONAR1_DESC" LANG "Гидролокатор (звуковая навигационная дальность) — это метод, использующий распространение звука (обычно под водой, как в подводной навигации) для навигации, связи или обнаружения объектов на поверхности воды или под ней, таких как другие суда.\n\n\n +Увеличивает радиус действия"
+
+"SONAR2_NAME" LANG "Усовершенствованная сонарная система"
+"SONAR2_DESC" LANG "Гидролокатор (звуковая навигационная дальность) — это метод, использующий распространение звука (обычно под водой, как в подводной навигации) для навигации, связи или обнаружения объектов на поверхности воды или под ней, таких как другие суда.\n\n\n +Увеличивает радиус действия"
+
+"SONAR3_NAME" LANG "Сонарная система следующего поколения"
+"SONAR3_DESC" LANG "Гидролокатор (звуковая навигационная дальность) — это метод, использующий распространение звука (обычно под водой, как в подводной навигации) для навигации, связи или обнаружения объектов на поверхности воды или под ней, таких как другие суда.\n\n\n +Увеличивает радиус действия"
+
+"TOR1_NAME" LANG "Торпеды 1960-х годов"
+"TOR1_DESC" LANG "Из-за повышенной прочности и скорости подводных лодок торпеды должны были быть оснащены улучшенными боеголовками и более совершенными двигателями. Во время холодной войны торпеды были важным активом с появлением атомных подводных лодок, которым не приходилось часто всплывать на поверхность, особенно тем, которые несли стратегические ядерные ракеты.\n\n\n+Увеличивает дальность"
+
+"TOR2_NAME" LANG "Торпеды 1980-х"
+"TOR2_DESC" LANG "В 80-е годы появились тяжелые торпеды подводных лодок, предназначенные для потопления глубоководных атомных подводных лодок и высокопроизводительных надводных кораблей.\n\n\n+Повышает дальность и точность"
+
+"TOR3_NAME" LANG "Торпеды 2000-х"
+"TOR3_DESC" LANG "Интеграция канала передачи данных с другими платформами привела к увеличению дальности поражения торпеды с помощью данных, передаваемых от других активов.\n\n\n+Значительно увеличивает дальность и точность"
+
+"TOR4_NAME" LANG "Торпеды 2020-х годов"
+"TOR4_DESC" LANG "Более высокая скорость передачи данных привела к лучшему времени отклика и, таким образом, к улучшению решений взаимодействия.\n\n\n+Увеличивает радиус действия"
+
+"JAM1_NAME" LANG "Early EW Systems"
+"JAM1_DESC" LANG "Electronic warfare (EW) is any action involving the use of the electromagnetic spectrum (EM spectrum) or directed energy to control the spectrum, attack an enemy, or impede enemy assaults. The purpose of electronic warfare is to deny the opponent the advantage of, and ensure friendly unimpeded access to, the EM spectrum. EW can be applied from air, sea, land, and/or space by manned and unmanned systems, and can target humans, communication, radar, or other assets.Ingame it reduces enemy LW and SW radar ranges.\n\n\n+Allows fielding of EW aircrafts and EW loadouts for multirole fighters"
+
+"JAM2_NAME" LANG "Improved EW Systems"
+"JAM2_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
+
+"JAM3_NAME" LANG "Advanced EW Systems"
+"JAM3_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
+
+"MRBM2_NAME" LANG "Advaned MRBMs"
+"MRBM2_DESC" LANG "Designed to be used in theater level conflicts these missiles can maneuver during flight at different altitudes and trajectories and can turn at up to 20 to 30 G to evade anti-ballistic missiles.\n\n\n+Makes it much harder to intercept"
+
+"MRBM3_NAME" LANG "ASBM"
+"MRBM3_DESC" LANG "An anti-ship ballistic missile (ASBM) is a military ballistic missile system designed to hit a warship at sea.Due to the often hypersonic flight speed of ballistic missiles, the ASBM's kinetic energy alone may be sufficient to cripple or outright destroy a supercarrier with a single conventional warhead impact. However, unlike a nuclear warhead, this will require a direct hit to be effective, thus unlike a typical ballistic missile, which follows a ballistic flight path after the relatively brief initial phase of powered flight, an ASBM would require a precise and high-performance terminal guidance system, with advanced sensors and in-flight calibrations in order to successfully hit a moving target.\n\n\n+Effective Against Large Vessels like cruiser and carriers"
+
+"M_ABM_NUKE_NAME" LANG "1Mt Nuclear ABM Missile"
+"M_ABM_NUKE_DESC" LANG "1Mt Nuclear ABM Missile"
+
+"M_ABM_NUKE2_NAME" LANG "50Mt Nuclear ABM Missile"
+"M_ABM_NUKE2_DESC" LANG "50Mt Nuclear ABM Missile"
+
+"U_ABM_SITE_NAME" LANG "ABM site"
+"U_ABM_SITE_DESC" LANG "Collection of hardened Anti Ballistic Missile silos"
+
+"M_ASBM_NAME" LANG "ASBM"
+"M_ASBM_DESC" LANG "An anti-ship ballistic missile (ASBM) is a military ballistic missile system designed to hit a warship at sea."
+
+"M_CONV_MRBM_NAME" LANG "Conventional Ballistic Missile"
+"M_CONV_MRBM_DESC" LANG "A ballistic missile follows a ballistic trajectory to deliver a warhead on a predetermined target."
+
+"GBOMB_M_NAME" LANG "Guided Bomb"
+"GBOMB_M_DESC" LANG "A guided bomb (also known as a smart bomb, guided bomb unit, or GBU) is a precision-guided munition designed to achieve a smaller circular error probable (CEP)."
+
+"M_EW_NAME" LANG "ECM pod"
+"M_EW_DESC" LANG "An electronic countermeasure (ECM) is an electrical or electronic device designed to trick or deceive radar, sonar or other detection systems, like infrared (IR) or lasers. It may be used both offensively and defensively to deny targeting information to an enemy."
+
+"ENG1_NAME" LANG "1960s Engineering"
+"ENG1_DESC" LANG "Engineering is a branch that combines engineering physics and mathematics principles with materials science to design, analyze, manufacture, and maintain mechanical systems.It is one of the oldest and broadest of the engineering branches.It also inclued the field of electronics where the invention of the integrated circuit and the silicon MOSFET revolutionized the electronics industry and opened a new field of radio,computing and telecommunications applications."
+
+"ENG2_NAME" LANG "1970s Engineering"
+"ENG2_DESC" LANG "Advancements in material sciences allowed the development of mechanical solutions previously though impractical.In the field of electronics the earliest multi-chip microprocessors were the Four-Phase Systems AL-1 in 1969 and Garrett AiResearch MP944 in 1970, each using several MOS LSI chips.On November 15, 1971, Intel released the world's first single-chip microprocessor, the 4004, on a single MOS LSI chip. Its development was led by Federico Faggin, using silicon-gate MOS technology, along with Ted Hoff, Stanley Mazor and Masatoshi Shima."
+
+"ENG3_NAME" LANG "1980s Engineering"
+"ENG3_DESC" LANG "Advancements in material sciences allowed the development of mechanical solutions previously though impractical.The powerful supercomputers of the era were at the other end of the computing spectrum from the microcomputers, and they also used integrated circuit technology."
+
+"ENG4_NAME" LANG "1990s Engineering"
+"ENG4_DESC" LANG "While the supercomputers of the 1980s used only a few processors, in the 1990s, machines with thousands of processors began to appear both in the United States and in Japan, setting new computational performance records."
+
+"ENG5_NAME" LANG "2000s Engineering"
+"ENG5_DESC" LANG "A lot of modern tools are used for new manufacturing techniques. Analysis and designs in mechanical engineering are helped by various tools today. Indeed, mechanical engineers are using finite element analysis (FEA), computational fluid dynamics (CDF), computer-aided design (CAD), failure modes & effect analysis (FMEA). All of these tools are allowing mechanical engineers to work on the creation of 3D models.Progress in the first decade of the 21st century was dramatic and supercomputers with over 60,000 processors appeared, reaching petaflop performance levels."
+
+"ENG6_NAME" LANG "2010s Engineering"
+"ENG6_DESC" LANG "In July 2011, the 8.1 petaflop Japanese K computer became the fastest in the world using over 60,000 SPARC64 VIIIfx processors housed in over 600 cabinets. The fact that K computer is over 60 times faster than the Earth Simulator, and that the Earth Simulator ranks as the 68th system in the world seven years after holding the top spot demonstrates both the rapid increase in top performance and the widespread growth of supercomputing technology worldwide.By 2014, the Earth Simulator had dropped off the list and by 2018 K computer had dropped out of the top 10. By 2018, Summit had become the world's most powerful supercomputer, at 200 petaFLOPS."
+
+"ENG7_NAME" LANG "2020s Engineering"
+"ENG7_DESC" LANG "CAD software and 3D printing are useful for mechanical designers and engineers in order to work on designs, prototypes and create as many iterations as they want.3D software is allowing to model, visualize, and simulate new projects, even the most complex ones.In the field of electronics Quantum computers started making an appearance.Quantum computing is the use of quantum phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.Quantum computers are believed to be able to solve certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science."
+
+"CRUISE1_NAME" LANG "1960s Cruise Missiles"
+"CRUISE1_DESC" LANG "A cruise missile is a guided missile used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances.In the Early years of the Cold War the lack of a precise guidance system meant that the only viable way to deliver a warhead was with radar guidance which could only be applied in an anti-ship role or with a nuclear warhead for land targets with a CEP of 500-1500m."
+
+"CRUISE2_NAME" LANG "1970s Cruise Missiles"
+"CRUISE2_DESC" LANG "Improvements in radar guidance slightly improved the precision of both conventional and nuclear cruise missiles and new developments in engines and aerodynamics further increased their range.\n\n\n+Improves Range,Speed and Precision"
+
+"CRUISE3_NAME" LANG "1980s Cruise Missiles"
+"CRUISE3_DESC" LANG "The introduction of GPS made cruise missiles a viable weapon against land targets in extreme ranges while new ground radar avoidance systems made them considerably harder to shoot down.\n\n\n+Improves Range,Speed and Precision\n\n\n+Increases Payload capacity"
+
+"CRUISE4_NAME" LANG "2000s Cruise Missiles"
+"CRUISE4_DESC" LANG "Further improvements in missile avoidance and terrain masking protected the missiles against increasingly advanced missile defence systems.\n\n\n+Improves Range,Speed and Precision"
+
+"CRUISE5_NAME" LANG "2010s Cruise Missiles"
+"CRUISE5_DESC" LANG "By adopting stealth characteristics cruise missiles became more survivable in an ever increasingly anti-missile environment.\n\n\n+Improves Range,Speed and Precision\n\n\n+Increases Payload capacity"
+
+"CRUISE6_NAME" LANG "2020S Cruise Missiles"
+"CRUISE6_DESC" LANG "Advanced in materials science allowed the fielding of hyper-sonic cruise missiles flying over 80000 feet during their cruise phase rendering all previous air defence systems nearly obsolete.\n\n\n+Improves Range,Precision and greatly improves Speed"
+
+"AA1_NAME" LANG "Early AAMs"
+"AA1_DESC" LANG "After World War 2, the major powers sought to equip planes with missiles capable of automatically locking on to enemy planes, greatly increasing the range at which enemy fighters and bombers could be destroyed. Guided AA missiles of this era, such as the AIM-9 Sidewinder, were so effective in changing warfare that they continue to be used to this day even by the world's leading militaries.\n\n\n+Improves Precision and Range"
+
+"AA2_NAME" LANG "Semi-active radar AAMs"
+"AA2_DESC" LANG "Semi-active radar homing is a common type of missile guidance system, perhaps the most common type for longer-range air-to-air and surface-to-air missile systems. The name refers to the fact that the missile itself is only a passive detector of a radar signal – provided by an external source — as it reflects off the target(in contrast to active radar homing, which uses an active radar).\n\n\n+Improves Precision and Range"
+
+"AA3_NAME" LANG "Active radar AAMs"
+"AA3_DESC" LANG "Active radar homing is a missile guidance method in which a missile contains a radar transceiver (in contrast to semi-active radar homing, which uses only a receiver) and the electronics necessary for it to find and track its target autonomously. NATO brevity code for an air-to-air active radar homing missile launch is Fox Three.\n\n\n+Improves Precision and Range"
+
+"AA4_NAME" LANG "Ramjet AAMs"
+"AA4_DESC" LANG "A solid-fueled ramjet motor allows the missile to cruise at a speed of over Mach 4 and provides the missile with thrust and mid-way acceleration to target intercept.A two-way datalink enables the launch aircraft to provide mid-course target updates or retargeting if required, including data from off-board third parties. The datalink is capable of transmitting missile information such as functional and kinematic status, information about multiple targets, and notification of target acquisition by the seeker.\n\n\n+Improves Precision and Range"
+
+"AA5_NAME" LANG "Advanced Ramjet AAms"
+"AA5_DESC" LANG "New developments in materiel sciences and propulsion drastically increase the range and cruising speed of the AAMs.\n\n\n+Improves Precision and Range"
+
+"FR_CIWS_NAME" LANG "Defensive Laser Pods"
+"FR_CIWS_DESC" LANG "Defensive Laser Pods are a megawatt-class chemical oxygen iodine laser mounted inside an external hardpoint.It is primarily designed as a missile defense system to destroy enemy AAMs.\n\n\n+Can be mounted with the AA loadouts of fighters and Multiroles"
+
+"M_ABM_LASER_NAME" LANG "Anti-Ballistic Laser"
+"M_ABM_LASER_DESC" LANG "High powered Laser capable of intercepting high altidute projectiles."
+
+"M_LASER_POD_NAME" LANG "Defensive Laser Pod"
+"M_LASER_POD_DESC" LANG "Lightweight Laser Pod capable of intercepting enemy AAMs and SAMs greatly increasing aircraft survivability."
+
+"M_SAM_LASER_NAME" LANG "Air Defence Laser"
+"M_SAM_LASER_DESC" LANG "Mobile version of naval lasers capable of intercepting small projectiles such as missiles at low and medium altidutes."
+
+"ASM1_NAME" LANG "Laser Guided Munitions"
+"ASM1_DESC" LANG "Laser-guided munitions use semi-active laser guidance to strike a designated target with greater accuracy than unguided weapons. First developed by the United States during the Vietnam War, laser-guided weapons quickly proved their value in precision strikes of difficult point targets. These weapons use on-board electronics to track targets that are designated by laser, typically in the infrared spectrum, and adjust their glide path to accurately strike the target.\n\n\n+Heavy damage Air-Ground Weapon but with limited speed and range.Their large numbers can saturate enemy Air-Defences.\n\n\n+Air-Ground Weapons(excluding cruise missiles) damage against armies is multiplied making them very effective"
+
+"ASM2_NAME" LANG "GPS Guided Munitions"
+"ASM2_DESC" LANG "Lessons learned during the first Gulf War showed the value of precision munitions, yet they also highlighted the difficulties in employing them—specifically when visibility of the ground or target from the air was degraded.The problem of poor visibility does not affect satellite-guided weapons such as Joint Direct Attack Munition and Joint Stand-Off Weapon, which make use GPS systems for guidance. This weapon can be employed in all weather conditions, without any need for ground support. Because it is possible to jam GPS, the guidance package reverts to inertial navigation in the event of GPS signal loss.\n\n\n+Improves Precision and Range\n\n\n+Increases Payload capacity"
+
+"ASM3_NAME" LANG "Stand-off Munitions"
+"ASM3_DESC" LANG "Satellite-guidance provided a major boon to air strike capabilities, enabling precise pinpointing of targets without a dependency on any specific external signature that could be fired from a greater range, leading to the development of 'stand-off' weapons.In comparison to earlier GPS munitons these weapons in the case of gliding bombs have wings significally increasing their range and in the case of missiles new seakers and datalink systems significally increase the range of transmition and quality of the image during the terminal phase.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
+
+"ASM4_NAME" LANG "Hybrid-guidance Missiles"
+"ASM4_DESC" LANG "By combining multiple guidance systems such as radar, electro-optical, inertial navigation, GPS, and laser-guidance, modern ASMs can bypass jamming, be deployed at longer ranges, guarantee precision, and operate well even in unfavourable conditions.In adition gliding weapons bacame smaller in order to load more of them on aircrafts and as such be able to saturate enemy defences with swarm tactics.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
+
+"SAM50_NAME" LANG "Early SAMs"
+"SAM50_DESC" LANG "Existing anti-aircraft guns proved highly ineffective against new jet-propelled aircraft. Although there was competition, the idea of a rocket fired from the ground to independently track and chase an aircraft using radar proved the most reliable solution and the US deployed them at to protect all their critical nuclear assets."
+
+"SAM60_NAME" LANG "Improved SAM Guidance"
+"SAM60_DESC" LANG "Although early surface-to-air missiles proved very effective, they were unable to deal with rapid advancements in aircraft technology. Mach 3-capable aircraft and electronic countermeasures required the development of a new generation of SAMs with better tracking and hardened radars.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown"
+
+"SAM80_NAME" LANG "Phased Array Tracking Radars"
+"SAM80_DESC" LANG "Modern passive electronically scanned array radars would prove pivotal in designing general-purpose SAM systems capable of dealing with airbourne threats of all kinds, at long range, with high reliability, and capable of feeding in to newly developed external data links over computer networks.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown"
+
+"SAM10_NAME" LANG "Modern SAMs"
+"SAM10_DESC" LANG "Modern SAM networks utilise distributed computer and radar networks with high redundancy against both kinetic and cyber attacks, and can be expected to operate even in hostile environments with the threat of radiation missiles and significant electronic countermeasures. Laser illumination can also now be utilised as an alternative to radar.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown\n\n\n+Allows the SAM site to also equip ABM missiles(Require Improved ABM systems)"
+
+"SAM30_NAME" LANG "Avanced Ηybrid SAMs"
+"SAM30_DESC" LANG "Advanced SAM networks utilise both new high-tech kinetic interceptors.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown\n\n\n+Allows the SAM site to also equip laser systems"
+
+"TAWACS_NAME" LANG "Airborne Early Warning"
+"TAWACS_DESC" LANG "Airborne early warning and command systems such as AWACS provide a mobile long-wave radar platform that provides commanders with a bird's eye view of the battlescape, tracking targets across a huge area to provide communications on enemy positions and transfer that information across data-links to the computer systems of weapon platforms such as aircraft."
+
+"ARMY_TECH_NAME" LANG "Enable Armies"
+"ARMY_TECH_DESC" LANG "This tech is used to prohibit its research and thus armies during a game."
+
+"ARMY_NAME" LANG "Army Group"
+"ARMY_DESC" LANG "An army group is a military organization consisting of several field armies, which is self-sufficient for indefinite periods. It is usually responsible for a particular geographic area. An army group is the largest field organization handled by a single commander—usually a full general or field marshal—and it generally includes between 400,000 and 1,000,000 soldiers."
+
+"U_PARA_NAME" LANG "Airborne Division"
+"U_PARA_DESC" LANG "An Airborne Division is a light infantry division specializing in air assault operations."
+
+"U_MARINES_NAME" LANG "Marine Division"
+"U_MARINES_DESC" LANG "The division is employed as the ground combat element of a Marine Expeditionary Force and may provide task-organized forces for assault operations. A Marine Division is able to provide the ground amphibious forcible entry capability to the naval expeditionary force and to conduct subsequent land operations in any operational environment."
+
+"U_AIRTRANS_NAME" LANG "Strategic Transport"
+"U_AIRTRANS_DESC" LANG "Aircrafts capable of airlifting troops and military equipment to support military operations."
+
+"ARMY_WEP_NAME" LANG "Ground Assets"
+"ARMY_WEP_DESC" LANG "Ground Assets"
+
+"M_ARMY_WEP_NAME" LANG "Marine Ground Assets"
+"M_ARMY_WEP_DESC" LANG "Marine Ground Assets"
+
+"P_ARMY_WEP_NAME" LANG "Airborne Ground Assets"
+"P_ARMY_WEP_DESC" LANG "Airborne Ground Assets"
+
+"SAT_CAMERA_NAME" LANG "Optical imaging system"
+"SAT_CAMERA_DESC" LANG "Optical imaging system"
+
+"AIR_CAMERA_NAME" LANG "Reconnaissance Camera"
+"AIR_CAMERA_DESC" LANG "Reconnaissance Camera"
+
+"U_SPY_PLANE_NAME" LANG "Reconnaissance aircraft"
+"U_SPY_PLANE_DESC" LANG "A reconnaissance aircraft is a military aircraft designed or adapted to perform aerial reconnaissance with roles including collection of imagery intelligence(including using photography), signals intelligence, as well as measurement and signature intelligence."
+
+"SPYPLANE_NAME" LANG "Reconnaissance aircraft"
+"SPYPLANE_DESC" LANG "A reconnaissance aircraft is a military aircraft designed or adapted to perform aerial reconnaissance with roles including collection of imagery intelligence(including using photography), signals intelligence, as well as measurement and signature intelligence."
+
+"SPYSAT_NAME" LANG "Reconnaissance satellite"
+"SPYSAT_DESC" LANG "A reconnaissance satellite or intelligence satellite (commonly, although unofficially, referred to as a spy satellite) is an Earth observation satellite or communications satellite deployed for military or intelligence applications."
+
+"M_ICBM_10MMIRV_NAME" LANG "Heavy MIRV ICBM"
+"M_ICBM_10MMIRV_DESC" LANG "A heavy ICBM containing 13 1Mt Warheads"
+
+"M_KIN_ROD_NAME" LANG "Kinetic Rod"
+"M_KIN_ROD_DESC" LANG "Tungsten rod with a directional thrust system capable of amasing massive amounts of kinetic energy."
+
+"M_Laser_weapon2_NAME" LANG "Anti-Satellite Laser"
+"M_Laser_weapon2_DESC" LANG "High powered Laser capable of neutralising hostile satellites by burning their electronics."
+
+"U_LASER_SAT_NAME" LANG "Laser Satellite"
+"U_LASER_SAT_DESC" LANG "A satellite equiped with directed energy weapons capable of engaging ballistic targets and other satellites."
+
+"U_KAS_SAT_NAME" LANG "Kinetic Bombardment Satellite"
+"U_KAS_SAT_DESC" LANG "A satellite equiped with 12 kinetic rods capable of amasing large amounts of kinetic energy causing widespread destruction."
+
+"KAS_TECH_NAME" LANG "Kinetic Bombardment"
+"KAS_TECH_DESC" LANG "A kinetic bombardment or a kinetic orbital strike is the hypothetical act of attacking a planetary surface with an inert projectile from orbit, where the destructive power comes from the kinetic energy of the projectile impacting at very high speeds. The concept originated during the Cold War.\n\n\n+Requires Space Radar for targeting.\n\n\n+Contains 12 Rods\n\n\n+CANNOT BE RESUPPLIED"
+
+"LASER_ANTISAT_NAME" LANG "Anti-Satellite Laser"
+"LASER_ANTISAT_DESC" LANG "High powered Laser capable of neutralising hostile satellites by burning their electronics."
+
+"U_CDMS_NAME" LANG "Anti-Ship Missile Battery"
+"U_CDMS_DESC" LANG "Anti-Ship Missile Battery is a military unit tasked with defending costal waters against enemy surface combatans.They are equivalent to cruisers in terms of ship to ship firepower."
+
+"ARMY60_NAME" LANG "Ground Forces 60s"
+"ARMY60_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+
+"ARMY70_NAME" LANG "Ground Forces 70s"
+"ARMY70_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+
+"ARMY80_NAME" LANG "Ground Forces 80s"
+"ARMY80_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+
+"ARMY90_NAME" LANG "Ground Forces 90s"
+"ARMY90_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+
+"ARMY10_NAME" LANG "Ground Forces 10s"
+"ARMY10_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+
+"ARMY20_NAME" LANG "Ground Forces 20s"
+"ARMY20_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+
+"U_NORAD_NAME" LANG "Airspace Defence Command"
+"U_NORAD_DESC" LANG "Airspace Defense Command located in a hardened command organization responsible for monitoring strategic nuclear threats and managing various strategic assets.Only one can exist at any given time.(Allows silos to fire 3 missiles at a time)"
+
+"AWACS_EFFECT_NAME" LANG "Early Warning and Control Center"
+"AWACS_EFFECT_DESC" LANG "Combines information from multiple platforms and shares informations via datalink."
+
+"NORAD_EFFECT_NAME" LANG "Missile Silo Command"
+"NORAD_EFFECT_DESC" LANG "Allows silos to fire 3 missiles at a time."
+
+"M_ICBM_EMP_NAME" LANG "EMP ICBM"
+"M_ICBM_EMP_DESC" LANG "This ICBM is programmed to detonate in the upper atmosphere creating a Nuclear electromagnetic pulse overloading electrical systems while minimizing physical damage."
+
+"M_ICBM_MIRV_EMP_NAME" LANG "ICBM MIRV EMP"
+"M_ICBM_MIRV_EMP_DESC" LANG "This ICBM contains 3 1 Mt nuclear warheads as well as a warhead detonating in the upper atomoshpere creating a Nuclear electromagnetic pulse"
+
+"M_EMP_WARHEAD_NAME" LANG "EMP warhead"
+"M_EMP_WARHEAD_DESC" LANG "A warhead programmed to detonate in the upper atmosphere creating a Nuclear electromagnetic pulse."
+
+"R_SONAR_L_NAME" LANG "MPA Sonar"
+"R_SONAR_L_DESC" LANG "MPA Sonar"
+
+"R_AWACS_CVN_LW_RADAR_NAME" LANG "Carrier AWACS LW"
+"R_AWACS_CVN_LW_RADAR_DESC" LANG "Carrier AWACS LW"
+
+"R_AWACS_CVN_SW_RADAR_NAME" LANG "Carrier AWACS SW"
+"R_AWACS_CVN_SW_RADAR_DESC" LANG "Carrier AWACS SW"
+
+"TACTICAL_NUKES_NAME" LANG "Warhead Miniaturization"
+"TACTICAL_NUKES_DESC" LANG "Warhead Miniaturization is the technological process in which nuclear warheads are miniaturized in order to fit in smaller delivery systems while retaining considerable destructive power."
+
+"U_SAM_SITE_DESC" LANG "Anti-aircraft weapon systems, associated sensor systems and command and control arrangements to protect your homeland.\n\nCan be extended to the Missile defence to perform the task of intercepting any projectile in flight.\n\n\n+ Intercepts enemy aircrafts.\n+ Intercepts missiles (with ABM technology).\n+ Cheap to build.\n- Cannot see missiles without the OTH radar support."
+"U_SAM_SITE_NAME" LANG "Air Defence Site"
+
+"ART1_NAME" LANG "Nuclear Artillery"
+"ART1_DESC" LANG "Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets."
+
+"ART2_NAME" LANG "Project Babylon"
+"ART2_DESC" LANG "Baby Babylon,was a horizontally mounted device which was simply a prototype for test purposes. It had a bore of 350 mm (13.8 inches), and a barrel length of 46 metres (151 feet),[1] and weighed some 102 tonnes. After conducting tests with lead projectiles, this gun was set up on a hillside at a 45 degree angle. It was expected to achieve a range of 750 km."
+
+"ART3_NAME" LANG "Sub-orbital Artillery"
+"ART3_DESC" LANG "A massive Railgun Turret Network capable of launching multiple nuclear tipped shells thousands of kilometers away."
+
+"U_ART_NAME" LANG "Supergun"
+"U_ART_DESC" LANG "Superguns are super-heavy large caliber guns capable of launching projectiles hundreds of kilometers away.They have a bore of more than 350 mm and a barrel length of more than 50 metres."
+
+"U_STONE_NAME" LANG "Stonehenge Complex"
+"U_STONE_DESC" LANG "Stonehenge,also known as the Spaceguard Turret Network (STN), is a railgun complex.Stonehenge was based on a circular design divided into eight sections, each of which housed a railgun turret.The weapons,operated on a hybrid energy principle using gunpowder to initially propel projectile shells, and then accelerate them to maximum velocity with electromagnetic energy."
+
+
+"M_NUC_ART1_NAME" LANG "10kt Nuclear Shell"
+"M_NUC_ART1_DESC" LANG "A 10kt Nuclear Shell launched by long range artillery."
+
+"M_NUC_ART2_NAME" LANG "Heavy Nuclear Shell"
+"M_NUC_ART2_DESC" LANG "A heavy 500kt Nuclear Shell launched by long range superguns."
+
+"M_NUC_ART3_NAME" LANG "Rail-Gun Nuclear Shell"
+"M_NUC_ART3_DESC" LANG "A 500kt Nuclear Railgun Shell launched by massive spaceguns."
+
+"SUPERWEP_NAME" LANG "Superweapons"
+"SUPERWEP_DESC" LANG "Allows the developent and fielding of what if/fictional superweapons"
+
+"EXC_NAME" LANG "Excalibur"
+"EXC_DESC" LANG "Excalibur,is a chemical laser weapon,conceived as a long-range, anti-ICBM defense system.It can also be engage airborne targets with its secondary laser systems."
+
+"U_EXC_NAME" LANG "Excalibur"
+"U_EXC_DESC" LANG "Excalibur,is a chemical laser weapon,conceived as a long-range, anti-ICBM defense system.It can also be engage airborne targets with its secondary laser systems."
+
+"IND50_NAME" LANG "Industry 1950s"
+"IND50_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale. \n\n\n+ To use just place the building so that the effect covers as many cities as possible.The larger the city gdp the larger the bonus to the overall gdp.The effect is not stacked by multiple buildings "
+
+"IND60_NAME" LANG "Industry 1960s"
+"IND60_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
+
+"IND80_NAME" LANG "Industry 1980s"
+"IND80_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
+
+"IND00_NAME" LANG "Industry 2000s"
+"IND00_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
+
+"IND20_NAME" LANG "Industry 2020s"
+"IND20_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
+
+"M_EXC_LASER_NAME" LANG "Excalibur Main Laser"
+"M_EXC_LASER_DESC" LANG "."
+
+"U_IND_ZONE_NAME" LANG "Industrial Zone"
+"U_IND_ZONE_DESC" LANG "."
+
+"IND_EFFECT_NAME" LANG "Developed Region"
+"IND_EFFECT_DESC" LANG "."
+
+"BOMB_PENETRATOR_M_NAME" LANG "Bunker Buster Munition"
+"BOMB_PENETRATOR_M_DESC" LANG "A bunker buster is a type of munition that is designed to penetrate hardened targets or targets buried deep underground, such as military bunkers."
+
+"R_SMALL_PLANE_RADAR_NAME" LANG "Small A/C Radar"
+"R_SMALL_PLANE_RADAR_DESC" LANG "."
+
+END
+
+
+
