@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-//Удалить точки из + 
-//Все аббревиатуры терминов на Русском (проверить в вики)
-//Провиряйте сразу что бы потом не страдать
-
-
-ЕГОР ГЕЙ
-=======
->>>>>>> ae68efa5e41510dcec97c77b771827b9e1685869
-=======
-
-Кто такой Артур и какую заразу в него занёс огромный ХУЙ ЕГОР
-
->>>>>>> 0a81cb064eb6b90012e9dbf89224575436cde1c8
 "AAM_Mk2_DESC" LANG "Compact solid-fuel engines for \"air-to-air\" class missiles helped increase the speed and range of the weapon, and optical-electronic steering tips overall solved the problem of on-board electronic warfare systems for an aircraft's self-defense. Matrix electro-optical transmitters don't depend on a heat source, so a missile can successfully strike all types of targets, even ones that are difficult to spot in the infrared spectrum.\n\nIncreases the range and accuracy of air-to-air missiles."
 "AAM_Mk2_NAME" LANG "Advanced AAM"
 "ABM_Mk2_DESC" LANG "The introduction of new X-ray radars with active phased antennas solved many ABM problems. Next generation air defense systems confidently control the sky and can catch any air target up to and including drones, winged missiles and even ICBMs at the end of their trajectory. The integrated series of complexes covers a large area with a practically impenetrable dome. Other than a massive strategic strike, no other type of attack can overcome this defense. However, the early warning system can't be forgotten. Without timely receipt of data from the beyond-the-horizon radar, even the new ABM systems won't be effective.\n\nIt substantially increases the range and accuracy of anti-missile defenses. It also increases the amount of simultaneous maintained targets."
@@ -671,37 +656,37 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_NUC_ART3_NAME" LANG "Rail-Gun Nuclear Shell"
 "M_NUC_ART3_DESC" LANG "A 500kt Nuclear Railgun Shell launched by massive spaceguns."
 
-"SUPERWEP_NAME" LANG "Superweapons"
+"SUPERWEP_NAME" LANG "Супероружие"
 "SUPERWEP_DESC" LANG "Allows the developent and fielding of what if/fictional superweapons"
 
-"EXC_NAME" LANG "Excalibur"
+"EXC_NAME" LANG "Эскалибур"
 "EXC_DESC" LANG "Excalibur,is a chemical laser weapon,conceived as a long-range, anti-ICBM defense system.It can also be engage airborne targets with its secondary laser systems."
 
-"U_EXC_NAME" LANG "Excalibur"
+"U_EXC_NAME" LANG "Эскалибур"
 "U_EXC_DESC" LANG "Excalibur,is a chemical laser weapon,conceived as a long-range, anti-ICBM defense system.It can also be engage airborne targets with its secondary laser systems."
 
-"IND50_NAME" LANG "Industry 1950s"
+"IND50_NAME" LANG "Индустриализация 1950-ых"
 "IND50_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale. \n\n\n+ To use just place the building so that the effect covers as many cities as possible.The larger the city gdp the larger the bonus to the overall gdp.The effect is not stacked by multiple buildings "
 
-"IND60_NAME" LANG "Industry 1960s"
+"IND60_NAME" LANG "Индустриализация 1960-ых"
 "IND60_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
 
-"IND80_NAME" LANG "Industry 1980s"
+"IND80_NAME" LANG "Индустриализация 1980-ых"
 "IND80_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
 
-"IND00_NAME" LANG "Industry 2000s"
+"IND00_NAME" LANG "Индустриализация 2000-ых"
 "IND00_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
 
-"IND20_NAME" LANG "Industry 2020s"
+"IND20_NAME" LANG "Индустриализация 2020-ых"
 "IND20_DESC" LANG "Manufacturing is the production of goods through the use of labor, machines, tools, and chemical or biological processing or formulation. It is the essence of secondary sector of the economy.The term may refer to a range of human activity, from handicraft to high-tech, but it is most commonly applied to industrial design, in which raw materials from the primary sector are transformed into finished goods on a large scale."
 
-"M_EXC_LASER_NAME" LANG "Excalibur Main Laser"
+"M_EXC_LASER_NAME" LANG "Эскалибур основной лазер"
 "M_EXC_LASER_DESC" LANG "."
 
-"U_IND_ZONE_NAME" LANG "Industrial Zone"
+"U_IND_ZONE_NAME" LANG "Индустриальная зона"
 "U_IND_ZONE_DESC" LANG "."
 
-"IND_EFFECT_NAME" LANG "Developed Region"
+"IND_EFFECT_NAME" LANG "Региона разработки"
 "IND_EFFECT_DESC" LANG "."
 
 "BOMB_PENETRATOR_M_NAME" LANG "Bunker Buster Munition"
