@@ -341,62 +341,61 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 
 
 "GPS_NAME" LANG "GPS"
-"GPS_DESC" LANG "Global Positioning Systems are provided by satellite networks acting as a precise navigation aid, allowing for tracking of targets during combat, providing precision guidance to missile systems of all shapes and sizes, supporting search & rescue, and allowing for precise reconnaissance. They are often tied directly to nuclear capabilities."
+"GPS_DESC" LANG "Системы глобального позиционирования предоставляются спутниковыми сетями, действующими как точные навигационные средства, позволяющие отслеживать цели во время боя, обеспечивая точное наведение ракетных систем всех форм и размеров, поддерживая поиск и спасение и позволяя проводить точную разведку. Зачастую они напрямую связаны с ядерным потенциалом."
 
-"CIWS_NAME" LANG "CIWS"
-"CIWS_DESC" LANG "Close-in Weapon Systems provide a last-line defense against missile attacks, tracking missiles at high speed and pumping them full of bullets before they can close the final distance with ships."
+"CIWS_NAME" LANG "ЗАК"
+"CIWS_DESC" LANG "Зенитно-артиллерийский комплекс это последняя линия защиты от ракетных атак, отслеживание ракет на высокой скорости и поражение их пулями до того, как они смогут пройти финальный отрезок дистанции ​​для поражения корабля."
 
-"CIWS_LASER_NAME" LANG "Laser CIWS"
-"CIWS_LASER_DESC" LANG "With the developments in power output of directed energy in conjuction with ever increasing missile threats to high value assets led to the fielding of laser CIWS in order to defeat these advanced threat mainly hypersonic missiles and swarm strikes.\n\n\n+Improves range and interception chance\n\n\n+Allows airborne laser to be equiped by EW aircraft"
+"CIWS_LASER_NAME" LANG "Лазерные ЗАК"
+"CIWS_LASER_DESC" LANG "Развитие мощности направленной энергии в сочетании с постоянно растущими ракетными угрозами для важных объектов привело к использованию лазерных ЗАК для поражения этих передовых угроз, в основном гиперзвукых ракет и групповых ударов.\n\n\n+Увеличивает дальность и шанс перехвата\n\n\n+Позволяет оснащать самолеты РЭБ бортовым лазером."
 
-"M_CIWS_NAME" LANG "CIWS"
-"M_CIWS_DESC" LANG "The Phalanx CIWS is a close-in weapon system for defense against incoming threats such as small boats, surface torpedoes, anti-ship missiles and helicopters."
+"M_CIWS_NAME" LANG "ЗАК"
+"M_CIWS_DESC" LANG "ЗАК «Phalanx» — система вооружения ближнего боя для защиты от приближающихся угроз, таких как небольшие катера, надводные торпеды, противокорабельные ракеты и вертолеты."
 
-"M_CIWS_LASER_NAME" LANG "Laser CIWS"
-"M_CIWS_LASER_DESC" LANG "With the developments in power output of directed energy in conjuction with ever increasing missile threats to high value assets led to the fielding of laser CIWS in order to defeat these advanced threat mainly hypersonic missiles and swarm strikes."
+"M_CIWS_LASER_NAME" LANG "Лазерный ЗАК"
+"M_CIWS_LASER_DESC" LANG "Развитие мощности направленной энергии в сочетании с постоянно растущими ракетными угрозами для важных объектов привело к использованию лазерных ЗАК для поражения этих передовых угроз, в основном гиперзвукых ракет и групповых ударов."
 
 "SUPER_HEAVY_MISSILES_NAME" LANG "Сверхтяжёлая МБР"
-"SUPER_HEAVY_MISSILES_DESC" LANG "Первоначально сверхтяжелые ракеты-носители, эти ракеты были перепрофилированы для доставки больших боеголовок или нескольких РГЧ для поражения даже самых крупных систем ПВО.."
+"SUPER_HEAVY_MISSILES_DESC" LANG "Первоначально сверхтяжелые ракеты-носители, эти ракеты были перепрофилированы для доставки больших боеголовок или нескольких РГЧ для преодоления даже самых крупных систем ПВО."
 
-"M_ICBM_50M_NAME" LANG "50 Megaton ICBM"
-"M_ICBM_50M_DESC" LANG "Originally super heavy-lift launch vehicles these rockets were repurposed to deliver large warheads to devastate enemy population centers."
+"M_ICBM_50M_NAME" LANG "50 Мегатонная МБР"
+"M_ICBM_50M_DESC" LANG "Первоначально сверхтяжелые ракеты-носители, эти ракеты были перепрофилированы для доставки больших боеголовок для разрушения населенных пунктов противника."
 
-//"LASER_GUIDE_NAME" LANG "Laser guidance"
-//"LASER_GUIDE_DESC" LANG "Laser guidance is used by military to guide a missile or other projectile or vehicle to a target by means of a laser beam.This technique is sometimes called SALH, for Semi-Active Laser Homing. With this technique, a laser is kept pointed at the target and the laser radiation bounces off the target and is scattered in all directions. The missile, bomb, etc. is launched or dropped somewhere near the target. When it is close enough for some of the reflected laser energy from the target to reach it, a laser seeker detects which direction this energy is coming from and adjusts the projectile trajectory towards the source."
+//"LASER_GUIDE_NAME" LANG "Лазерное наведение"
+//"LASER_GUIDE_DESC" LANG "Лазерное наведение используется военными для направления ракеты или другого снаряда или транспортного средства к цели с помощью лазерного луча. Этот метод иногда называют ПЛН, что означает полуактивное лазерное наведение. При использовании этого метода лазер направляется на цель, а лазерное излучение отражается от цели и рассеивается во всех направлениях. Ракета, бомба и т. д. запускается или сбрасывается где-то рядом с целью. Когда он находится достаточно близко, чтобы часть отраженной лазерной энергии от цели достигла его, лазерная ГСН определяет, в каком направлении исходит эта энергия, и корректирует траекторию снаряда по направлению к источнику."
 
-"LASER_PRACTICAL_NAME" LANG "Practical Laser Weapons"
-"LASER_PRACTICAL_DESC" LANG "With the advancements in laser power we are at a point where laser can be used to cause physical damage to enemy projectiles."
+"LASER_PRACTICAL_NAME" LANG "Практичное лазерное оружие"
+"LASER_PRACTICAL_DESC" LANG "Благодаря достижениям в области лазерной мощности мы достигли точки, когда лазер можно использовать для нанесения физического урона вражеским снарядам."
 
-"SW_Mk4_NAME" LANG "AESA"
-"SW_Mk4_DESC" LANG "The AESA is a more advanced, sophisticated, second-generation of the original PESA phased array technology. PESAs can only emit a single beam of radio waves at a single frequency at a time. The AESA can radiate multiple beams of radio waves at multiple frequencies simultaneously. AESA radars can spread their signal emissions across a wider range of frequencies, which makes them more difficult to detect over background noise, allowing ships and aircraft to radiate powerful radar signals while still remaining stealthy, as well as being more resistant to jamming."
+"SW_Mk4_NAME" LANG "АФАР"
+"SW_Mk4_DESC" LANG "АФАР — это более продвинутое и сложное второе поколение оригинальной технологии фазированных решеток ПФАР. ПФАР могут одновременно излучать только один луч радиоволн на одной частоте. АФАР может одновременно излучать несколько лучей радиоволн на нескольких частотах. Радары АФАР могут распространять свои излучения сигналов в более широком диапазоне частот, что затрудняет их обнаружение из-за фонового шума, позволяя кораблям и самолетам излучать мощные радиолокационные сигналы, оставаясь незаметными, а также более устойчивыми к помехам."
 
-"ICBM1_NAME" LANG "Early ICBMs"
-"ICBM1_DESC" LANG "Early ICBMs had limited precision, which made them suitable for use only against the largest targets, such as cities. They were seen as a basing option, one that would keep the deterrent force close to home where it would be difficult to attack. Attacks against military targets (especially hardened ones) still demanded the use of a more precise, manned bomber.These were repurposed launch vehicles from the escalating space race meaning their launch facilities were vulnerable."
+"ICBM1_NAME" LANG "Ранние МБР"
+"ICBM1_DESC" LANG "Ранние МБР имели ограниченную точность, что делало их пригодными для использования только против самых крупных целей, таких как города. Они рассматривались как вариант базирования, который позволит удерживать сдерживающие силы близко к дому, где их будет трудно атаковать. Атаки на военные цели (особенно защищенные) по-прежнему требовали использования более точных пилотируемых бомбардировщиков. Это были перепрофилированные ракеты-носители из нарастающей космической гонки, что означало, что их пусковые установки были уязвимы."
 
-"ICBM2_NAME" LANG "Improved ICBMs"
-"ICBM2_DESC" LANG "Second and third-generation designs dramatically improved accuracy to the point where even the smallest point targets can be successfully attacked while also receiving specialised hardened silos in order to be better protected against enemy first strikes.\n\n\n+Increases 1Mt ICBM range\n\n\n+Increases ICBM silo Health and reduces its size"
+"ICBM2_NAME" LANG "Улучшенные МБР"
+"ICBM2_DESC" LANG "Конструкции второго и третьего поколения значительно повысили точность до такой степени, что даже самые маленькие точечные цели могут быть успешно атакованы, а также получили специальные укрепленные шахты для лучшей защиты от превентивных ударов  противника.\n\n\n+Увеличивает дальность 1Мт МБР \n\n\n+Увеличивает прочность шахты МБР и уменьшает ее размер."
 
-"SLBM_NAME" LANG "SLBM"
-"SLBM_DESC" LANG "A submarine-launched ballistic missile (SLBM) is a ballistic missile capable of being launched from submarines. Modern variants usually deliver multiple independently targetable reentry vehicles (MIRVs) each of which carries a nuclear warhead and allows a single launched missile to strike several targets. Submarine-launched ballistic missiles operate in a different way from submarine-launched cruise missiles."
+"SLBM_NAME" LANG "БРПЛ"
+"SLBM_DESC" LANG "Баллистические ракеты подводных лодок (БРПЛ) это баллистические ракеты, способные запускаться с подводных лодок. Современные варианты обычно доставляют несколько разделяющихся головных частей индивидуального наведения (РГЧ), каждая из которых несет ядерную боеголовку и позволяет одной запущенной ракете поразить несколько целей. Баллистические ракеты подводных лодок действуют иначе, чем крылатые ракеты подводных лодок."
 
-"ABM0_NAME" LANG "Nuclear ABM systems"
-"ABM0_DESC" LANG "During the early period of the cold war the lack of precise targeting systems meant that the only viable way to intercept enemy ballistic missiles was to use nuclear warheads."
+"ABM0_NAME" LANG "Ядерные ПРО системы"
+"ABM0_DESC" LANG "В ранний период холодной войны отсутствие точных систем наведения означало, что единственным жизнеспособным способом перехвата вражеских баллистических ракет было использование ядерных боеголовок.."
 
-"ABM02_NAME" LANG "Heavy Nuclear ABM Systems"
-"ABM02_DESC" LANG "The introduction of MIRVs as well as more advanced midflight evasion manoeuvring greatly reduced the effectiveness of conventional ABM systems.Thus fielding high yield nuclear warheads as ABMs could defeat multiple MIRVs."
+"ABM02_NAME" LANG "Тяжёлые ПРО Системы"
+"ABM02_DESC" LANG "Внедрение РГЧ, а также более совершенные маневры уклонения в полете значительно снизили эффективность обычных систем ПРО.Таким образом, использование ядерных боеголовок большой мощности в качестве ПРО может поражать несколько РГЧ."
 
-"ABM1_NAME" LANG "Early ABM systems"
-"ABM1_DESC" LANG "An anti-ballistic missile is a surface-to-air missile designed to counter ballistic missiles.Ballistic missiles are used to deliver nuclear, chemical, biological, or conventional warheads in a ballistic flight trajectory. The term anti-ballistic missile is a generic term conveying a system designed to intercept and destroy any type of ballistic threat; however, it is commonly used for systems specifically designed to counter intercontinental ballistic missiles.\n\n\n+Allows ABMs to be used by Phased Array Tracking SAMs(High Cooldown)"
+"ABM1_NAME" LANG "Ранние ПРО системы"
+"ABM1_DESC" LANG "Противобаллистическая ракета — это ракета класса «земля-воздух», предназначенная для противодействия баллистическим ракетам. Баллистические ракеты используются для доставки ядерных, химических, биологических или обычных боеголовок по баллистической траектории полета.Они обычно используются для систем специально разработанных для противодействия межконтинентальным баллистическим ракетам.\n\n\n+Позволяет ПРО использовать ЗУР с фазированной решеткой(Высокая перезарядка)"
 
-"ABM2_NAME" LANG "Improved ABM systems"
-"ABM2_DESC" LANG "Advancements in radar technology as well as the developments of more sophisticated computers allowed the tracking and interception of faster projectiles and longer ranges.\n\n\n+Drastically reduces ABM cooldown on SAMs\n\n\n+Increases ABM range,precision and speed\n\n\n+Reduces ABM cooldown"
+"ABM2_NAME" LANG "Улучшенные ПРО системы"
+"ABM2_DESC" LANG "Достижения в области радиолокационных технологий, а также разработка более сложных компьютеров позволили отслеживать и перехватывать более быстрые снаряды и дальности полета.\n\n\n+Значительно снижает время перезарядки ЗУР для ПРО.\n\n\n+Увеличивает дальность ПРО, точность и скорость\n\n\n+Уменьшает время перезарядки ПРО"
 
-"ABM3_NAME" LANG "Advanced ABM systems"
-"ABM3_DESC" LANG "With further developments in electronics and rocketry fields as well as material sciences led to more advanced interceptors capable of defeating even the most advanced ballistic missiles.\n\n\n+Increases ABM range,precision and speed\n\n\n+Reduces ABM cooldown"
+"ABM3_NAME" LANG "Улучшенные ПРО системы"
+"ABM3_DESC" LANG "Дальнейшие разработки в области электроники и ракетной техники, а также материаловедения привели к созданию более совершенных перехватчиков, способных поражать даже самые совершенные баллистические ракеты.\n\n\n+Увеличивает дальность ПРО, точность и скорость\n\n\n+Уменьшает время перезарядки ПРО"
 
-"ABM4_NAME" LANG "Ηybrid ABM systems"
-"ABM4_DESC" LANG "Allows the fielding of Anti Ballistic Lasers in conjunction with advanced kinetic interceptors.\n\n\n+Increases ABM range,precision and speed\n\n\n+Reduces ABM cooldown"
-
+"ABM4_NAME" LANG "Гибридные ПРО системы"
+"ABM4_DESC" LANG "Позволяет использовать противоракетные лазеры в сочетании с усовершенствованными кинетическими перехватчиками.\n\n\n+Увеличивает дальность ПРО, точность и скорость\n\n\n+Уменьшает время перезарядки ПРО"
 
 "SONAR1_NAME" LANG "Улучшенная система сонара"
 "SONAR1_DESC" LANG "Гидролокатор (звуковая навигационная дальность) — это метод, использующий распространение звука (обычно под водой, как в подводной навигации) для навигации, связи или обнаружения объектов на поверхности воды или под ней, таких как другие суда.\n\n\n +Увеличивает радиус действия сонара"
@@ -428,32 +427,34 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "JAM3_NAME" LANG "Advanced EW Systems"
 "JAM3_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
 
-"MRBM2_NAME" LANG "Advaned MRBMs"
-"MRBM2_DESC" LANG "Designed to be used in theater level conflicts these missiles can maneuver during flight at different altitudes and trajectories and can turn at up to 20 to 30 G to evade anti-ballistic missiles.\n\n\n+Makes it much harder to intercept"
+"MRBM2_NAME" LANG "Усовершенствованные БРСД"
+"MRBM2_DESC" LANG "Эти ракеты, предназначенные для использования в конфликтах на театре военных действий, могут маневрировать во время полета на разных высотах и ​​траекториях, а также могут маневрировать с перегрузкой до 20–30 G для уклонения от противоракет.\n\n\n+Усложняет перехват"
 
-"MRBM3_NAME" LANG "ASBM"
-"MRBM3_DESC" LANG "An anti-ship ballistic missile (ASBM) is a military ballistic missile system designed to hit a warship at sea.Due to the often hypersonic flight speed of ballistic missiles, the ASBM's kinetic energy alone may be sufficient to cripple or outright destroy a supercarrier with a single conventional warhead impact. However, unlike a nuclear warhead, this will require a direct hit to be effective, thus unlike a typical ballistic missile, which follows a ballistic flight path after the relatively brief initial phase of powered flight, an ASBM would require a precise and high-performance terminal guidance system, with advanced sensors and in-flight calibrations in order to successfully hit a moving target.\n\n\n+Effective Against Large Vessels like cruiser and carriers"
+"MRBM3_NAME" LANG "ПКБР (Противокорабельная баллистическая ракета)"
+"MRBM3_DESC" LANG "Противокорабельная баллистическая ракета (ПКБР) — военная баллистическая ракетная система, предназначенная для поражения военных кораблей. Из-за часто гиперзвуковой скорости полета баллистических ракет одной только кинетической энергии ПКБР может быть достаточно, чтобы вывести из строя или полностью уничтожить суперавианосец с одиночного удара обычной боеголовкой. Однако, в отличие от ядерной боеголовки, для ее эффективности потребуется прямое попадание, таким образом, в отличие от типичной баллистической ракеты, которая следует баллистической траектории полета после относительно короткого начального этапа полета с двигателем, для ПКБР потребуется точное и высокоэффективное попадание. Терминальная система наведения с усовершенствованными датчиками и калибровкой в ​​полете для успешного поражения движущейся цели.\n\n\n+Эффективно против больших кораблей, таких как крейсеры и авианосцы."
 
-"M_ABM_NUKE_NAME" LANG "1Mt Nuclear ABM Missile"
-"M_ABM_NUKE_DESC" LANG "1Mt Nuclear ABM Missile"
+"M_ABM_NUKE_NAME" LANG "1Мт Ядерная противоракета"
+"M_ABM_NUKE_DESC" LANG "1Мт Ядерная противоракета"
 
-"M_ABM_NUKE2_NAME" LANG "50Mt Nuclear ABM Missile"
-"M_ABM_NUKE2_DESC" LANG "50Mt Nuclear ABM Missile"
+"M_ABM_NUKE2_NAME" LANG "50-мегатонная ядерная противоракета"
+"M_ABM_NUKE2_DESC" LANG "50-мегатонная ядерная противоракета"
 
-"U_ABM_SITE_NAME" LANG "ABM site"
-"U_ABM_SITE_DESC" LANG "Collection of hardened Anti Ballistic Missile silos"
+"U_ABM_SITE_NAME" LANG "комплекс ПРО"
+"U_ABM_SITE_DESC" LANG "Коллекция закаленных шахт противоракетной обороны"
 
-"M_ASBM_NAME" LANG "ASBM"
-"M_ASBM_DESC" LANG "An anti-ship ballistic missile (ASBM) is a military ballistic missile system designed to hit a warship at sea."
+// я знаю что тупой перевод, но оно реально так написано: Collection of hardened Anti Ballistic Missile silos
 
-"M_CONV_MRBM_NAME" LANG "Conventional Ballistic Missile"
-"M_CONV_MRBM_DESC" LANG "A ballistic missile follows a ballistic trajectory to deliver a warhead on a predetermined target."
+"M_ASBM_NAME" LANG "ПКБР (Противокорабельная баллистическая ракета)"
+"M_ASBM_DESC" LANG "Противокорабельная баллистическая ракета (ПКБР) — военная баллистическая ракетная система, предназначенная для поражения военных кораблей."
 
-"GBOMB_M_NAME" LANG "Guided Bomb"
-"GBOMB_M_DESC" LANG "A guided bomb (also known as a smart bomb, guided bomb unit, or GBU) is a precision-guided munition designed to achieve a smaller circular error probable (CEP)."
+"M_CONV_MRBM_NAME" LANG "Обычная баллистическая ракета"
+"M_CONV_MRBM_DESC" LANG "Баллистическая ракета следует по баллистической траектории, чтобы доставить боеголовку к заранее определенной цели."
 
-"M_EW_NAME" LANG "ECM pod"
-"M_EW_DESC" LANG "An electronic countermeasure (ECM) is an electrical or electronic device designed to trick or deceive radar, sonar or other detection systems, like infrared (IR) or lasers. It may be used both offensively and defensively to deny targeting information to an enemy."
+"GBOMB_M_NAME" LANG "Управляемая бомба"
+"GBOMB_M_DESC" LANG "Управляемая бомба (также известная как умная бомба, блок управляемой бомбы или GBU) представляет собой высокоточный боеприпас, предназначенный для достижения меньшего кругового вероятного отклонения (КВО)."
+
+"M_EW_NAME" LANG "Блок РЭП"
+"M_EW_DESC" LANG "Электронное противодействие (ECM) — это электрическое или электронное устройство, предназначенное для обмана радаров, гидролокаторов или других систем обнаружения, таких как инфракрасные (ИК) или лазеры. Его можно использовать как в наступательных, так и в оборонительных целях, чтобы лишить врага информации о наведении."
 
 "ENG1_NAME" LANG "1960s Engineering"
 "ENG1_DESC" LANG "Engineering is a branch that combines engineering physics and mathematics principles with materials science to design, analyze, manufacture, and maintain mechanical systems.It is one of the oldest and broadest of the engineering branches.It also inclued the field of electronics where the invention of the integrated circuit and the silicon MOSFET revolutionized the electronics industry and opened a new field of radio,computing and telecommunications applications."
@@ -494,29 +495,29 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "CRUISE6_NAME" LANG "2020S Cruise Missiles"
 "CRUISE6_DESC" LANG "Advanced in materials science allowed the fielding of hyper-sonic cruise missiles flying over 80000 feet during their cruise phase rendering all previous air defence systems nearly obsolete.\n\n\n+Improves Range,Precision and greatly improves Speed"
 
-"AA1_NAME" LANG "Early AAMs"
-"AA1_DESC" LANG "After World War 2, the major powers sought to equip planes with missiles capable of automatically locking on to enemy planes, greatly increasing the range at which enemy fighters and bombers could be destroyed. Guided AA missiles of this era, such as the AIM-9 Sidewinder, were so effective in changing warfare that they continue to be used to this day even by the world's leading militaries.\n\n\n+Improves Precision and Range"
+"AA1_NAME" LANG "Ранние УР ВВ"
+"AA1_DESC" LANG "После Второй мировой войны крупные державы стремились оснастить самолеты ракетами, способными автоматически наводиться на вражеские самолеты, что значительно увеличило дальность поражения вражеских истребителей и бомбардировщиков. Управляемые зенитные ракеты той эпохи, такие как AIM-9 Sidewinder, были настолько эффективны в изменении методов ведения войны, что они по сей день продолжают использоваться даже ведущими вооруженными силами мира.\n\n\n+Улучшает точность и дальность"
 
-"AA2_NAME" LANG "Semi-active radar AAMs"
-"AA2_DESC" LANG "Semi-active radar homing is a common type of missile guidance system, perhaps the most common type for longer-range air-to-air and surface-to-air missile systems. The name refers to the fact that the missile itself is only a passive detector of a radar signal – provided by an external source — as it reflects off the target(in contrast to active radar homing, which uses an active radar).\n\n\n+Improves Precision and Range"
+"AA2_NAME" LANG "УР ВВ с полуактивной радарной ГСН "
+"AA2_DESC" LANG "Полуактивное радиолокационное самонаведение является распространенным типом системы наведения ракет, возможно, наиболее распространенным типом для ракетных систем повышенной дальности «воздух-воздух» и «земля-воздух». Название относится к тому факту, что сама ракета является лишь пассивным детектором радиолокационного сигнала, поступающего от внешнего источника, когда он отражается от цели (в отличие от активного радиолокационного самонаведения, в котором используется активный радар).\n\n\n+Улучшает точность и дальность"
 
-"AA3_NAME" LANG "Active radar AAMs"
-"AA3_DESC" LANG "Active radar homing is a missile guidance method in which a missile contains a radar transceiver (in contrast to semi-active radar homing, which uses only a receiver) and the electronics necessary for it to find and track its target autonomously. NATO brevity code for an air-to-air active radar homing missile launch is Fox Three.\n\n\n+Improves Precision and Range"
+"AA3_NAME" LANG "УР ВВ с активной радарной ГСН"
+"AA3_DESC" LANG "Активное радиолокационное самонаведение — это метод наведения ракеты, при котором ракета содержит радиолокационный приемопередатчик (в отличие от полуактивного радиолокационного самонаведения, в котором используется только приемник) и электронику, необходимую для автономного поиска и отслеживания цели. Сокращенный код НАТО для пуска ракеты с активной радиолокационной самонаводящейся головкой — Fox Three.\n\n\n+Улучшает точность и дальность"
 
-"AA4_NAME" LANG "Ramjet AAMs"
-"AA4_DESC" LANG "A solid-fueled ramjet motor allows the missile to cruise at a speed of over Mach 4 and provides the missile with thrust and mid-way acceleration to target intercept.A two-way datalink enables the launch aircraft to provide mid-course target updates or retargeting if required, including data from off-board third parties. The datalink is capable of transmitting missile information such as functional and kinematic status, information about multiple targets, and notification of target acquisition by the seeker.\n\n\n+Improves Precision and Range"
+"AA4_NAME" LANG "УР ВВ с ПВРД"
+"AA4_DESC" LANG "Твердотопливный прямоточный воздушно-реактивный двигатель позволяет ракете летать со скоростью более 4 Маха и обеспечивает ракете тягу и ускорение на полпути для перехвата цели. Канал передачи данных способен передавать информацию о ракете, такую ​​как функциональное и кинематическое состояние, информацию о нескольких целях и уведомление о захвате цели головкой самонаведения.\n\n\n+Улучшает точность и дальность"
 
-"AA5_NAME" LANG "Advanced Ramjet AAms"
-"AA5_DESC" LANG "New developments in materiel sciences and propulsion drastically increase the range and cruising speed of the AAMs.\n\n\n+Improves Precision and Range"
+"AA5_NAME" LANG "Улучшенные УР ВВ с ПВРД"
+"AA5_DESC" LANG "Новые разработки в области материаловедения и двигателей резко увеличивают дальность полета и крейсерскую скорость УР ВВ.\n\n\n+Улучшает точность и дальность"
 
-"FR_CIWS_NAME" LANG "Defensive Laser Pods"
-"FR_CIWS_DESC" LANG "Defensive Laser Pods are a megawatt-class chemical oxygen iodine laser mounted inside an external hardpoint.It is primarily designed as a missile defense system to destroy enemy AAMs.\n\n\n+Can be mounted with the AA loadouts of fighters and Multiroles"
+"FR_CIWS_NAME" LANG "Защитные лазерные блоки"
+"FR_CIWS_DESC" LANG "Защитные лазерные блоки представляют собой химический кислородно-йодный лазер мегаваттного класса, установленный на внешней точки крепления. Он в первую очередь разработан как система противоракетной обороны для уничтожения вражеских УР ВВ.\n\n\n+Может быть установлен с противовоздушным вооружением истребителей и многоцелевых машин."
 
-"M_ABM_LASER_NAME" LANG "Anti-Ballistic Laser"
-"M_ABM_LASER_DESC" LANG "High powered Laser capable of intercepting high altidute projectiles."
+"M_ABM_LASER_NAME" LANG "Лазер против баллистических целей"
+"M_ABM_LASER_DESC" LANG "Мощный лазер, способный перехватывать снаряды с большой высоты."
 
-"M_LASER_POD_NAME" LANG "Defensive Laser Pod"
-"M_LASER_POD_DESC" LANG "Lightweight Laser Pod capable of intercepting enemy AAMs and SAMs greatly increasing aircraft survivability."
+"M_LASER_POD_NAME" LANG "Защитный лазерный модуль"
+"M_LASER_POD_DESC" LANG "Легкий лазерный блок, способный перехватывать вражеские ЗУР и УР ВВ, значительно повышая живучесть самолетов."
 
 "M_SAM_LASER_NAME" LANG "Air Defence Laser"
 "M_SAM_LASER_DESC" LANG "Mobile version of naval lasers capable of intercepting small projectiles such as missiles at low and medium altidutes."
@@ -533,8 +534,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "ASM4_NAME" LANG "Hybrid-guidance Missiles"
 "ASM4_DESC" LANG "By combining multiple guidance systems such as radar, electro-optical, inertial navigation, GPS, and laser-guidance, modern ASMs can bypass jamming, be deployed at longer ranges, guarantee precision, and operate well even in unfavourable conditions.In adition gliding weapons bacame smaller in order to load more of them on aircrafts and as such be able to saturate enemy defences with swarm tactics.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
 
-"SAM50_NAME" LANG "Early SAMs"
-"SAM50_DESC" LANG "Existing anti-aircraft guns proved highly ineffective against new jet-propelled aircraft. Although there was competition, the idea of a rocket fired from the ground to independently track and chase an aircraft using radar proved the most reliable solution and the US deployed them at to protect all their critical nuclear assets."
+"SAM50_NAME" LANG "Ранние ЗРК"
+"SAM50_DESC" LANG "Существующие зенитные орудия оказались крайне неэффективными против новых реактивных самолетов. Хотя конкуренция существовала, идея ракеты, запускаемой с земли для самостоятельного отслеживания и преследования самолета с помощью радара, оказалась наиболее надежным решением, и США развернули их для защиты всех своих критически важных ядерных объектов."
 
 "SAM60_NAME" LANG "Improved SAM Guidance"
 "SAM60_DESC" LANG "Although early surface-to-air missiles proved very effective, they were unable to deal with rapid advancements in aircraft technology. Mach 3-capable aircraft and electronic countermeasures required the development of a new generation of SAMs with better tracking and hardened radars.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown"
@@ -545,11 +546,11 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SAM10_NAME" LANG "Современные ЗРК"
 "SAM10_DESC" LANG "В современных комплексах ЗРК используются распределенные компьютерные и радиолокационные сети с высокой Защищённостью как от кинетических, так и от кибератак, и можно ожидать, что они будут работать даже во враждебной среде с угрозой Противорадиолокационных ракет и значительными электронными средствами противодействия. Лазерное указание цели теперь также можно использовать в качестве альтернативы радару.\n\n\n+Увеличивает дальность, точность и скорость ракет ЗРК\n\n\n+Уменьшает время перезарядки установки ЗРК.\n\n\n+Позволяет ЗРК также использовать ракеты ПРО (требуются улучшенные системы ПРО)"
 
-"SAM30_NAME" LANG "Avanced Ηybrid SAMs"
-"SAM30_DESC" LANG "Advanced SAM networks utilise both new high-tech kinetic interceptors.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown\n\n\n+Allows the SAM site to also equip laser systems"
+"SAM30_NAME" LANG "Усовершенствованные гибридные ЗРК"
+"SAM30_DESC" LANG "Усовершенствованные комплексы ЗРК используют как новые высокотехнологичные кинетические перехватчики.\n\n\n+Увеличивает дальность, точность и скорость ракет ЗРК.\n\n\n+Уменьшает время перезарядки комплекса ЗРК.\n\n\n+Позволяет комплексу ЗРК также использовать лазерные системы."
 
-"TAWACS_NAME" LANG "Airborne Early Warning"
-"TAWACS_DESC" LANG "Airborne early warning and command systems such as AWACS provide a mobile long-wave radar platform that provides commanders with a bird's eye view of the battlescape, tracking targets across a huge area to provide communications on enemy positions and transfer that information across data-links to the computer systems of weapon platforms such as aircraft."
+"TAWACS_NAME" LANG "Раннее предупреждение об атаки с воздуха"
+"TAWACS_DESC" LANG "Воздушные системы дальнего обнаружения и управления, такие как ДРЛОиУ, представляют собой мобильную длинноволновую радиолокационную платформу, которая дает командирам обзор боевой обстановки с высоты птичьего полета, отслеживание целей на огромной площади для обеспечения связи с позициями противника и передачи этой информации по каналам передачи данных к компьютерные системы оружейных платформ, таких как самолеты."
 
 "ARMY_TECH_NAME" LANG "Enable Armies"
 "ARMY_TECH_DESC" LANG "This tech is used to prohibit its research and thus armies during a game."
@@ -575,17 +576,18 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "P_ARMY_WEP_NAME" LANG "Airborne Ground Assets"
 "P_ARMY_WEP_DESC" LANG "Airborne Ground Assets"
 
-"SAT_CAMERA_NAME" LANG "Optical imaging system"
-"SAT_CAMERA_DESC" LANG "Optical imaging system"
+"SAT_CAMERA_NAME" LANG "Система оптической визуализации"
+"SAT_CAMERA_DESC" LANG "Система оптической визуализации"
 
-"AIR_CAMERA_NAME" LANG "Reconnaissance Camera"
-"AIR_CAMERA_DESC" LANG "Reconnaissance Camera"
+"AIR_CAMERA_NAME" LANG "Камера разведки"
+"AIR_CAMERA_DESC" LANG "Камера разведки"
 
-"U_SPY_PLANE_NAME" LANG "Reconnaissance aircraft"
-"U_SPY_PLANE_DESC" LANG "A reconnaissance aircraft is a military aircraft designed or adapted to perform aerial reconnaissance with roles including collection of imagery intelligence(including using photography), signals intelligence, as well as measurement and signature intelligence."
+"U_SPY_PLANE_NAME" LANG "Разведывательный самолет"
+"U_SPY_PLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур."
 
-"SPYPLANE_NAME" LANG "Reconnaissance aircraft"
-"SPYPLANE_DESC" LANG "A reconnaissance aircraft is a military aircraft designed or adapted to perform aerial reconnaissance with roles including collection of imagery intelligence(including using photography), signals intelligence, as well as measurement and signature intelligence."
+"SPYPLANE_NAME" LANG "Разведывательный самолет"
+"SPYPLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур.
+"
 
 "SPYSAT_NAME" LANG "Разведывательный спутник"
 "SPYSAT_DESC" LANG "Разведывательный спутник (обычно, хотя и неофициально, называемый спутником-шпионом) — это спутник наблюдения Земли или спутник связи, развернутый для военных или разведывательных целей."
@@ -605,8 +607,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_KAS_SAT_NAME" LANG "Спутник кинетической бомбардировки"
 "U_KAS_SAT_DESC" LANG "Спутник, оснащенный 12 кинетическими стержнями, способными накапливать большое количество кинетической энергии, вызывая широкомасштабные разрушения."
 
-"KAS_TECH_NAME" LANG "Kinetic Bombardment"
-"KAS_TECH_DESC" LANG "A kinetic bombardment or a kinetic orbital strike is the hypothetical act of attacking a planetary surface with an inert projectile from orbit, where the destructive power comes from the kinetic energy of the projectile impacting at very high speeds. The concept originated during the Cold War.\n\n\n+Requires Space Radar for targeting.\n\n\n+Contains 12 Rods\n\n\n+CANNOT BE RESUPPLIED"
+"KAS_TECH_NAME" LANG "Кинетическая бомбардировка"
+"KAS_TECH_DESC" LANG "Кинетическая бомбардировка или кинетический орбитальный удар - это гипотетический акт атаки поверхности планеты инертным снарядом с орбиты, где разрушительная сила исходит от кинетической энергии снаряда, падающего на очень высоких скоростях. Концепция возникла во время холодной войны.\n\n\n+Требуется космический радар для наведения\n\n\n+Содержит 12 стержней\n\n\n+НЕЛЬЗЯ ПЕРЕЗАРЯДИТЬ"
 
 "LASER_ANTISAT_NAME" LANG "Противоспутниковый лазер"
 "LASER_ANTISAT_DESC" LANG "Мощный лазер, способный нейтрализовать враждебные спутники, сжигая их электронику."
