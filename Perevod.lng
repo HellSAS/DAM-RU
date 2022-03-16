@@ -631,16 +631,16 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_SAM_SITE_DESC" LANG "Anti-aircraft weapon systems, associated sensor systems and command and control arrangements to protect your homeland.\n\nCan be extended to the Missile defence to perform the task of intercepting any projectile in flight.\n\n\n+ Intercepts enemy aircrafts.\n+ Intercepts missiles (with ABM technology).\n+ Cheap to build.\n- Cannot see missiles without the OTH radar support."
 "U_SAM_SITE_NAME" LANG "Air Defence Site"
 
-"ART1_NAME" LANG "Nuclear Artillery"
+"ART1_NAME" LANG "Ядерная артиллерия"
 "ART1_DESC" LANG "Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets."
 
 "ART2_NAME" LANG "Project Babylon"
 "ART2_DESC" LANG "Baby Babylon,was a horizontally mounted device which was simply a prototype for test purposes. It had a bore of 350 mm (13.8 inches), and a barrel length of 46 metres (151 feet),[1] and weighed some 102 tonnes. After conducting tests with lead projectiles, this gun was set up on a hillside at a 45 degree angle. It was expected to achieve a range of 750 km."
 
-"ART3_NAME" LANG "Sub-orbital Artillery"
+"ART3_NAME" LANG "Суб-орбитальная артиллерия"
 "ART3_DESC" LANG "A massive Railgun Turret Network capable of launching multiple nuclear tipped shells thousands of kilometers away."
 
-"U_ART_NAME" LANG "Supergun"
+"U_ART_NAME" LANG "Супер пушка"
 "U_ART_DESC" LANG "Superguns are super-heavy large caliber guns capable of launching projectiles hundreds of kilometers away.They have a bore of more than 350 mm and a barrel length of more than 50 metres."
 
 "U_STONE_NAME" LANG "Stonehenge Complex"
