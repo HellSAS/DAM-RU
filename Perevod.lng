@@ -248,16 +248,16 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_ATTACK_DESC" LANG "Многоцелевые истребители(MRCA) одинаково хорошо справляются с уничтожением как наземных так и воздушных целей."
 
 "U_AIRPORT_NAME" LANG "Стратегический аэродром"
-"U_AIRPORT_DESC" LANG "Аэродром где размещаются стратегические бомбардировщики и истребители-перехватчики."
+"U_AIRPORT_DESC" LANG "Аэродром где размещаются стратегические бомбардировщики, истребители-перехватчики и самолёты ДРЛО."
 
 "U_AIRPORT2_NAME" LANG "Тактичиская авиабаза"
-"U_AIRPORT2_DESC" LANG "Авиабаза где размещаются многоцелевые истребители и истребители завоевания воздушного превосходства."
+"U_AIRPORT2_DESC" LANG "Авиабаза где размещаются многоцелевые истребители, истребители завоевания воздушного превосходства и самолёты ДРЛО."
 
 "U_AIRPORT3_NAME" LANG "База военно-морской авиации"
 "U_AIRPORT3_DESC" LANG "Авиабаза ВМФ является местом наземного базирования морской авиации и содержит в себе всевозможные самолёты ВМФ."
 
 "U_AIRPORT4_NAME" LANG "Авиабаза специальных операций"
-"U_AIRPORT4_DESC" LANG "Авиабаза, на которой размещаются самолёты специального назначения например самолёты воздушной разведки и самолёты ДРЛО."
+"U_AIRPORT4_DESC" LANG "Авиабаза, на которой размещаются самолёты специального назначения например самолёты воздушной разведки."
 
 "U_LHA_NAME" LANG "Amphibious Assault Ship"
 "U_LHA_DESC" LANG "An amphibious assault ship is a type of amphibious warfare ship employed to land and support ground forces on enemy territory by an amphibious assault. Modern ships support amphibious landing craft, with most designs including a well deck. Coming full circle, some amphibious assault ships also support V/STOL fixed-wing aircraft, now having a secondary role as aircraft carriers."
