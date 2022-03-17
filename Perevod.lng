@@ -241,8 +241,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_Cavern_DESC" LANG "Подземные аэродромы обеспечивают лучшую защиту самолётов от взрывного воздействия. Однако это ограничивает размер самолетов подходящих для подземного базирования."
 "U_Cavern_NAME" LANG "Подземный аэродром"
 
-"U_BATTLECRUISER_NAME" LANG "Heavy surface combatant"
-"U_BATTLECRUISER_DESC" LANG "Heavy surface combatans refer to both battleships still used as gun platforms during the early cold war as well as a class of nuclear-powered guided missile cruisers of the Soviet Navy and Russian Navy, the largest and heaviest surface combatant warships in operation in the world. Among modern warships, they are second in size only to large aircraft carriers, and of similar size to a World War I era battleship."
+"U_BATTLECRUISER_NAME" LANG "Тяжёлый военный корабль"
+"U_BATTLECRUISER_DESC" LANG "Под тяжелыми надводными боевыми кораблями понимаются как линкоры, которые до сих пор использовались в качестве артиллерийских платформ в начале холодной войны, так и класс атомных ракетных крейсеров ВМФ СССР и ВМФ России, самые большие и тяжелые надводные боевые корабли в эксплуатации в мире. Среди современных военных кораблей они уступают по размеру только крупным авианосцам и сопоставимы по размеру с линкорами времен Первой мировой войны."
 
 "U_ATTACK_NAME" LANG "Многоцелевой истребитель"
 "U_ATTACK_DESC" LANG "Многоцелевые истребители(MRCA) одинаково хорошо справляются с уничтожением как наземных так и воздушных целей."
@@ -259,19 +259,20 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_AIRPORT4_NAME" LANG "Авиабаза специальных операций"
 "U_AIRPORT4_DESC" LANG "Авиабаза, на которой размещаются самолёты специального назначения например самолёты воздушной разведки и самолёты ДРЛО."
 
-"U_LHA_NAME" LANG "Amphibious Assault Ship"
-"U_LHA_DESC" LANG "An amphibious assault ship is a type of amphibious warfare ship employed to land and support ground forces on enemy territory by an amphibious assault. Modern ships support amphibious landing craft, with most designs including a well deck. Coming full circle, some amphibious assault ships also support V/STOL fixed-wing aircraft, now having a secondary role as aircraft carriers."
+"U_LHA_NAME" LANG "Десантный корабль"
+"U_LHA_DESC" LANG "Десантный корабль — это тип десантного боевого корабля, который используется для высадки и поддержки сухопутных войск на территории противника путем морского десанта. Современные корабли поддерживают десантные катера, большинство конструкций которых включают палубу колодца. Завершая круг, некоторые десантные корабли также поддерживают самолеты V / STOL с неподвижным крылом, которые теперь играют второстепенную роль в качестве авианосцев."
 
-"ASM1_M_NAME" LANG "Ракета класса «воздух-поверхность»"
-"ASM1_M_DESC" LANG "An air-to-surface missile is a missile designed to be launched from military aircraft at targets on land or sea.The two most common propulsion systems for air-to-surface missiles are rocket motors, usually with shorter range, and slower, longer-range jet engines. Some air-to-surface missiles are powered by ramjets, giving them both long range and high speed."
+"ASM1_M_NAME" LANG "Ракета класса воздух-поверхность"
+"ASM1_M_DESC" LANG "Ракета класса воздух-поверхность — это ракета, предназначенная для запуска с военного самолета по целям на суше или на море. Двумя наиболее распространенными силовыми установками для ракет класса воздух-поверхность являются ракетные двигатели, обычно с меньшим радиусом действия и более медленные, более длинные. реактивные двигатели дальнего действия. Некоторые ракеты класса воздух-поверхность приводятся в действие прямоточными воздушно-реактивными двигателями, что дает им большую дальность полета и высокую скорость."
 
-"M_CONV_CRUISE_NAME" LANG "Conventional Cruise Missile"
-"M_CONV_CRUISE_DESC" LANG "A cruise missile is a guided missile using GPS guidance and used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances with high precision. Modern cruise missiles are capable of travelling at supersonic or high subsonic speeds, are self-navigating, and are able to fly on a non-ballistic, extremely low-altitude trajectory."
+"M_CONV_CRUISE_NAME" LANG "Обычная крылатая ракета"
+"M_CONV_CRUISE_DESC" LANG "Крылатая ракета — это управляемая ракета, использующая GPS-наведение и используемая против наземных целей, которая остается в атмосфере и пролетает большую часть своей траектории полета примерно с постоянной скоростью. Крылатые ракеты предназначены для доставки больших боеголовок на большие расстояния с высокой точностью. Современные крылатые ракеты способны двигаться со сверхзвуковой или высокой дозвуковой скоростью, являются самонаводящимися и способны летать по небаллистической, чрезвычайно маловысотной траектории."
 
-"M_NUKE_CRUISE_NAME" LANG "Nuclear Cruise Missile"
-"M_NUKE_CRUISE_DESC" LANG "Cruise missiles armed with nuclear warheads were first became operational and used by soviet strategic bombers against NATO naval groups.Later with the emergance of GPS they became a viable weapon against surface targets"
+"M_NUKE_CRUISE_NAME" LANG "Ядерная крылатая ракета"
+"M_NUKE_CRUISE_DESC" LANG "Крылатые ракеты, вооруженные ядерными боеголовками, впервые были введены в строй и применялись советскими стратегическими бомбардировщиками против военно-морских группировок НАТО. Позже, с появлением GPS, они стали действенным оружием против надводных целей."
 
 //ПРАВИТЬ!
+//НЕТ!
 "M_SHIP_SHIP_NAME" LANG "Противокорабельная ракета"
 "M_SHIP_SHIP_DESC" LANG "Противокорабельная ракета — это управляемая ракета, предназначенная для применения против кораблей и крупных катеров. Большинство противокорабельных ракет относятся к типу скользящих по морю, и многие из них используют комбинацию инерциального наведения и активного радиолокационного самонаведения. Многие другие противокорабельные ракеты используют инфракрасное самонаведение, чтобы следовать за теплом, излучаемым кораблем; также возможно наведение ПКР."
 
@@ -294,8 +295,13 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_EWAIR_NAME" LANG "Самолёт РЭБ"
 "U_EWAIR_DESC" LANG "Самолет РЭБ — военный летательный аппарат, оборудованный для ведения радиоэлектронной борьбы (РЭБ), то есть снижения эффективности радиолокационных и радиотехнических систем противника за счет использования методов радиолокационного подавления и обмана."
 
+
+"CVN_ATK_NAME" LANG "Авиационный штурмовик"
+"CVN_ATK_DESC" LANG "Наиболее важным элементом проекции сил авианосца являются их штурмовики. Эти самолеты предназначены для поражения как морских, так и наземных целей, что позволяет авианосцу угрожать огромному количеству объектов противника, от ядерной инфраструктуры до надводного флота."
+=======
 "CVN_ATK_NAME" LANG "Палубный Истребитель-Бомбардировщик"
 "CVN_ATK_DESC" LANG "Наиболее важным элементом проекции сил авианосца являются их штурмовики. Это многоцелевые истребители предназначенные для поражения как морских, так и наземных целей, что позволяет авианосцу угрожать огромному количеству объектов противника, от ядерной инфраструктуры до надводного флота."
+
 
 "NAVY60_NAME" LANG "Атомные боевые корабли"
 "NAVY60_DESC" LANG "В 60-е годы появились атомные ракетные подводные лодки и первые в мире военные корабли с атомными двигателями. Многие технологии и методы Второй мировой войны оставались актуальными, а орудия продолжали использоваться наряду с ранними ракетными системами. Теперь, когда доступны улучшенные системы управления огнем и противолодочные возможности вертолетов, технологии а не размер ствола начинают переопределять военно-морскую войну.\n\n\n+Увеличивает скорость корабля и сокращает время перезарядки оружия."
@@ -321,6 +327,22 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SUB30_NAME" LANG "Дизайн подводных лодок 2030-х годов"
 "SUB30_DESC" LANG "Возможным движителем подводных лодок является магнитогидродинамический привод или гусеничный привод не имеющий движущихся частей. Он был популяризирован в киноверсии «Охоты за Красным Октябрем» по сценарию Тома Клэнси, в котором он изображался как практически бесшумная система. (В книге использовалась форма движителя, а не МГД.) Хотя некоторые экспериментальные надводные корабли были построены с этой двигательной установкой, скорость не была такой высокой как ожидалось. Кроме того, шум создаваемый пузырями и более высокая мощность которая требуются реактору подводной лодки, означают что он вряд ли будет рассматриваться для каких-либо военных целей.\n\n\n+Увеличивает скорость подводных лодок, снижает уровень шума от двигателя."
 
+
+"3GEN_NAME" LANG "Самолет 3-го поколения"
+"3GEN_DESC" LANG "С самолетами 3-го поколения ракеты класса «воздух-воздух» стали стандартным методом воздушного боя, а пушки отошли на второй план. На этих самолетах также будет развернуто основное управляемое оружие первого поколения, обеспечивающее новые возможности наземной атаки, для выполнения которых ранее требовалось гораздо больше ошибок; дальнейшее улучшение за счет использования аналоговой авионики над паром. \n\n\n+ Увеличивает дальность, Увеличивает скорость поворота, Увеличивает скорость и труднее перехватить"
+
+"4GEN_NAME" LANG "Самолет 4-го поколения"
+"4GEN_DESC" LANG "Для самолетов 4-го поколения будут характерны системы управления полетом по проводам, оцифровка авионики, ранние технологии невидимости и современные системы управления огнем. Маневрирование в воздушном бою, а не грубая скорость, стало ключевым доктринальным требованием большинства истребителей. Многие самолеты 4-го поколения все еще используются во всем мире и продолжают показывать фантастические результаты при использовании против самолетов более старого поколения."
+
+"4GEN2_NAME" LANG "Самолет 4.5-го поколения"
+"4GEN2_DESC" LANG "Поскольку самолеты четвертого поколения стали доминировать на поле боя, но их технологии и оборудование начали стареть, самолеты поколения 4.5 определялись их модернизациями; улучшенный радар, авионика, каналы передачи данных и модернизированные системы вооружения, построенные на тех же принципах, что и их более ранние аналоги - часто в том же корпусе."
+
+"5GEN_NAME" LANG "Самолет 5-го поколения"
+"5GEN_DESC" LANG "Самые передовые самолеты, находящиеся в настоящее время на вооружении, самолеты 5-го поколения, такие как F-22 или J-20, имеют современную малозаметную конструкцию, чрезвычайно мощные электронные возможности, сетевые цифровые системы нового поколения, радары с низкой вероятностью перехвата и высокоэффективные радиолокационные системы. высокопроизводительные планеры, способные работать в экстремальных условиях.\n\n\n+Повышает скорость поворота,Повышает скорость,гораздо труднее перехватить"
+
+"6GEN_NAME" LANG "Самолет 6-го поколения"
+"6GEN_DESC" LANG "Самолеты шестого поколения представляют собой концептуальный класс конструкции самолетов, более совершенный, чем самолеты пятого поколения, которые в настоящее время находятся в эксплуатации и разрабатываются. Ожидается, что типичные характеристики конструкции будут включать расширенные цифровые возможности, включая высокопроизводительные сети, искусственный интеллект, объединение данных, кибервойна, Возможности D2D и боевого управления, управления и связи (C3), опционально пилотируемые, с тем же планером, способным выполнять пилотируемые, дистанционно управляемые или бортовые миссии с искусственным интеллектом, усовершенствованные двигатели с регулируемым циклом, способные экономично летать в крейсерском режиме, но при этом обеспечивать высокую тягу, когда это необходимо .\n\n\n+Повышает скорость поворота,Повышает скорость,намного сложнее перехватить"
+
 "3GEN_NAME" LANG "Самолеты 3-го поколения"
 "3GEN_DESC" LANG "С появлением самолетов 3-го поколения ракеты класса «воздух-воздух» стали стандартным методом ведения воздушного боя, а пушки отошли на второй план. На этих самолетах также будет развернуто основное управляемое оружие первого поколения, обеспечивающее новые возможности наземной атаки, для выполнения которых ранее требовалось гораздо больше усилий пилотов. \n\n\n+Увеличивает дальность и скорость авиации\n\n\n+Увеличивает скорость поворота и усложняет перехват авиации"
 
@@ -345,8 +367,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_FLAKGUN_NAME" LANG "Военно-морской ЗРК"
 "M_FLAKGUN_DESC" LANG "ПВО — это зенитное орудие самообороны, используемое против самолетов противника."
 
-"LW_Mk4_NAME" LANG "Future LW Radar"
-"LW_Mk4_DESC" LANG "\n\n\n+Increase LW Radar range"
+"LW_Mk4_NAME" LANG "Радар будущего LW"
+"LW_Mk4_DESC" LANG "LW — двухкоординатный корабельный радар дальнего обзора \n\n\n+Увеличьте дальность действия радара LW"
 
 
 "GPS_NAME" LANG "GPS"
@@ -427,14 +449,14 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "TOR4_NAME" LANG "Торпеды 2020-х годов"
 "TOR4_DESC" LANG "Более высокая скорость передачи данных привела к лучшему времени отклика и таким образом к увеличению скорости навигации топерд.\n\n\n+Увеличивает радиус действия торпед"
 
-"JAM1_NAME" LANG "Early EW Systems"
-"JAM1_DESC" LANG "Electronic warfare (EW) is any action involving the use of the electromagnetic spectrum (EM spectrum) or directed energy to control the spectrum, attack an enemy, or impede enemy assaults. The purpose of electronic warfare is to deny the opponent the advantage of, and ensure friendly unimpeded access to, the EM spectrum. EW can be applied from air, sea, land, and/or space by manned and unmanned systems, and can target humans, communication, radar, or other assets.Ingame it reduces enemy LW and SW radar ranges.\n\n\n+Allows fielding of EW aircrafts and EW loadouts for multirole fighters"
+"JAM1_NAME" LANG "Ранние системы РЭБ"
+"JAM1_DESC" LANG "Электронная война (РЭБ) — это любое действие, связанное с использованием электромагнитного спектра (ЭМ-спектра) или направленной энергии для управления спектром, атаки противника или противодействия атакам противника. Цель радиоэлектронной борьбы состоит в том, чтобы лишить противника преимущества и обеспечить дружественный беспрепятственный доступ к электромагнитному спектру. РЭБ может применяться с воздуха, моря, земли и/или из космоса пилотируемыми и беспилотными системами и может нацеливаться на людей, средства связи, радары или другие объекты. + Позволяет размещать самолеты РЭБ и комплекты РЭБ для многоцелевых истребителей."
 
-"JAM2_NAME" LANG "Improved EW Systems"
-"JAM2_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
+"JAM2_NAME" LANG "Улучшенные системы РЭБ"
+"JAM2_DESC" LANG "Более мощные и сложные системы позволяют ослеплять радары противника с больших расстояний.\n\n\n+Повышает эффективную дальность РЭБ."
 
-"JAM3_NAME" LANG "Advanced EW Systems"
-"JAM3_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
+"JAM3_NAME" LANG "Передовые системы РЭБ"
+"JAM3_DESC" LANG "Более мощные и сложные системы позволяют ослеплять радары противника с больших расстояний.\n\n\n+Повышает эффективную дальность РЭБ."
 
 "MRBM2_NAME" LANG "Усовершенствованные БРСД"
 "MRBM2_DESC" LANG "Эти ракеты предназначенные для использования в конфликтах на театре военных действий, могут маневрировать во время полета на разных высотах и ​​траекториях, а также могут маневрировать с перегрузкой до 20–30 G для уклонения от противоракет.\n\n\n+Усложняет перехват ракет БРСД"
@@ -452,6 +474,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_ABM_SITE_DESC" LANG "Коллекция закаленных шахт противоракетной обороны"
 
 // я знаю что тупой перевод, но оно реально так написано: Collection of hardened Anti Ballistic Missile silos
+// EgorRMX ВСЕМ ПОХУЙ. Скинь хуй ПЖ
 
 "M_ASBM_NAME" LANG "ПКБР (Противокорабельная баллистическая ракета)"
 "M_ASBM_DESC" LANG "Противокорабельная баллистическая ракета (ПКБР) — военная баллистическая ракетная система, предназначенная для поражения военных кораблей."
@@ -465,44 +488,44 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_EW_NAME" LANG "Блок РЭП"
 "M_EW_DESC" LANG "Электронное противодействие (ECM) — это электрическое или электронное устройство, предназначенное для обмана радаров, гидролокаторов или других систем обнаружения, таких как инфракрасные (ИК) или лазеры. Его можно использовать как в наступательных, так и в оборонительных целях, чтобы лишить врага информации о наведении."
 
-"ENG1_NAME" LANG "1960s Engineering"
-"ENG1_DESC" LANG "Engineering is a branch that combines engineering physics and mathematics principles with materials science to design, analyze, manufacture, and maintain mechanical systems.It is one of the oldest and broadest of the engineering branches.It also inclued the field of electronics where the invention of the integrated circuit and the silicon MOSFET revolutionized the electronics industry and opened a new field of radio,computing and telecommunications applications."
+"ENG1_NAME" LANG "Инженерия 1960-х""
+"ENG1_DESC" LANG "Инженерия — это отрасль, которая сочетает в себе принципы инженерной физики и математики с материаловедением для проектирования, анализа, производства и обслуживания механических систем. Это одна из старейших и широчайших инженерных отраслей. интегральная схема и кремниевый полевой МОП-транзистор произвели революцию в электронной промышленности и открыли новую область применения в радио, вычислительной технике и телекоммуникациях."
 
-"ENG2_NAME" LANG "1970s Engineering"
-"ENG2_DESC" LANG "Advancements in material sciences allowed the development of mechanical solutions previously though impractical.In the field of electronics the earliest multi-chip microprocessors were the Four-Phase Systems AL-1 in 1969 and Garrett AiResearch MP944 in 1970, each using several MOS LSI chips.On November 15, 1971, Intel released the world's first single-chip microprocessor, the 4004, on a single MOS LSI chip. Its development was led by Federico Faggin, using silicon-gate MOS technology, along with Ted Hoff, Stanley Mazor and Masatoshi Shima."
+"ENG2_NAME" LANG "Инженерия 1970-х""
+"ENG2_DESC" LANG "Достижения в области материаловедения позволили разработать ранее механические решения, хотя и непрактичные. В области электроники самыми ранними многочиповыми микропроцессорами были Four-Phase Systems AL-1 в 1969 году и Garrett AiResearch MP944 в 1970 году, каждый из которых использовал несколько микросхем MOS LSI. 15 ноября 1971 года Intel выпустила первый в мире однокристальный микропроцессор 4004 на одном кристалле MOS LSI. Его разработкой руководил Федерико Фаггин с использованием МОП-технологии с кремниевыми затворами, а также Тед Хофф, Стэнли Мазор и Масатоши Шима."
 
-"ENG3_NAME" LANG "1980s Engineering"
-"ENG3_DESC" LANG "Advancements in material sciences allowed the development of mechanical solutions previously though impractical.The powerful supercomputers of the era were at the other end of the computing spectrum from the microcomputers, and they also used integrated circuit technology."
+"ENG3_NAME" LANG "Инженерия 1980-х""
+"ENG3_DESC" LANG "Достижения в области материаловедения позволили разработать ранее механические решения, хотя и непрактичные. Мощные суперкомпьютеры той эпохи находились на другом конце вычислительного спектра от микрокомпьютеров, и в них также использовалась технология интегральных схем."
 
-"ENG4_NAME" LANG "1990s Engineering"
-"ENG4_DESC" LANG "While the supercomputers of the 1980s used only a few processors, in the 1990s, machines with thousands of processors began to appear both in the United States and in Japan, setting new computational performance records."
+"ENG4_NAME" LANG "Инженерия 1990-х"
+"ENG4_DESC" LANG "В то время как суперкомпьютеры 1980-х использовали всего несколько процессоров, в 1990-х как в США, так и в Японии стали появляться машины с тысячами процессоров, устанавливающие новые рекорды вычислительной производительности."
 
-"ENG5_NAME" LANG "2000s Engineering"
-"ENG5_DESC" LANG "A lot of modern tools are used for new manufacturing techniques. Analysis and designs in mechanical engineering are helped by various tools today. Indeed, mechanical engineers are using finite element analysis (FEA), computational fluid dynamics (CDF), computer-aided design (CAD), failure modes & effect analysis (FMEA). All of these tools are allowing mechanical engineers to work on the creation of 3D models.Progress in the first decade of the 21st century was dramatic and supercomputers with over 60,000 processors appeared, reaching petaflop performance levels."
+"ENG5_NAME" LANG "Инженерия 2000-х"
+"ENG5_DESC" LANG "Многие современные инструменты используются для новых технологий производства. Анализу и проектированию в машиностроении сегодня помогают различные инструменты. Действительно, инженеры-механики используют анализ конечных элементов (FEA), вычислительную гидродинамику (CDF), автоматизированное проектирование (CAD), анализ видов отказов и последствий (FMEA). Все эти инструменты позволяют инженерам-механикам работать над созданием 3D-моделей. Прогресс в первом десятилетии 21-го века был впечатляющим, и появились суперкомпьютеры с более чем 60 000 процессорами, производительность которых достигла петафлопсного уровня."
 
-"ENG6_NAME" LANG "2010s Engineering"
-"ENG6_DESC" LANG "In July 2011, the 8.1 petaflop Japanese K computer became the fastest in the world using over 60,000 SPARC64 VIIIfx processors housed in over 600 cabinets. The fact that K computer is over 60 times faster than the Earth Simulator, and that the Earth Simulator ranks as the 68th system in the world seven years after holding the top spot demonstrates both the rapid increase in top performance and the widespread growth of supercomputing technology worldwide.By 2014, the Earth Simulator had dropped off the list and by 2018 K computer had dropped out of the top 10. By 2018, Summit had become the world's most powerful supercomputer, at 200 petaFLOPS."
+"ENG6_NAME" LANG "Инженерия 2010-х"
+"ENG6_DESC" LANG "В июле 2011 года японский компьютер K с производительностью 8,1 петафлопс стал самым быстрым в мире, используя более 60 000 процессоров SPARC64 VIIIfx, размещенных в более чем 600 шкафах. Тот факт, что компьютер K более чем в 60 раз быстрее, чем Earth Simulator, и что Earth Simulator занимает 68-е место в мире через семь лет после удержания первого места, демонстрирует как быстрый рост максимальной производительности, так и широкое распространение суперкомпьютерных технологий. К 2014 году Earth Simulator выпал из списка, а к 2018 году компьютер K выпал из первой десятки. К 2018 году Summit стал самым мощным суперкомпьютером в мире с производительностью 200 петафлопс."
 
-"ENG7_NAME" LANG "2020s Engineering"
-"ENG7_DESC" LANG "CAD software and 3D printing are useful for mechanical designers and engineers in order to work on designs, prototypes and create as many iterations as they want.3D software is allowing to model, visualize, and simulate new projects, even the most complex ones.In the field of electronics Quantum computers started making an appearance.Quantum computing is the use of quantum phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.Quantum computers are believed to be able to solve certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science."
+"ENG7_NAME" LANG "Инженерия 2020-х"
+"ENG7_DESC" LANG "Программное обеспечение CAD и 3D-печать полезны для конструкторов и инженеров-механиков, чтобы работать над проектами, прототипами и создавать столько итераций, сколько они хотят. Программное обеспечение для 3D позволяет моделировать, визуализировать и моделировать новые проекты, даже самые сложные. область электроники Начали появляться квантовые компьютеры. Квантовые вычисления — это использование квантовых явлений, таких как суперпозиция и запутанность, для выполнения вычислений. Компьютеры, выполняющие квантовые вычисления, известны как квантовые компьютеры. Считается, что квантовые компьютеры способны решать определенные вычислительные задачи, такие как целочисленная факторизация (которая лежит в основе шифрования RSA), значительно быстрее, чем классические компьютеры. Изучение квантовых вычислений является подобластью квантовой информатики."
 
-"CRUISE1_NAME" LANG "1960s Cruise Missiles"
-"CRUISE1_DESC" LANG "A cruise missile is a guided missile used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances.In the Early years of the Cold War the lack of a precise guidance system meant that the only viable way to deliver a warhead was with radar guidance which could only be applied in an anti-ship role or with a nuclear warhead for land targets with a CEP of 500-1500m."
+"CRUISE1_NAME" LANG "Крылатые ракеты 1960-х"
+"CRUISE1_DESC" LANG "Крылатая ракета — это управляемая ракета, используемая против наземных целей, которая остается в атмосфере и пролетает большую часть траектории своего полета примерно с постоянной скоростью. Крылатые ракеты предназначены для доставки большой боеголовки на большие расстояния. В первые годы холодной войны отсутствие точной системы наведения означало, что единственным жизнеспособным способом доставки боеголовки было радиолокационное наведение, которое можно было применять только в противоракетной зоне. -корабельной роли или с ядерной боевой частью по наземным целям с ОСС 500-1500м."
 
-"CRUISE2_NAME" LANG "1970s Cruise Missiles"
-"CRUISE2_DESC" LANG "Improvements in radar guidance slightly improved the precision of both conventional and nuclear cruise missiles and new developments in engines and aerodynamics further increased their range.\n\n\n+Improves Range,Speed and Precision"
+"CRUISE2_NAME" LANG "Крылатые ракеты 1970-х"
+"CRUISE2_DESC" LANG "Усовершенствования в радиолокационном наведении немного повысили точность как обычных, так и ядерных крылатых ракет, а новые разработки в области двигателей и аэродинамики еще больше увеличили их дальность.\n\n\n+Повышает дальность, скорость и точность"
 
-"CRUISE3_NAME" LANG "1980s Cruise Missiles"
-"CRUISE3_DESC" LANG "The introduction of GPS made cruise missiles a viable weapon against land targets in extreme ranges while new ground radar avoidance systems made them considerably harder to shoot down.\n\n\n+Improves Range,Speed and Precision\n\n\n+Increases Payload capacity"
+"CRUISE3_NAME" LANG "Крылатые ракеты 1980-х"
+"CRUISE3_DESC" LANG "Внедрение GPS сделало крылатые ракеты жизнеспособным оружием против наземных целей на экстремальных дистанциях, в то время как новые наземные радиолокационные системы уклонения значительно усложнили их сбитие.\n\n\n+Повышает дальность, скорость и точность\n\n\n+ Увеличивает вес заряда"
 
-"CRUISE4_NAME" LANG "2000s Cruise Missiles"
-"CRUISE4_DESC" LANG "Further improvements in missile avoidance and terrain masking protected the missiles against increasingly advanced missile defence systems.\n\n\n+Improves Range,Speed and Precision"
+"CRUISE4_NAME" LANG "Крылатые ракеты 2000-х"
+"CRUISE4_DESC" LANG "Дальнейшие улучшения в уклонении от ракет и маскировке местности защищали ракеты от все более совершенных систем противоракетной обороны.\n\n\n+Увеличивает дальность, скорость и точность."
 
-"CRUISE5_NAME" LANG "2010s Cruise Missiles"
-"CRUISE5_DESC" LANG "By adopting stealth characteristics cruise missiles became more survivable in an ever increasingly anti-missile environment.\n\n\n+Improves Range,Speed and Precision\n\n\n+Increases Payload capacity"
+"CRUISE5_NAME" LANG "Крылатые ракеты 2010-х"
+"CRUISE5_DESC" LANG "Приняв характеристики малозаметности, крылатые ракеты стали более живучими в постоянно растущей противоракетной среде.\n\n\n+Увеличивает дальность, скорость и точность\n\n\n+Увеличивает вес заряда"
 
-"CRUISE6_NAME" LANG "2020S Cruise Missiles"
-"CRUISE6_DESC" LANG "Advanced in materials science allowed the fielding of hyper-sonic cruise missiles flying over 80000 feet during their cruise phase rendering all previous air defence systems nearly obsolete.\n\n\n+Improves Range,Precision and greatly improves Speed"
+"CRUISE6_NAME" LANG "Крылатые ракеты 2020-х"
+"CRUISE6_DESC" LANG "Продвинутые знания в области материаловедения позволили разместить гиперзвуковые крылатые ракеты, пролетающие на высоте более 80000 футов во время их крейсерского полета, что сделало все предыдущие системы ПВО почти устаревшими.\n\n\n+Увеличивает дальность, точность и значительно повышает скорость."
 
 "AA1_NAME" LANG "Ранние УР ВВ"
 "AA1_DESC" LANG "После Второй мировой войны крупные державы стремились оснастить самолеты ракетами, способными автоматически наводиться на вражеские самолеты, что значительно увеличило дальность поражения вражеских истребителей и бомбардировщиков. Управляемые зенитные ракеты той эпохи, такие как AIM-9 Sidewinder, были настолько эффективны в изменении методов ведения войны, что они по сей день продолжают использоваться даже ведущими вооруженными силами мира.\n\n\n+Улучшает точность и дальность"
@@ -528,29 +551,29 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_LASER_POD_NAME" LANG "Защитный лазерный модуль"
 "M_LASER_POD_DESC" LANG "Легкий лазерный блок, способный перехватывать вражеские ЗУР и УР ВВ, значительно повышая живучесть самолетов."
 
-"M_SAM_LASER_NAME" LANG "Air Defence Laser"
-"M_SAM_LASER_DESC" LANG "Mobile version of naval lasers capable of intercepting small projectiles such as missiles at low and medium altidutes."
+"M_SAM_LASER_NAME" LANG "Лазерное ПВО"
+"M_SAM_LASER_DESC" LANG "Мобильная версия корабельных лазеров, способная перехватывать небольшие снаряды, такие как ракеты, на малых и средних высотах."
 
-"ASM1_NAME" LANG "Laser Guided Munitions"
-"ASM1_DESC" LANG "Laser-guided munitions use semi-active laser guidance to strike a designated target with greater accuracy than unguided weapons. First developed by the United States during the Vietnam War, laser-guided weapons quickly proved their value in precision strikes of difficult point targets. These weapons use on-board electronics to track targets that are designated by laser, typically in the infrared spectrum, and adjust their glide path to accurately strike the target.\n\n\n+Heavy damage Air-Ground Weapon but with limited speed and range.Their large numbers can saturate enemy Air-Defences.\n\n\n+Air-Ground Weapons(excluding cruise missiles) damage against armies is multiplied making them very effective"
+"ASM1_NAME" LANG "Боеприпасы с лазерным наведением"
+"ASM1_DESC" LANG "Боеприпасы с лазерным наведением используют полуактивное лазерное наведение для поражения обозначенной цели с большей точностью, чем неуправляемое оружие. Оружие с лазерным наведением, впервые разработанное США во время войны во Вьетнаме, быстро зарекомендовало себя при высокоточных ударах по труднодоступным точечным целям. Это оружие использует бортовую электронику для отслеживания целей, обозначенных лазером, обычно в инфракрасном спектре, и регулирует траекторию глиссады для точного поражения цели.\n\n\n+Оружие класса 'воздух-земля' с тяжелым уроном, но с ограниченной скоростью и дальность. Их большое количество может насытить ПВО противника.\n\n\n+Оружие 'воздух-земля' (за исключением крылатых ракет) увеличивает урон против армий, что делает их очень эффективными"
 
-"ASM2_NAME" LANG "GPS Guided Munitions"
-"ASM2_DESC" LANG "Lessons learned during the first Gulf War showed the value of precision munitions, yet they also highlighted the difficulties in employing them—specifically when visibility of the ground or target from the air was degraded.The problem of poor visibility does not affect satellite-guided weapons such as Joint Direct Attack Munition and Joint Stand-Off Weapon, which make use GPS systems for guidance. This weapon can be employed in all weather conditions, without any need for ground support. Because it is possible to jam GPS, the guidance package reverts to inertial navigation in the event of GPS signal loss.\n\n\n+Improves Precision and Range\n\n\n+Increases Payload capacity"
+"ASM2_NAME" LANG "Боеприпасы с GPS-наведением"
+"ASM2_DESC" LANG "Уроки, извлеченные во время первой войны в Персидском заливе, показали ценность высокоточных боеприпасов, но они также высветили трудности их применения, особенно когда ухудшалась видимость земли или цели с воздуха. Проблема плохой видимости не влияет на оружие со спутниковым наведением. такие как Joint Direct Attack Munition и Joint Stand-Off Weapon, которые используют системы GPS для наведения. Это оружие можно использовать в любых погодных условиях, без какой-либо поддержки с земли. Поскольку возможно заглушить GPS, пакет навигации возвращается к инерциальной навигации в случае потери сигнала GPS.\n\n\n+Повышает точность и дальность действия\n\n\n+Увеличивает грузоподъемность"
 
-"ASM3_NAME" LANG "Stand-off Munitions"
-"ASM3_DESC" LANG "Satellite-guidance provided a major boon to air strike capabilities, enabling precise pinpointing of targets without a dependency on any specific external signature that could be fired from a greater range, leading to the development of 'stand-off' weapons.In comparison to earlier GPS munitons these weapons in the case of gliding bombs have wings significally increasing their range and in the case of missiles new seakers and datalink systems significally increase the range of transmition and quality of the image during the terminal phase.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
+"ASM3_NAME" LANG "Оружие противодействия"
+"ASM3_DESC" LANG "Противодействующее оружие - это ракеты или бомбы, которые могут быть запущены с расстояния, достаточного для того, чтобы атакующий персонал мог уклониться от оборонительного огня из целевой области. Обычно они используются против наземных и морских целей в наступательной операции.\n\n\n+Улучшает точность, дальность и живучесть\n\n\n+Увеличивает вес заряда"
 
-"ASM4_NAME" LANG "Hybrid-guidance Missiles"
-"ASM4_DESC" LANG "By combining multiple guidance systems such as radar, electro-optical, inertial navigation, GPS, and laser-guidance, modern ASMs can bypass jamming, be deployed at longer ranges, guarantee precision, and operate well even in unfavourable conditions.In adition gliding weapons bacame smaller in order to load more of them on aircrafts and as such be able to saturate enemy defences with swarm tactics.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
+"ASM4_NAME" LANG "Ракеты с гибридным наведением"
+"ASM4_DESC" LANG "Комбинируя несколько систем наведения, таких как радар, электрооптическая, инерциальная навигация, GPS и лазерное наведение, современные ПКР могут обходить помехи, развертываться на больших дальностях, гарантировать точность и хорошо работать даже в неблагоприятных условиях. стал меньше, чтобы загрузить больше из них на самолеты и, таким образом, иметь возможность насыщать оборону противника тактикой роя.\n\n\n+Повышает точность, дальность и живучесть\n\n\n+Увеличивает грузоподъемность"
 
 "SAM50_NAME" LANG "Ранние ЗРК"
 "SAM50_DESC" LANG "Существующие зенитные орудия оказались крайне неэффективными против новых реактивных самолетов. Хотя конкуренция существовала, идея ракеты, запускаемой с земли для самостоятельного отслеживания и преследования самолета с помощью радара, оказалась наиболее надежным решением, и США развернули их для защиты всех своих критически важных ядерных объектов."
 
-"SAM60_NAME" LANG "Improved SAM Guidance"
-"SAM60_DESC" LANG "Although early surface-to-air missiles proved very effective, they were unable to deal with rapid advancements in aircraft technology. Mach 3-capable aircraft and electronic countermeasures required the development of a new generation of SAMs with better tracking and hardened radars.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown"
+"SAM60_NAME" LANG "Улучшенное наведение ЗРК"
+"SAM60_DESC" LANG "Хотя ранние ракеты класса «земля-воздух» оказались очень эффективными, они не могли справиться с быстрым развитием авиационной техники. Самолет со скоростью 3 Маха и средства радиоэлектронного противодействия потребовали разработки нового поколения ЗРК с улучшенным отслеживанием и усиленными радарами.\n\n\n+Повышает дальность, точность и скорость ракет ЗРК\n\n\n+Уменьшает время перезарядки ЗРК."
 
-"SAM80_NAME" LANG "Phased Array Tracking Radars"
-"SAM80_DESC" LANG "Modern passive electronically scanned array radars would prove pivotal in designing general-purpose SAM systems capable of dealing with airbourne threats of all kinds, at long range, with high reliability, and capable of feeding in to newly developed external data links over computer networks.\n\n\n+Improves SAM missile range,precision and speed\n\n\n+Reduces SAM site cooldown"
+"SAM80_NAME" LANG "Радары слежения ФАР"
+"SAM80_DESC" LANG "Современные радары с пассивной антенной решеткой с электронным сканированием окажутся ключевыми в разработке систем ЗРК общего назначения, способных справляться с воздушными угрозами всех видов, на большом расстоянии, с высокой надежностью и способных передавать данные по недавно разработанным внешним каналам передачи данных через компьютерные сети. n\n\n+Увеличивает дальность, точность и скорость ракет ЗРК\n\n\n+Уменьшает время перезарядки ЗРК."
 
 "SAM10_NAME" LANG "Современные ЗРК"
 "SAM10_DESC" LANG "В современных комплексах ЗРК используются распределенные компьютерные и радиолокационные сети с высокой Защищённостью как от кинетических, так и от кибератак, и можно ожидать, что они будут работать даже во враждебной среде с угрозой Противорадиолокационных ракет и значительными электронными средствами противодействия. Лазерное указание цели теперь также можно использовать в качестве альтернативы радару.\n\n\n+Увеличивает дальность, точность и скорость ракет ЗРК\n\n\n+Уменьшает время перезарядки установки ЗРК.\n\n\n+Позволяет ЗРК также использовать ракеты ПРО (требуются улучшенные системы ПРО)"
@@ -561,29 +584,29 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "TAWACS_NAME" LANG "Раннее предупреждение об атаки с воздуха"
 "TAWACS_DESC" LANG "Воздушные системы дальнего обнаружения и управления, такие как ДРЛОиУ, представляют собой мобильную длинноволновую радиолокационную платформу, которая дает командирам обзор боевой обстановки с высоты птичьего полета, отслеживание целей на огромной площади для обеспечения связи с позициями противника и передачи этой информации по каналам передачи данных к компьютерные системы оружейных платформ, таких как самолеты."
 
-"ARMY_TECH_NAME" LANG "Enable Armies"
-"ARMY_TECH_DESC" LANG "This tech is used to prohibit its research and thus armies during a game."
+"ARMY_TECH_NAME" LANG "Открытие армии"
+"ARMY_TECH_DESC" LANG "Эта технология используется для запрета исследований и, следовательно, армий во время игры."
 
-"ARMY_NAME" LANG "Army Group"
-"ARMY_DESC" LANG "An army group is a military organization consisting of several field armies, which is self-sufficient for indefinite periods. It is usually responsible for a particular geographic area. An army group is the largest field organization handled by a single commander—usually a full general or field marshal—and it generally includes between 400,000 and 1,000,000 soldiers."
+"ARMY_NAME" LANG "Группа армий"
+"ARMY_DESC" LANG "Группа армий — военная организация, состоящая из нескольких полевых армий, самодостаточная в течение неопределенного времени. Обычно он отвечает за конкретную географическую область. Группа армий — это крупнейшая полевая организация, управляемая одним командиром — обычно полным генералом или фельдмаршалом, — и обычно включает от 400 000 до 1 000 000 солдат."
 
-"U_PARA_NAME" LANG "Airborne Division"
-"U_PARA_DESC" LANG "An Airborne Division is a light infantry division specializing in air assault operations."
+"U_PARA_NAME" LANG "Воздушно-десантная девизия"
+"U_PARA_DESC" LANG "Воздушно-десантная дивизия — легкая пехотная дивизия, специализирующаяся на десантно-штурмовых операциях."
 
-"U_MARINES_NAME" LANG "Marine Division"
-"U_MARINES_DESC" LANG "The division is employed as the ground combat element of a Marine Expeditionary Force and may provide task-organized forces for assault operations. A Marine Division is able to provide the ground amphibious forcible entry capability to the naval expeditionary force and to conduct subsequent land operations in any operational environment."
+"U_MARINES_NAME" LANG "Морская дивизия"
+"U_MARINES_DESC" LANG "Дивизия используется в качестве наземного боевого элемента экспедиционного корпуса морской пехоты и может предоставлять организованные силы для штурмовых операций. Дивизия морской пехоты может предоставить возможность десантного десантирования военно-морским экспедиционным силам и проводить последующие наземные операции в любых оперативных условиях."
 
-"U_AIRTRANS_NAME" LANG "Strategic Transport"
-"U_AIRTRANS_DESC" LANG "Aircrafts capable of airlifting troops and military equipment to support military operations."
+"U_AIRTRANS_NAME" LANG "Военно-транспортный самолёт"
+"U_AIRTRANS_DESC" LANG "Самолет, способный перебрасывать по воздуху войска и военную технику для поддержки военных операций."
 
-"ARMY_WEP_NAME" LANG "Ground Assets"
-"ARMY_WEP_DESC" LANG "Ground Assets"
+"ARMY_WEP_NAME" LANG "Наземные войска"
+"ARMY_WEP_DESC" LANG "Наземные войска"
 
-"M_ARMY_WEP_NAME" LANG "Marine Ground Assets"
-"M_ARMY_WEP_DESC" LANG "Marine Ground Assets"
+"M_ARMY_WEP_NAME" LANG "Морские десантные войска"
+"M_ARMY_WEP_DESC" LANG "Морские десантные войска\n\n\n+ Мужыки"
 
-"P_ARMY_WEP_NAME" LANG "Airborne Ground Assets"
-"P_ARMY_WEP_DESC" LANG "Airborne Ground Assets"
+"P_ARMY_WEP_NAME" LANG "Воздушно-десантные войска"
+"P_ARMY_WEP_DESC" LANG "Воздушно-десантные войска\n\n\n+ Мужыки\n\n- Воняют "
 
 "SAT_CAMERA_NAME" LANG "Система оптической визуализации"
 "SAT_CAMERA_DESC" LANG "Система оптической визуализации"
@@ -621,8 +644,30 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "LASER_ANTISAT_NAME" LANG "Противоспутниковый лазер"
 "LASER_ANTISAT_DESC" LANG "Мощный лазер, способный нейтрализовать враждебные спутники, сжигая их электронику."
 
-"U_CDMS_NAME" LANG "Anti-Ship Missile Battery"
-"U_CDMS_DESC" LANG "Anti-Ship Missile Battery is a military unit tasked with defending costal waters against enemy surface combatans.They are equivalent to cruisers in terms of ship to ship firepower."
+"U_CDMS_NAME" LANG "БПР"
+"U_CDMS_DESC" LANG "Батарея Противокорабельных Ракет — боевое подразделение, которому поручено защищать прибрежные воды от вражеских надводных боевых кораблей. По огневой мощи они эквивалентны крейсерам."
+
+
+"ARMY60_NAME" LANG "Сухопутные войска 60-x годов"
+"ARMY60_DESC" LANG "Позволяет размещать улучшенные боевые машины, а также улучшать доктрину и обучение."
+
+"ARMY70_NAME" LANG "Сухопутные войска 70-x годов"
+"ARMY70_DESC" LANG "Позволяет размещать улучшенные боевые машины, а также улучшать доктрину и обучение."
+
+"ARMY80_NAME" LANG "Сухопутные войска 80-x годов"
+"ARMY80_DESC" LANG "Позволяет размещать улучшенные боевые машины, а также улучшать доктрину и обучение."
+
+"ARMY90_NAME" LANG "Сухопутные войска 90-x годов"
+"ARMY90_DESC" LANG "Позволяет размещать улучшенные боевые машины, а также улучшать доктрину и обучение."
+
+"ARMY10_NAME" LANG "Сухопутные войска 10-x годов"
+"ARMY10_DESC" LANG "Позволяет размещать улучшенные боевые машины, а также улучшать доктрину и обучение."
+
+"ARMY20_NAME" LANG "Сухопутные войска 20-х годов"
+"ARMY20_DESC" LANG "Позволяет размещать улучшенные боевые машины, а также улучшать доктрину и обучение."
+
+"U_NORAD_NAME" LANG "Командование воздушно-космической обороны"
+"U_NORAD_DESC" LANG "Командование воздушно-космической обороны расположено в усиленной командной организации, отвечающей за мониторинг стратегических ядерных угроз и управление различными стратегическими активами. В любой момент времени может существовать только одно (позволяет запускать 3 ракеты одновременно)."
 
 "ARMY60_NAME" LANG "Сухопутные войска 60-х годов"
 "ARMY60_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
