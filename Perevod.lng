@@ -682,7 +682,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "ART1_DESC" LANG "Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets."
 
 "ART2_NAME" LANG "Проект Вавилон"
-"ART2_DESC" LANG "Малыш Вавилон,представляет собой горизонтально прикрепленное устройство которое является прототипом. Его диаметр составляет 350 мм (13.8 inches), и дуло длинной 46 метров (151 feet),[1] и весом в 102 тонны. После проведения тестов со свинцовыми снарядами, Данное орудие установили на склон в 45 градусов. It was expected to achieve a range of 750 km."
+"ART2_DESC" LANG "Малыш Вавилон,представляет собой горизонтально прикрепленное устройство которое является прототипом. Его диаметр составляет 350 мм (13.8 inches), и дуло длинной 46 метров (151 feet),[1] и весом в 102 тонны. После проведения тестов со свинцовыми снарядами, Данное орудие установили на склон в 45 градусов. Снаряд пролетел 750км."
 
 "ART3_NAME" LANG "Суб-орбитальная артиллерия"
 "ART3_DESC" LANG "A massive Railgun Turret Network capable of launching multiple nuclear tipped shells thousands of kilometers away."
