@@ -687,10 +687,10 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "ART3_NAME" LANG "Суб-орбитальная артиллерия"
 "ART3_DESC" LANG "Массивная турель с рельсотроном способная запускать множество снарядов с ядерном наконечником на тысячи километров."
 
-"U_ART_NAME" LANG "Супер пушка"
-"U_ART_DESC" LANG "Супер пушки, это очень тяжелые крупнокалиберные пушки способные стрелять на сотни километров. Их диаметр составляет более 350 мм а длинна орудия составляет больше 50 метров."
+"U_ART_NAME" LANG "Супер-орудие"
+"U_ART_DESC" LANG "Супер-орудия, это очень тяжелые крупнокалиберные орудия способные стрелять на сотни километров. Их диаметр составляет более 350 мм а длинна орудия составляет больше 50 метров."
 
-"U_STONE_NAME" LANG "Stonehenge Complex"
+"U_STONE_NAME" LANG "Stonehenge"
 "U_STONE_DESC" LANG "Stonehenge,also known as the Spaceguard Turret Network (STN), is a railgun complex.Stonehenge was based on a circular design divided into eight sections, each of which housed a railgun turret.The weapons,operated on a hybrid energy principle using gunpowder to initially propel projectile shells, and then accelerate them to maximum velocity with electromagnetic energy."
 
 
