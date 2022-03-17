@@ -624,26 +624,26 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_CDMS_NAME" LANG "Anti-Ship Missile Battery"
 "U_CDMS_DESC" LANG "Anti-Ship Missile Battery is a military unit tasked with defending costal waters against enemy surface combatans.They are equivalent to cruisers in terms of ship to ship firepower."
 
-"ARMY60_NAME" LANG "Ground Forces 60s"
-"ARMY60_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+"ARMY60_NAME" LANG "Сухопутные войска 60-х годов"
+"ARMY60_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
 
-"ARMY70_NAME" LANG "Ground Forces 70s"
-"ARMY70_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+"ARMY70_NAME" LANG "Сухопутные войска 70-х годов"
+"ARMY70_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
 
-"ARMY80_NAME" LANG "Ground Forces 80s"
-"ARMY80_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+"ARMY80_NAME" LANG "Сухопутные войска 80-х годов"
+"ARMY80_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
 
-"ARMY90_NAME" LANG "Ground Forces 90s"
-"ARMY90_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+"ARMY90_NAME" LANG "Сухопутные войска 90-х годов"
+"ARMY90_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
 
-"ARMY10_NAME" LANG "Ground Forces 10s"
-"ARMY10_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+"ARMY10_NAME" LANG "Сухопутные войска 10-е"
+"ARMY10_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
 
-"ARMY20_NAME" LANG "Ground Forces 20s"
-"ARMY20_DESC" LANG "Allows the fielding of improved military vehicles as well as improvements in doctrine and training."
+"ARMY20_NAME" LANG "Сухопутные войска 20-е"
+"ARMY20_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
 
-"U_NORAD_NAME" LANG "Airspace Defence Command"
-"U_NORAD_DESC" LANG "Airspace Defense Command located in a hardened command organization responsible for monitoring strategic nuclear threats and managing various strategic assets.Only one can exist at any given time.(Allows silos to fire 3 missiles at a time)"
+"U_NORAD_NAME" LANG "Командование воздушно-космической обороны"
+"U_NORAD_DESC" LANG "Командование воздушно-космической обороны, расположенное в усиленной командной организации, ответственной за мониторинг стратегических ядерных угроз и управление различными стратегическими активами.Может существовать в любой момент времени только один.(Позволяет шахтным установкам запускать 3 ракеты одновременно)"
 
 "AWACS_EFFECT_NAME" LANG "СПРН (Система Предупреждения о Ракетном Нападении)"
 "AWACS_EFFECT_DESC" LANG "Объединяет информацию с нескольких платформ и обменивается информацией по каналу передачи данных."
