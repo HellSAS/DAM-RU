@@ -264,7 +264,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_LHA_NAME" LANG "Amphibious Assault Ship"
 "U_LHA_DESC" LANG "An amphibious assault ship is a type of amphibious warfare ship employed to land and support ground forces on enemy territory by an amphibious assault. Modern ships support amphibious landing craft, with most designs including a well deck. Coming full circle, some amphibious assault ships also support V/STOL fixed-wing aircraft, now having a secondary role as aircraft carriers."
 
-"ASM1_M_NAME" LANG "Ракета класса \"воздух-поверхность\""
+"ASM1_M_NAME" LANG "Ракета класса «воздух-поверхность»"
 "ASM1_M_DESC" LANG "An air-to-surface missile is a missile designed to be launched from military aircraft at targets on land or sea.The two most common propulsion systems for air-to-surface missiles are rocket motors, usually with shorter range, and slower, longer-range jet engines. Some air-to-surface missiles are powered by ramjets, giving them both long range and high speed."
 
 "M_CONV_CRUISE_NAME" LANG "Conventional Cruise Missile"
