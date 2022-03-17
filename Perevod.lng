@@ -427,14 +427,14 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "TOR4_NAME" LANG "Торпеды 2020-х годов"
 "TOR4_DESC" LANG "Более высокая скорость передачи данных привела к лучшему времени отклика и таким образом к увеличению скорости навигации топерд.\n\n\n+Увеличивает радиус действия торпед"
 
-"JAM1_NAME" LANG "Early EW Systems"
-"JAM1_DESC" LANG "Electronic warfare (EW) is any action involving the use of the electromagnetic spectrum (EM spectrum) or directed energy to control the spectrum, attack an enemy, or impede enemy assaults. The purpose of electronic warfare is to deny the opponent the advantage of, and ensure friendly unimpeded access to, the EM spectrum. EW can be applied from air, sea, land, and/or space by manned and unmanned systems, and can target humans, communication, radar, or other assets.Ingame it reduces enemy LW and SW radar ranges.\n\n\n+Allows fielding of EW aircrafts and EW loadouts for multirole fighters"
+"JAM1_NAME" LANG "Ранние системы РЭБ"
+"JAM1_DESC" LANG "Радиоэлектронная борьба (РЭБ) — это любое действие, связанное с использованием электромагнитного спектра (ЭМ-спектра) или направленной энергии для управления спектром атаки противника или противодействия атакам противника. Цель радиоэлектронной борьбы состоит в том, чтобы лишить противника преимущества и обеспечить дружественный беспрепятственный доступ к электромагнитному спектру. РЭБ может применяться с воздуха, моря, земли и/или из космоса пилотируемыми и беспилотными системами и может нацеливаться на средства связи, радары или другие объекты.\n\n\n+Позволяет размещать самолеты РЭБ и комплекты РЭП для многоцелевых истребителей"
 
-"JAM2_NAME" LANG "Improved EW Systems"
-"JAM2_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
+"JAM2_NAME" LANG "Улучшенные системы РЭБ"
+"JAM2_DESC" LANG "Более мощные и сложные системы позволяют ослеплять радары противника с больших расстояний.\n\n\n+Увеличивает эффективную дальность РЭБ"
 
-"JAM3_NAME" LANG "Advanced EW Systems"
-"JAM3_DESC" LANG "More powerfull and sophisticated systems enable blinding of enemy radars from longers distances.\n\n\n+Improves EW effective Range"
+"JAM3_NAME" LANG "Передовые системы РЭБ"
+"JAM3_DESC" LANG "Более мощные и сложные системы позволяют ослеплять радары противника с больших расстояний.\n\n\n+Увеличивает эффективную дальность РЭБ"
 
 "MRBM2_NAME" LANG "Усовершенствованные БРСД"
 "MRBM2_DESC" LANG "Эти ракеты предназначенные для использования в конфликтах на театре военных действий, могут маневрировать во время полета на разных высотах и ​​траекториях, а также могут маневрировать с перегрузкой до 20–30 G для уклонения от противоракет.\n\n\n+Усложняет перехват ракет БРСД"
@@ -504,19 +504,19 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "CRUISE6_NAME" LANG "2020S Cruise Missiles"
 "CRUISE6_DESC" LANG "Advanced in materials science allowed the fielding of hyper-sonic cruise missiles flying over 80000 feet during their cruise phase rendering all previous air defence systems nearly obsolete.\n\n\n+Improves Range,Precision and greatly improves Speed"
 
-"AA1_NAME" LANG "Ранние УР ВВ"
+"AA1_NAME" LANG "Ранние УР «В-В»"
 "AA1_DESC" LANG "После Второй мировой войны крупные державы стремились оснастить самолеты ракетами, способными автоматически наводиться на вражеские самолеты, что значительно увеличило дальность поражения вражеских истребителей и бомбардировщиков. Управляемые зенитные ракеты той эпохи, такие как AIM-9 Sidewinder, были настолько эффективны в изменении методов ведения войны, что они по сей день продолжают использоваться даже ведущими вооруженными силами мира.\n\n\n+Улучшает точность и дальность"
 
-"AA2_NAME" LANG "УР ВВ с полуактивной радарной ГСН "
+"AA2_NAME" LANG "УР «В-В» с полуактивной радарной ГСН "
 "AA2_DESC" LANG "Полуактивное радиолокационное самонаведение является распространенным типом системы наведения ракет, возможно, наиболее распространенным типом для ракетных систем повышенной дальности «воздух-воздух» и «земля-воздух». Название относится к тому факту, что сама ракета является лишь пассивным детектором радиолокационного сигнала, поступающего от внешнего источника, когда он отражается от цели (в отличие от активного радиолокационного самонаведения, в котором используется активный радар).\n\n\n+Улучшает точность и дальность"
 
-"AA3_NAME" LANG "УР ВВ с активной радарной ГСН"
+"AA3_NAME" LANG "УР «В-В» с активной радарной ГСН"
 "AA3_DESC" LANG "Активное радиолокационное самонаведение — это метод наведения ракеты, при котором ракета содержит радиолокационный приемопередатчик (в отличие от полуактивного радиолокационного самонаведения, в котором используется только приемник) и электронику, необходимую для автономного поиска и отслеживания цели. Сокращенный код НАТО для пуска ракеты с активной радиолокационной самонаводящейся головкой — Fox Three.\n\n\n+Улучшает точность и дальность"
 
-"AA4_NAME" LANG "УР ВВ с ПВРД"
+"AA4_NAME" LANG "УР «В-В» с ПВРД"
 "AA4_DESC" LANG "Твердотопливный прямоточный воздушно-реактивный двигатель позволяет ракете летать со скоростью более 4 Маха и обеспечивает ракете тягу и ускорение на полпути для перехвата цели. Канал передачи данных способен передавать информацию о ракете, такую ​​как функциональное и кинематическое состояние, информацию о нескольких целях и уведомление о захвате цели головкой самонаведения.\n\n\n+Улучшает точность и дальность"
 
-"AA5_NAME" LANG "Улучшенные УР ВВ с ПВРД"
+"AA5_NAME" LANG "Улучшенные УР «В-В» с ПВРД"
 "AA5_DESC" LANG "Новые разработки в области материаловедения и двигателей резко увеличивают дальность полета и крейсерскую скорость УР ВВ.\n\n\n+Улучшает точность и дальность"
 
 "FR_CIWS_NAME" LANG "Защитные лазерные блоки"
@@ -531,17 +531,17 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_SAM_LASER_NAME" LANG "Air Defence Laser"
 "M_SAM_LASER_DESC" LANG "Mobile version of naval lasers capable of intercepting small projectiles such as missiles at low and medium altidutes."
 
-"ASM1_NAME" LANG "Laser Guided Munitions"
-"ASM1_DESC" LANG "Laser-guided munitions use semi-active laser guidance to strike a designated target with greater accuracy than unguided weapons. First developed by the United States during the Vietnam War, laser-guided weapons quickly proved their value in precision strikes of difficult point targets. These weapons use on-board electronics to track targets that are designated by laser, typically in the infrared spectrum, and adjust their glide path to accurately strike the target.\n\n\n+Heavy damage Air-Ground Weapon but with limited speed and range.Their large numbers can saturate enemy Air-Defences.\n\n\n+Air-Ground Weapons(excluding cruise missiles) damage against armies is multiplied making them very effective"
+"ASM1_NAME" LANG "Боеприпасы с лазерным наведением"
+"ASM1_DESC" LANG "Боеприпасы с лазерным наведением используют полуактивное лазерное наведение для поражения обозначенной цели с большей точностью, чем неуправляемое оружие. Оружие с лазерным наведением, впервые разработанное США во время войны во Вьетнаме, быстро зарекомендовало себя при высокоточных ударах по труднодоступным точечным целям. Это оружие использует бортовую электронику для отслеживания целей обозначенных лазером, как правило, в инфракрасном спектре, и регулирует траекторию боеприпаса для точного поражения цели.\n\n\n+Оружие класса "воздух-земля" с большим уроном, но с ограниченной скоростью и дальностью применения. В большом количестве может преодолеть ПВО противника .\n\n\n+Оружие "воздух-земля" (за исключением крылатых ракет) увеличивает урон против армий, что делает его очень эффективными"
 
-"ASM2_NAME" LANG "GPS Guided Munitions"
-"ASM2_DESC" LANG "Lessons learned during the first Gulf War showed the value of precision munitions, yet they also highlighted the difficulties in employing them—specifically when visibility of the ground or target from the air was degraded.The problem of poor visibility does not affect satellite-guided weapons such as Joint Direct Attack Munition and Joint Stand-Off Weapon, which make use GPS systems for guidance. This weapon can be employed in all weather conditions, without any need for ground support. Because it is possible to jam GPS, the guidance package reverts to inertial navigation in the event of GPS signal loss.\n\n\n+Improves Precision and Range\n\n\n+Increases Payload capacity"
+"ASM2_NAME" LANG "Боеприпасы с GPS-наведением"
+"ASM2_DESC" LANG "Уроки извлеченные во время первой войны в Персидском заливе, показали ценность высокоточных боеприпасов, но они также показали трудности их применения, особенно когда ухудшалась видимость целей с воздуха. Проблема плохой видимости не влияет на оружие со спутниковым наведением. такие как JDAM(всепогодные корректируемые боеприпасы) и JSOW(тактическая планирующая управляемая бомба), которые используют системы GPS для наведения. Это оружие можно использовать в любых погодных условиях, без какой-либо поддержки с земли. Поскольку если заглушить GPS, пакет навигации возвращается к инерциальной навигации.\n\n\n+Повышает точность и дальность действия\n\n\n+Увеличивает количество боеприпасов"
 
-"ASM3_NAME" LANG "Stand-off Munitions"
-"ASM3_DESC" LANG "Satellite-guidance provided a major boon to air strike capabilities, enabling precise pinpointing of targets without a dependency on any specific external signature that could be fired from a greater range, leading to the development of 'stand-off' weapons.In comparison to earlier GPS munitons these weapons in the case of gliding bombs have wings significally increasing their range and in the case of missiles new seakers and datalink systems significally increase the range of transmition and quality of the image during the terminal phase.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
+"ASM3_NAME" LANG "Крылатые ракеты/бомбы"
+"ASM3_DESC" LANG "Спутниковое наведение стало большим преимуществом для возможностей нанесения ударов с воздуха, позволяя точно определять цели без зависимости от какой-либо конкретной внешней сигнатуры. Теперь боеприпасы можно быть запускать с большего расстояния, что привело к разработке оружия которое может эффективно противодействовать ПВО при этом не подвергая угрозе самолёт носитель. По сравнению с более ранними GPS-боеприпасами это оружие в случае планирующих бомб имеет крылья, что значительно увеличивает их дальность, а в случае ракет новые датчики и системы передачи данных значительно увеличивают дальность передачи и качество изображения на конечном этапе.\n\n\n+Повышает точность, дальность и живучесть\n\n\n+Увеличивает количество боеприпасов"
 
-"ASM4_NAME" LANG "Hybrid-guidance Missiles"
-"ASM4_DESC" LANG "By combining multiple guidance systems such as radar, electro-optical, inertial navigation, GPS, and laser-guidance, modern ASMs can bypass jamming, be deployed at longer ranges, guarantee precision, and operate well even in unfavourable conditions.In adition gliding weapons bacame smaller in order to load more of them on aircrafts and as such be able to saturate enemy defences with swarm tactics.\n\n\n+Improves precision,range and survivability\n\n\n+Increases Payload capacity"
+"ASM4_NAME" LANG "Ракеты с гибридным наведением"
+"ASM4_DESC" LANG "Комбинируя несколько систем наведения, таких как радар, электрооптическая, инерциальная навигация, GPS и лазерное наведение, современные AASM могут обходить помехи, развертываться на большом расстоянии от цели, гарантировать точность и хорошо работать даже в неблагоприятных условиях. Так же они стали меньше, чтобы загрузить больше таких боеприпасов на самолёты и таким образом, иметь возможность прорывать оборону противника тактикой роя.\n\n\n+Повышает точность, дальность и живучесть\n\n\n+Увеличивает количество боеприпасов"
 
 "SAM50_NAME" LANG "Ранние ЗРК"
 "SAM50_DESC" LANG "Существующие зенитные орудия оказались крайне неэффективными против новых реактивных самолетов. Хотя конкуренция существовала, идея ракеты, запускаемой с земли для самостоятельного отслеживания и преследования самолета с помощью радара, оказалась наиболее надежным решением, и США развернули их для защиты всех своих критически важных ядерных объектов."
@@ -558,10 +558,10 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SAM30_NAME" LANG "Усовершенствованные гибридные ЗРК"
 "SAM30_DESC" LANG "Усовершенствованные комплексы ЗРК используют как новые высокотехнологичные кинетические перехватчики.\n\n\n+Увеличивает дальность, точность и скорость ракет ЗРК.\n\n\n+Уменьшает время перезарядки комплекса ЗРК.\n\n\n+Позволяет комплексу ЗРК также использовать лазерные системы."
 
-"TAWACS_NAME" LANG "Раннее предупреждение об атаки с воздуха"
-"TAWACS_DESC" LANG "Воздушные системы дальнего обнаружения и управления, такие как ДРЛОиУ, представляют собой мобильную длинноволновую радиолокационную платформу, которая дает командирам обзор боевой обстановки с высоты птичьего полета, отслеживание целей на огромной площади для обеспечения связи с позициями противника и передачи этой информации по каналам передачи данных к компьютерные системы оружейных платформ, таких как самолеты."
+"TAWACS_NAME" LANG "Самолёт ДРЛО"
+"TAWACS_DESC" LANG "Воздушные системы дальнего обнаружения и управления, такие как ДРЛОиУ, представляют собой мобильную длинноволновую радиолокационную платформу, которая дает командирам обзор боевой обстановки с высоты птичьего полета, отслеживание целей на огромной площади для обеспечения связи с позициями противника и передачи этой информации по каналам передачи данных к компьютерным системам оружейных платформ, таких как самолеты."
 
-"ARMY_TECH_NAME" LANG "Enable Armies"
+"ARMY_TECH_NAME" LANG "Включить Армии"
 "ARMY_TECH_DESC" LANG "This tech is used to prohibit its research and thus armies during a game."
 
 "ARMY_NAME" LANG "Army Group"
@@ -591,10 +591,10 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "AIR_CAMERA_NAME" LANG "Камера разведки"
 "AIR_CAMERA_DESC" LANG "Камера разведки"
 
-"U_SPY_PLANE_NAME" LANG "Разведывательный самолет"
+"U_SPY_PLANE_NAME" LANG "Самолёт-разведчик"
 "U_SPY_PLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур."
 
-"SPYPLANE_NAME" LANG "Разведывательный самолет"
+"SPYPLANE_NAME" LANG "Самолёт разведчик"
 "SPYPLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур."
 
 "SPYSAT_NAME" LANG "Разведывательный спутник"
@@ -710,7 +710,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_EXC_DESC" LANG "Excalibur,is a chemical laser weapon,conceived as a long-range, anti-ICBM defense system.It can also be engage airborne targets with its secondary laser systems."
 
 "IND50_NAME" LANG "Промышленность 1950-х"
-"IND50_DESC" LANG "Промышленность - это производство товаров с использованием рабочей силы, машин, инструментов, а также химической или биологической обработки, или рецептуры. Это суть вторичного сектора экономики.Этот термин может относиться к целому ряду видов человеческой деятельности, от простейшего ремесла до высоких технологий произовдства , но чаще всего он применяется к промышленному дизайну, в котором сырье из первичного сектора преобразуется в готовую продукцию в больших масштабах.\n\n\n+Чтобы использовать, просто разместите здание так, чтобы радиус действия охватывал как можно больше городов.Чем больше ввп города, тем больше бонус к общему ВВП.Эффект не складывается из нескольких зданий"
+"IND50_DESC" LANG "Промышленность - это производство товаров с использованием рабочей силы, машин, инструментов, а также химической или биологической обработки, или рецептуры. Это суть вторичного сектора экономики.Этот термин может относиться к целому ряду видов человеческой деятельности, от простейшего ремесла до высоких технологий произовдства , но чаще всего он применяется к промышленному дизайну, в котором сырье из первичного сектора преобразуется в готовую продукцию в больших масштабах.\n\nЧтобы использовать, просто разместите здание так, чтобы радиус действия охватывал как можно больше городов.Чем больше ввп города, тем больше бонус к общему ВВП.Эффект не складывается из нескольких зданий"
 
 "IND60_NAME" LANG "Промышленность 1960-х"
 "IND60_DESC" LANG "Промышленность - это производство товаров с использованием рабочей силы, машин, инструментов, а также химической или биологической обработки, или рецептуры. Это суть вторичного сектора экономики.Этот термин может относиться к целому ряду видов человеческой деятельности, от простейшего ремесла до высоких технологий произовдства , но чаще всего он применяется к промышленному дизайну, в котором сырье из первичного сектора преобразуется в готовую продукцию в больших масштабах."
