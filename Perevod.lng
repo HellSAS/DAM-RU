@@ -82,10 +82,10 @@
 "U_FIGHTER_Carrier_NAME" Lang "Carrier fighter" // obsolete
 "U_SHORT_WAVE_RADAR_NAME" Lang "SW Radar" // obsolete
 
-"M_NUCLEAR_BOMB_NAME" Lang "Ядерная бомба"
-"M_NUCLEAR_BOMB_DESC" Lang "Ядерная бомба мощностью в 100 Кт тротилового эквивалента, может использоваться стратегическими и ударными бомбардировщиками для уничтожения укрепленных объектов инфраструктуры."
-"M_1M_NUCLEAR_BOMB_NAME" Lang "Мегатонная бомба"
-"M_1M_NUCLEAR_BOMB_DESC" Lang "Бомба в 1 Мт тротилового эквивалента, загружается в стратегические бомбардировщики. Основная роль - уничтожение городов неприятеля."
+"M_NUCLEAR_BOMB_NAME" Lang "Ядерная бимба"
+"M_NUCLEAR_BOMB_DESC" Lang "Ядерная бимба мощностью в 100 Кт сала, может использоваться стратегическими и ударными бомбардировщиками для уничтожения укрепленных объектов Москалей."
+"M_1M_NUCLEAR_BOMB_NAME" Lang "Украинская бимба"
+"M_1M_NUCLEAR_BOMB_DESC" Lang "Бимба в 1 Мт слала, загружается в стратегические бомбардировщики. Основная роль - уничтожение городов Москалей."
 "M_10M_THERMONUCLEAR_BOMB_NAME" Lang "10 Мт бомба"
 "M_10M_THERMONUCLEAR_BOMB_DESC" Lang "10-ти мегатонная водородная бомба, несет смерть и разрушение"
 "M_50M_THERMONUCLEAR_BOMB_NAME" Lang "50 Мт бомба"
@@ -275,24 +275,24 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_SHIP_SHIP_NAME" LANG "Противокорабельная ракета"
 "M_SHIP_SHIP_DESC" LANG "Противокорабельная ракета — это управляемая ракета, предназначенная для применения против кораблей и крупных катеров. Большинство противокорабельных ракет относятся к типу скользящих по морю, и многие из них используют комбинацию инерциального наведения и активного радиолокационного самонаведения. Многие другие противокорабельные ракеты используют инфракрасное самонаведение, чтобы следовать за теплом, излучаемым кораблем; также возможно наведение ПКР."
 
-"CVN_FR_NAME" LANG "Carrier-capable Fighter"
-"CVN_FR_DESC" LANG "Carrier capable fighters are the primary defense of a carrier, tasked with intercepting attacks against the carrier and ensuring air superiority that enables the carrier to perform its operations. Many fighters can be re-fitted for multiple roles, allowing them to participate in all types of operations once air superiority is achieved."
+"CVN_FR_NAME" LANG "Палубный Истребитель "
+"CVN_FR_DESC" LANG "Истребители, способные базироваться на авианосцах, являются основной защитой авианосца, им поручено перехватывать атаки на авианосец и обеспечивать превосходство в воздухе, которое позволяет авианосцу выполнять задачи не боясь вражеской авиации."
 
-"CVN_AWACS_NAME" LANG "Carrier-capable AWACS"
-"CVN_AWACS_DESC" LANG "Typically smaller than their land-based equivalents, carrier-based AEW&C (AWACS) offer the same ability for a carrier to get a picture of the battlespace around them, combining both exceptional airborne early warning and command and control, battle management capabilities essential for both attack and defense."
+"CVN_AWACS_NAME" LANG "Палубный ДРЛО"
+"CVN_AWACS_DESC" LANG "Как правило, палубные самолёты ДРЛО меньше чем их наземные аналоги. Палубные ДРЛО позволяют авианосцу получить картину боевого пространства вокруг них, сочетая в себе как исключительное бортовое оборудование, так и неплохие летные ТТХ. Что даёт им возможности корректировки огня."
 
-"CVN_ASW_NAME" LANG "ASW Helicopter"
-"CVN_ASW_DESC" LANG "Anti-Submarine Warfare helicopters provide naval fleets with the ability to track down and eliminate otherwise hidden submarines before they can strike. Utilising a range of technologies such as torpedoes, dipping sonars, and sonobuoys, ASW are hunter-killers that keep the fleet safe by turning would-be predators in to prey."
+"CVN_ASW_NAME" LANG "Вертолёт ПЛО"
+"CVN_ASW_DESC" LANG "Вертолеты для борьбы с подводными лодками предоставляют военно-морскому флоту возможность выслеживать и уничтожать скрытые подводные лодки до того, как они смогут нанести удар. Используя ряд технологий, таких как торпеды, глубинные гидролокаторы и гидроакустические буи, противолодочные вертолёты являются охотниками-убийцами, которые обеспечивают безопасность флота, превращая потенциальных хищников в добычу."
 
-"ASW_NAME" LANG "Maritime patrol aircraft"
-"ASW_DESC" LANG "A maritime patrol aircraft (MPA), also known as a patrol aircraft, maritime reconnaissance aircraft, or by the older American term patrol bomber, is a fixed-wing aircraft designed to operate for long durations over water in maritime patrol roles — in particular anti-submarine warfare (ASW), anti-ship warfare (AShW), and search and rescue (SAR)."
+"ASW_NAME" LANG "Морской патрульный самолет"
+"ASW_DESC" LANG "Морской патрульный самолет (MPA), также известный как патрульный самолет, морской разведывательный самолет или более старый американский термин «патрульный бомбардировщик», представляет собой самолет предназначенный для длительной работы над водой в качестве морского патруля — в частности, борьба с подводными лодками (ПЛО), противокорабельная борьба (AShW) и поисково-спасательные операции (SAR)."
 
 
-"U_CVN_EWAIR_NAME" LANG "Carrier Electronic-warfare aircraft"
-"U_CVN_EWAIR_DESC" LANG "An electronic-warfare aircraft is a military aircraft equipped for electronic warfare (EW), that is, degrading the effectiveness of enemy radar and radio systems by using radar jamming and deception methods."
+"U_CVN_EWAIR_NAME" LANG "Палубный Самолёт РЭБ"
+"U_CVN_EWAIR_DESC" LANG "Самолет РЭБ — военный летательный аппарат, оборудованный для ведения радиоэлектронной борьбы (РЭБ), то есть снижения эффективности радиолокационных и радиотехнических систем противника за счет использования методов радиолокационного подавления и обмана."
 
-"U_EWAIR_NAME" LANG "Electronic-warfare aircraft"
-"U_EWAIR_DESC" LANG "An electronic-warfare aircraft is a military aircraft equipped for electronic warfare (EW), that is, degrading the effectiveness of enemy radar and radio systems by using radar jamming and deception methods."
+"U_EWAIR_NAME" LANG "Самолёт РЭБ"
+"U_EWAIR_DESC" LANG "Самолет РЭБ — военный летательный аппарат, оборудованный для ведения радиоэлектронной борьбы (РЭБ), то есть снижения эффективности радиолокационных и радиотехнических систем противника за счет использования методов радиолокационного подавления и обмана."
 
 "CVN_ATK_NAME" LANG "Carrier-capable Attack Aircraft"
 "CVN_ATK_DESC" LANG "The most important element of a carrier's force projection is their attack aircraft. These aircraft are designed to strike both naval and ground targets, allowing a carrier to threaten a huge number of enemy assets, from nuclear infrastructure to surface fleets."
