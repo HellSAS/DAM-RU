@@ -294,8 +294,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_EWAIR_NAME" LANG "Самолёт РЭБ"
 "U_EWAIR_DESC" LANG "Самолет РЭБ — военный летательный аппарат, оборудованный для ведения радиоэлектронной борьбы (РЭБ), то есть снижения эффективности радиолокационных и радиотехнических систем противника за счет использования методов радиолокационного подавления и обмана."
 
-"CVN_ATK_NAME" LANG "Carrier-capable Attack Aircraft"
-"CVN_ATK_DESC" LANG "The most important element of a carrier's force projection is their attack aircraft. These aircraft are designed to strike both naval and ground targets, allowing a carrier to threaten a huge number of enemy assets, from nuclear infrastructure to surface fleets."
+"CVN_ATK_NAME" LANG "Палубный Истребитель-Бомбардировщик"
+"CVN_ATK_DESC" LANG "Наиболее важным элементом проекции сил авианосца являются их штурмовики. Это многоцелевые истребители предназначенные для поражения как морских, так и наземных целей, что позволяет авианосцу угрожать огромному количеству объектов противника, от ядерной инфраструктуры до надводного флота."
 
 "NAVY60_NAME" LANG "Атомные боевые корабли"
 "NAVY60_DESC" LANG "В 60-е годы появились атомные ракетные подводные лодки и первые в мире военные корабли с атомными двигателями. Многие технологии и методы Второй мировой войны оставались актуальными, а орудия продолжали использоваться наряду с ранними ракетными системами. Теперь, когда доступны улучшенные системы управления огнем и противолодочные возможности вертолетов, технологии а не размер ствола начинают переопределять военно-морскую войну.\n\n\n+Увеличивает скорость корабля и сокращает время перезарядки оружия."
@@ -321,19 +321,19 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SUB30_NAME" LANG "Дизайн подводных лодок 2030-х годов"
 "SUB30_DESC" LANG "Возможным движителем подводных лодок является магнитогидродинамический привод или гусеничный привод не имеющий движущихся частей. Он был популяризирован в киноверсии «Охоты за Красным Октябрем» по сценарию Тома Клэнси, в котором он изображался как практически бесшумная система. (В книге использовалась форма движителя, а не МГД.) Хотя некоторые экспериментальные надводные корабли были построены с этой двигательной установкой, скорость не была такой высокой как ожидалось. Кроме того, шум создаваемый пузырями и более высокая мощность которая требуются реактору подводной лодки, означают что он вряд ли будет рассматриваться для каких-либо военных целей.\n\n\n+Увеличивает скорость подводных лодок, снижает уровень шума от двигателя."
 
-"3GEN_NAME" LANG "3rd Generation Aircraft"
-"3GEN_DESC" LANG "With 3rd generation aircraft, air-to-air missiles became the standard method of dogfighting, with guns taking a backseat. The first generation of mainstream guided weapons would also be deployed on these aircraft, providing new ground attack capabilities that had previously required much more error to perform; further enhanced by the employment of analogue avionics over steam. \n\n\n+Improves Range,Improves Turn Speed,Improves Speed and is harder to intercept"
+"3GEN_NAME" LANG "Самолеты 3-го поколения"
+"3GEN_DESC" LANG "С появлением самолетов 3-го поколения ракеты класса «воздух-воздух» стали стандартным методом ведения воздушного боя, а пушки отошли на второй план. На этих самолетах также будет развернуто основное управляемое оружие первого поколения, обеспечивающее новые возможности наземной атаки, для выполнения которых ранее требовалось гораздо больше усилий пилотов. \n\n\n+Увеличивает дальность и скорость авиации\n\n\n+Увеличивает скорость поворота и усложняет перехват авиации"
 
-"4GEN_NAME" LANG "4th Generation Aircraft"
-"4GEN_DESC" LANG "4th generation aircraft would be typified by fly-by wire flight control systems, digitisation of avionics, early stealth technology, and modern fire control systems. Air combat manoeuvring, rather than raw speed, was established as a key doctrinal requirement of most fighters. Many 4th generation aircraft are still in use across the world today and continue to enjoy a fantastic record when employed against older generation aircraft.\n\n\n+Improves Range,Improves Turn Speed,Improves Speed and is harder to intercept"
+"4GEN_NAME" LANG "Самолеты 4-го поколения"
+"4GEN_DESC" LANG "Для самолетов 4-го поколения будут характерны системы ЭДСУ, оцифровка авионики, ранние технологии снижения заметности и современные системы управления огнем. Маневрирование в воздушном бою, а не грубая скорость, стало ключевым доктринальным требованием большинства истребителей. Многие самолеты 4-го поколения все еще используются во всем мире и продолжают показывать фантастические результаты.\n\n\n+Увеличивает дальность и скорость авиации\n\n\n+Увеличивает скорость поворота и усложняет перехват авиации"
 
-"4GEN2_NAME" LANG "4.5 Generation Aircraft"
-"4GEN2_DESC" LANG "As fourth generation aircraft came to dominate the battlefield, but their technology and hardware started to age, the 4.5 generation of aircraft were defined by their upgrades; better radar, avionics, data links, and modernised weapon systems built upon the same principles as their earlier counterparts - often in the same airframe.\n\n\n+Improves Range,Improves Turn Speed,Improves Speed and is harder to intercept"
+"4GEN2_NAME" LANG "Самолеты 4++ поколения"
+"4GEN2_DESC" LANG "Самолеты четвертого поколения стали доминировать на поле боя, но их технологии и оборудование устарело. Самолеты поколения 4++ стали их дальнейшими модернизациями; улучшенный радар, авионика, каналы передачи данных и модернизированные системы вооружения, построенные на тех же принципах, что и их более ранние аналоги.\n\n\n+Увеличивает дальность и скорость авиации\n\n\n+Увеличивает скорость поворота и усложняет перехват авиации"
 
-"5GEN_NAME" LANG "5th Generation Aircraft"
+"5GEN_NAME" LANG "Самолеты 5-го поколения"
 "5GEN_DESC" LANG "The most advanced aircraft currently in service, 5th generation aircraft such as the F-22 or J-20 employ modern stealth construction, extremely capable electronic capabilities, next-generation networked digital systems, low-probability-of-intercept radars, and high-performance airframes capable of operating at extremes.\n\n\n+Improves Turn Speed,Improves Speed,much harder to intercept"
 
-"6GEN_NAME" LANG "6th Generation Aircraft"
+"6GEN_NAME" LANG "Самолеты 6-го поколения"
 "6GEN_DESC" LANG "Sixth-generation aircrafts is a conceptualized class of aircraft design more advanced than the fifth-generation jets that are currently in service and development.Typical design characteristics anticipated to include advanced digital capabilities including high-capacity networking, AI, data fusion, cyber warfare, D2D and battlefield command, control and communications (C3) capabilities,optionally manned, with the same airframe capable of conducting piloted, remote controlled or onboard-AI controlled missions,advanced variable-cycle engines able to cruise economically but still deliver high thrust when required.\n\n\n+Improves Turn Speed,Improves Speed,much harder to intercept"
 
 "M_SNAVALGUN_NAME" LANG "Легкие морские орудия"
@@ -660,8 +660,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_EMP_WARHEAD_NAME" LANG "ЭМИ боеголовка"
 "M_EMP_WARHEAD_DESC" LANG "Боеголовка запрограммирована на детонацию в верхних слоях атмосферы, создавая ядерный электромагнитный импульс."
 
-"R_SONAR_L_NAME" LANG "Сонар для морского патрульного самолёта"
-"R_SONAR_L_DESC" LANG "Сонар для морского патрульного самолёта"
+"R_SONAR_L_NAME" LANG "Сонар морского патрульного самолёта"
+"R_SONAR_L_DESC" LANG "Сонар морского патрульного самолёта"
 
 "R_AWACS_CVN_LW_RADAR_NAME" LANG "Carrier AWACS LW"
 "R_AWACS_CVN_LW_RADAR_DESC" LANG "Carrier AWACS LW"
