@@ -680,14 +680,14 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "ART1_NAME" LANG "Ядерная артиллерия"
 "ART1_DESC" LANG "Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets."
 
-"ART2_NAME" LANG "Project Babylon"
-"ART2_DESC" LANG "Baby Babylon,was a horizontally mounted device which was simply a prototype for test purposes. It had a bore of 350 mm (13.8 inches), and a barrel length of 46 metres (151 feet),[1] and weighed some 102 tonnes. After conducting tests with lead projectiles, this gun was set up on a hillside at a 45 degree angle. It was expected to achieve a range of 750 km."
+"ART2_NAME" LANG "Проект Вавилон"
+"ART2_DESC" LANG "Малыш Вавилон,представляет собой горизонтально прикрепленное устройство которое является прототипом. Его диаметр составляет 350 мм (13.8 inches), и дуло длинной 46 метров (151 feet),[1] и весом в 102 тонны. После проведения тестов со свинцовыми снарядами, Данное орудие установили на склон в 45 градусов. Снаряд пролетел 750км."
 
 "ART3_NAME" LANG "Суб-орбитальная артиллерия"
-"ART3_DESC" LANG "A massive Railgun Turret Network capable of launching multiple nuclear tipped shells thousands of kilometers away."
+"ART3_DESC" LANG "Массивная турель с рельсотроном способная запускать множество снарядов с ядерном наконечником на тысячи километров."
 
 "U_ART_NAME" LANG "Супер пушка"
-"U_ART_DESC" LANG "Superguns are super-heavy large caliber guns capable of launching projectiles hundreds of kilometers away.They have a bore of more than 350 mm and a barrel length of more than 50 metres."
+"U_ART_DESC" LANG "Супер пушки, это очень тяжелые крупнокалиберные пушки способные стрелять на сотни километров. Их диаметр составляет более 350 мм а длинна орудия составляет больше 50 метров."
 
 "U_STONE_NAME" LANG "Stonehenge Complex"
 "U_STONE_DESC" LANG "Stonehenge,also known as the Spaceguard Turret Network (STN), is a railgun complex.Stonehenge was based on a circular design divided into eight sections, each of which housed a railgun turret.The weapons,operated on a hybrid energy principle using gunpowder to initially propel projectile shells, and then accelerate them to maximum velocity with electromagnetic energy."
@@ -703,7 +703,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_NUC_ART3_DESC" LANG "A 500kt Nuclear Railgun Shell launched by massive spaceguns."
 
 "SUPERWEP_NAME" LANG "Супероружие"
-"SUPERWEP_DESC" LANG "Allows the developent and fielding of what if/fictional superweapons"
+"SUPERWEP_DESC" LANG "Разрешает разработку и использование супероружия."
 
 "EXC_NAME" LANG "Эскалибур"
 "EXC_DESC" LANG "Excalibur,is a chemical laser weapon,conceived as a long-range, anti-ICBM defense system.It can also be engage airborne targets with its secondary laser systems."
