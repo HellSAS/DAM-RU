@@ -685,7 +685,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "ART2_DESC" LANG "Малыш Вавилон,представляет собой горизонтально прикрепленное устройство которое является прототипом. Его диаметр составляет 350 мм (13.8 inches), и дуло длинной 46 метров (151 feet),[1] и весом в 102 тонны. После проведения тестов со свинцовыми снарядами, Данное орудие установили на склон в 45 градусов. Снаряд пролетел 750км."
 
 "ART3_NAME" LANG "Суб-орбитальная артиллерия"
-"ART3_DESC" LANG "A massive Railgun Turret Network capable of launching multiple nuclear tipped shells thousands of kilometers away."
+"ART3_DESC" LANG "Массивная турель с рельсотроном способная запускать множество снарядов с ядерном наконечником на тысячи километров."
 
 "U_ART_NAME" LANG "Супер пушка"
 "U_ART_DESC" LANG "Superguns are super-heavy large caliber guns capable of launching projectiles hundreds of kilometers away.They have a bore of more than 350 mm and a barrel length of more than 50 metres."
