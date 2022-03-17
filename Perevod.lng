@@ -239,32 +239,32 @@ END
 
 USE PREVIOUS "LANG/Rus/tech_t1.lng"
 
-"U_Cavern" LANG "Cavern Airfield"
-"U_Cavern_DESC" LANG "Underground Airfield facilities provide better protecition against the effects of weapons deployed against this structure. However, this limits the size of the aircraft that can be stored in the caverns."
-"U_Cavern_NAME" LANG "Cavern Airfield"
+"U_Cavern" LANG "Подземный аэродром"
+"U_Cavern_DESC" LANG "Подземные аэродромы обеспечивают лучшую защиту самолётов от взрывного воздействия. Однако это ограничивает размер самолетов подходящих для подземного базирования."
+"U_Cavern_NAME" LANG "Подземный аэродром"
 
 "U_BATTLECRUISER_NAME" LANG "Heavy surface combatant"
 "U_BATTLECRUISER_DESC" LANG "Heavy surface combatans refer to both battleships still used as gun platforms during the early cold war as well as a class of nuclear-powered guided missile cruisers of the Soviet Navy and Russian Navy, the largest and heaviest surface combatant warships in operation in the world. Among modern warships, they are second in size only to large aircraft carriers, and of similar size to a World War I era battleship."
 
-"U_ATTACK_NAME" LANG "Multirole combat aircraft"
-"U_ATTACK_DESC" LANG "A multirole combat aircraft (MRCA) is a combat aircraft intended to perform different roles in combat.A multirole fighter is a multirole combat aircraft which is, at the same time, also a fighter aircraft; in other words, an aircraft whose various roles include, among others, the role of air-to-air combat."
+"U_ATTACK_NAME" LANG "Многоцелевой истребитель"
+"U_ATTACK_DESC" LANG "Многоцелевые истребители(MRCA) одинаково хорошо справляются с уничтожением как наземных так и воздушных целей."
 
-"U_AIRPORT_NAME" LANG "Strategic Airbase"
-"U_AIRPORT_DESC" LANG "An airbase which host strategic bombers and interceptors"
+"U_AIRPORT_NAME" LANG "Стратегический аэродром"
+"U_AIRPORT_DESC" LANG "Аэродром где размещаются стратегические бомбардировщики и истребители-перехватчики."
 
-"U_AIRPORT2_NAME" LANG "Tactical Airbase"
-"U_AIRPORT2_DESC" LANG "An airbase which hosts interceptors as well as fighter-bombers"
+"U_AIRPORT2_NAME" LANG "Тактичиская авиабаза"
+"U_AIRPORT2_DESC" LANG "Авиабаза где размещаются многоцелевые истребители и истребители завоевания воздушного превосходства."
 
-"U_AIRPORT3_NAME" LANG "Naval Air Station"
-"U_AIRPORT3_DESC" LANG "A naval air station is a military air base, and consists of a permanent land-based operations locations for the military aviation division of the relevant branch of a navy. These bases are typically populated by squadrons, groups or wings, their various support commands, and other tenant commands."
+"U_AIRPORT3_NAME" LANG "База военно-морской авиации"
+"U_AIRPORT3_DESC" LANG "Авиабаза ВМФ является местом наземного базирования морской авиации и содержит в себе всевозможные самолёты ВМФ."
 
-"U_AIRPORT4_NAME" LANG "Special Operations Airbase"
-"U_AIRPORT4_DESC" LANG "An airbase which hosts strategic transports and Reconnaissance aircraft."
+"U_AIRPORT4_NAME" LANG "Авиабаза специальных операций"
+"U_AIRPORT4_DESC" LANG "Авиабаза, на которой размещаются самолёты специального назначения например самолёты воздушной разведки и самолёты ДРЛО."
 
 "U_LHA_NAME" LANG "Amphibious Assault Ship"
 "U_LHA_DESC" LANG "An amphibious assault ship is a type of amphibious warfare ship employed to land and support ground forces on enemy territory by an amphibious assault. Modern ships support amphibious landing craft, with most designs including a well deck. Coming full circle, some amphibious assault ships also support V/STOL fixed-wing aircraft, now having a secondary role as aircraft carriers."
 
-"ASM1_M_NAME" LANG "Air-to-surface missile"
+"ASM1_M_NAME" LANG "Ракета класса «воздух-поверхность»"
 "ASM1_M_DESC" LANG "An air-to-surface missile is a missile designed to be launched from military aircraft at targets on land or sea.The two most common propulsion systems for air-to-surface missiles are rocket motors, usually with shorter range, and slower, longer-range jet engines. Some air-to-surface missiles are powered by ramjets, giving them both long range and high speed."
 
 "M_CONV_CRUISE_NAME" LANG "Conventional Cruise Missile"
@@ -312,7 +312,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "NAVY30_DESC" LANG "Эксперименты с прибрежными боевыми кораблями, беспилотными системами, первыми лазерными и рельсотронными системами, полностью интегрированными системами управления и контроля и корпусами-невидимками определяют ближайшее будущее военных кораблей. Многие военные корабли снова увеличиваются в размерах, но сокращаются в количестве, оснащены для противодействия множеству потенциальных будущих угроз и действуют в боевом пространстве, которое включает в себя как кибервойну, так и космические операции.\n\n\n+Увеличивает скорость корабля и сокращает время перезарядки оружия. и снижает RCS корабля, что затрудняет попадание."
 
 "SUB60_NAME" LANG "Проекты подводных лодок 1960-х годов"
-"SUB60_DESC" LANG "В конце 1950-х годов атомная энергетика частично заменила дизель-электрическую тягу. За отплытием первой атомной подводной лодки "USN Nautilus" в 1955 году вскоре последовали аналогичные британские, французские и российские лодки. Также было разработано оборудование для извлечения кислорода из морской воды. Эти два нововведения вместе с инерциальными навигационными системами дали подводным лодкам возможность оставаться под водой в течение недель или месяцев и позволили совершать ранее невозможные путешествия, такие как пересечение Северного полюса под арктической ледяной шапкой на корабле "USS Nautilus" в 1958 году. военно-морские подводные лодки, построенные с того времени в Соединенных Штатах и Советском Союзе, а также в его правопреемнике Российской Федерации, приводились в действие ядерными реакторами. Факторами, ограничивающими выносливость этих кораблей в подводном положении, являются снабжение продовольствием и боевой дух экипажа на подводной лодке с ограниченным пространством.\n\n\n+Увеличивает скорость подводных лодок, уменьшает время перезарядки оружия и делает их двигатели более незаметными."
+"SUB60_DESC" LANG "В конце 1950-х годов атомная энергетика частично заменила дизель-электрическую тягу. За отплытием первой атомной подводной лодки USN Nautilus в 1955 году вскоре последовали аналогичные британские, французские и российские лодки. Также было разработано оборудование для извлечения кислорода из морской воды. Эти два нововведения вместе с инерциальными навигационными системами дали подводным лодкам возможность оставаться под водой в течение недель или месяцев и позволили совершать ранее невозможные путешествия, такие как пересечение Северного полюса под арктической ледяной шапкой на корабле USS Nautilus в 1958 году. военно-морские подводные лодки, построенные с того времени в Соединенных Штатах и Советском Союзе, а также в его правопреемнике Российской Федерации, приводились в действие ядерными реакторами. Факторами, ограничивающими выносливость этих кораблей в подводном положении, являются снабжение продовольствием и боевой дух экипажа на подводной лодке с ограниченным пространством.\n\n\n+Увеличивает скорость подводных лодок, уменьшает время перезарядки оружия и делает их двигатели более незаметными."
 
 "SUB80_NAME" LANG "Проекты подводных лодок 1980-х годов"
 "SUB80_DESC" LANG "К концу 20 века на некоторых подводных лодках вместо гребных винтов были установлены водометные движители. Хотя они тяжелее, дороже и часто менее эффективны, чем пропеллеры, они значительно тише, что дает важное тактическое преимущество.\n\n\n+Увеличивает скорость подводных лодок, уменьшает время перезарядки оружия и делает их двигатели более незаметными."
@@ -391,7 +391,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "SLBM_DESC" LANG "Баллистические ракеты подводных лодок (БРПЛ) это баллистические ракеты, способные запускаться с подводных лодок. Современные варианты обычно доставляют несколько разделяющихся головных частей индивидуального наведения (РГЧ), каждая из которых несет ядерную боеголовку и позволяет одной запущенной ракете поразить несколько целей. Баллистические ракеты подводных лодок действуют иначе, чем крылатые ракеты подводных лодок."
 
 "ABM0_NAME" LANG "Ядерные ПРО системы"
-"ABM0_DESC" LANG "В ранний период холодной войны отсутствие точных систем наведения означало, что единственным жизнеспособным способом перехвата вражеских баллистических ракет было использование ядерных боеголовок.."
+"ABM0_DESC" LANG "В ранний период холодной войны отсутствие точных систем наведения означало, что единственным жизнеспособным способом перехвата вражеских баллистических ракет было использование ядерных боеголовок."
 
 "ABM02_NAME" LANG "Тяжёлые ПРО Системы"
 "ABM02_DESC" LANG "Внедрение РГЧ, а также более совершенные маневры уклонения в полете значительно снизили эффективность обычных систем ПРО.Таким образом, использование ядерных боеголовок большой мощности в качестве ПРО может поражать несколько РГЧ."
@@ -597,8 +597,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_SPY_PLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур."
 
 "SPYPLANE_NAME" LANG "Разведывательный самолет"
-"SPYPLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур.
-"
+"SPYPLANE_DESC" LANG "Самолет-разведчик — это военный самолет, спроектированный или приспособленный для ведения воздушной разведки, в функции которого входит сбор разведывательных изображений (в том числе с использованием фотографии), радиоразведка, а также измерение и разведка сигнатур."
 
 "SPYSAT_NAME" LANG "Разведывательный спутник"
 "SPYSAT_DESC" LANG "Разведывательный спутник (обычно, хотя и неофициально, называемый спутником-шпионом) — это спутник наблюдения Земли или спутник связи, развернутый для военных или разведывательных целей."
