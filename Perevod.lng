@@ -689,8 +689,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_ART_NAME" LANG "Супер-орудие"
 "U_ART_DESC" LANG "Супер-орудия, это очень тяжелые крупнокалиберные орудия способные стрелять на сотни километров. Их диаметр составляет более 350 мм а длинна орудия составляет больше 50 метров."
 
-"U_STONE_NAME" LANG "Stonehenge"
-"U_STONE_DESC" LANG "Stonehenge,also known as the Spaceguard Turret Network (STN), is a railgun complex.Stonehenge was based on a circular design divided into eight sections, each of which housed a railgun turret.The weapons,operated on a hybrid energy principle using gunpowder to initially propel projectile shells, and then accelerate them to maximum velocity with electromagnetic energy."
+"U_STONE_NAME" LANG "Стоунхендж"
+"U_STONE_DESC" LANG "Стоунхендж,также известный как сеть космической обороны (STN), это комплекс рельсотронов.Стоунхендж имеет круглую форму и разбит на 8 секций, в каждой из секций находится турель с рельсотроном.Оружие, работает на принципе гибридной энергии, использующее порох для первоначального приведения в движение снарядов, а затем разгона их до максимальной скорости с помощью электромагнитной энергии."
 
 
 "M_NUC_ART1_NAME" LANG "10kt Nuclear Shell"
