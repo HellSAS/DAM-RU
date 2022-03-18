@@ -465,26 +465,26 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_EW_NAME" LANG "Блок РЭП"
 "M_EW_DESC" LANG "Электронное противодействие (РЭП) — это электрическое или электронное устройство, предназначенное для обмана радаров, гидролокаторов или других систем обнаружения, таких как инфракрасные (ИК) или лазеры. Его можно использовать как в наступательных, так и в оборонительных целях, чтобы лишить врага информации о наведении."
 
-"ENG1_NAME" LANG "1960s Engineering"
-"ENG1_DESC" LANG "Engineering is a branch that combines engineering physics and mathematics principles with materials science to design, analyze, manufacture, and maintain mechanical systems.It is one of the oldest and broadest of the engineering branches.It also inclued the field of electronics where the invention of the integrated circuit and the silicon MOSFET revolutionized the electronics industry and opened a new field of radio,computing and telecommunications applications."
+"ENG1_NAME" LANG "Машиностроение 1960-х"
+"ENG1_DESC" LANG "Инженерия — это отрасль, которая сочетает в себе принципы инженерной физики и математики с материаловедением для проектирования, анализа, производства и обслуживания механических систем. Это одна из старейших и широчайших инженерных отраслей. Интегральная схема и кремниевый полевой МОП-транзистор произвели революцию в электронной промышленности и открыли новую область применения в радио, вычислительной технике и телекоммуникациях."
 
-"ENG2_NAME" LANG "1970s Engineering"
-"ENG2_DESC" LANG "Advancements in material sciences allowed the development of mechanical solutions previously though impractical.In the field of electronics the earliest multi-chip microprocessors were the Four-Phase Systems AL-1 in 1969 and Garrett AiResearch MP944 in 1970, each using several MOS LSI chips.On November 15, 1971, Intel released the world's first single-chip microprocessor, the 4004, on a single MOS LSI chip. Its development was led by Federico Faggin, using silicon-gate MOS technology, along with Ted Hoff, Stanley Mazor and Masatoshi Shima."
+"ENG2_NAME" LANG "Машиностроение 1970-х"
+"ENG2_DESC" LANG "Достижения в области материаловедения позволили разработать механические решения, которые ранее считались непрактичныими. В области электроники самыми ранними многочиповыми микропроцессорами были Four-Phase Systems AL-1 в 1969 году и Garrett AiResearch MP944 в 1970 году, каждый из которых использовал несколько микросхем MOS LSI. 15 ноября 1971 года Intel выпустила первый в мире однокристальный микропроцессор 4004 на одном кристалле MOS LSI. Его разработкой руководил Федерико Фаггин с использованием МОП-технологии с кремниевыми затворами, а также Тед Хофф, Стэнли Мазор и Масатоши Шима."
 
-"ENG3_NAME" LANG "1980s Engineering"
-"ENG3_DESC" LANG "Advancements in material sciences allowed the development of mechanical solutions previously though impractical.The powerful supercomputers of the era were at the other end of the computing spectrum from the microcomputers, and they also used integrated circuit technology."
+"ENG3_NAME" LANG "Машиностроение 1980-х"
+"ENG3_DESC" LANG "Достижения в области материаловедения позволили разработать механические решения, которые ранее считались непрактичныими.Мощные суперкомпьютеры той эпохи находились на другом конце вычислительного спектра по сравнению с микрокомпьютерами, и они также использовали технологию интегральных схем."
 
-"ENG4_NAME" LANG "1990s Engineering"
-"ENG4_DESC" LANG "While the supercomputers of the 1980s used only a few processors, in the 1990s, machines with thousands of processors began to appear both in the United States and in Japan, setting new computational performance records."
+"ENG4_NAME" LANG "Машиностроение 1990-х"
+"ENG4_DESC" LANG "В то время как в суперкомпьютерах 1980-х годов использовалось всего несколько процессоров, в 1990-х как в США, так и в Японии стали появляться машины с тысячами процессоров, устанавливающие новые рекорды вычислительной мощности."
 
-"ENG5_NAME" LANG "2000s Engineering"
-"ENG5_DESC" LANG "A lot of modern tools are used for new manufacturing techniques. Analysis and designs in mechanical engineering are helped by various tools today. Indeed, mechanical engineers are using finite element analysis (FEA), computational fluid dynamics (CDF), computer-aided design (CAD), failure modes & effect analysis (FMEA). All of these tools are allowing mechanical engineers to work on the creation of 3D models.Progress in the first decade of the 21st century was dramatic and supercomputers with over 60,000 processors appeared, reaching petaflop performance levels."
+"ENG5_NAME" LANG "Машиностроение 2000-х"
+"ENG5_DESC" LANG "Множество современных инструментов используются для новых технологий производства. Анализу и проектированию в машиностроении сегодня помогают различные инструменты. Действительно, инженеры-механики используют анализ конечных элементов (FEA), вычислительную гидродинамику (CDF), автоматизированное проектирование (CAD), анализ видов отказов и последствий (FMEA). Все эти инструменты позволяют инженерам-механикам работать над созданием 3D-моделей. Прогресс в первом десятилетии 21-го века был впечатляющим, и появились суперкомпьютеры с более чем 60 000 процессоров, производительность которых достигла петафлопсного уровня."
 
-"ENG6_NAME" LANG "2010s Engineering"
-"ENG6_DESC" LANG "In July 2011, the 8.1 petaflop Japanese K computer became the fastest in the world using over 60,000 SPARC64 VIIIfx processors housed in over 600 cabinets. The fact that K computer is over 60 times faster than the Earth Simulator, and that the Earth Simulator ranks as the 68th system in the world seven years after holding the top spot demonstrates both the rapid increase in top performance and the widespread growth of supercomputing technology worldwide.By 2014, the Earth Simulator had dropped off the list and by 2018 K computer had dropped out of the top 10. By 2018, Summit had become the world's most powerful supercomputer, at 200 petaFLOPS."
+"ENG6_NAME" LANG "Машиностроение 2010-х"
+"ENG6_DESC" LANG "В июле 2011 года японский компьютер K с производительностью 8,1 петафлопс стал самым быстрым в мире, используя более 60 000 процессоров SPARC64 VIIIfx, размещенных в более чем 600 корпусах. Тот факт, что компьютер K более чем в 60 раз быстрее, чем Earth Simulator, и что Earth Simulator занимает 68-е место в мире через семь лет после удержания первого места, демонстрирует как быстрый рост максимальной производительности, так и широкое распространение суперкомпьютерных технологий. К 2014 году Earth Simulator выпал из списка, а к 2018 году компьютер K выпал из первой десятки. К 2018 году Summit стал самым мощным суперкомпьютером в мире с производительностью 200 петафлопс."
 
-"ENG7_NAME" LANG "2020s Engineering"
-"ENG7_DESC" LANG "CAD software and 3D printing are useful for mechanical designers and engineers in order to work on designs, prototypes and create as many iterations as they want.3D software is allowing to model, visualize, and simulate new projects, even the most complex ones.In the field of electronics Quantum computers started making an appearance.Quantum computing is the use of quantum phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.Quantum computers are believed to be able to solve certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science."
+"ENG7_NAME" LANG "Машиностроение 2020-х"
+"ENG7_DESC" LANG "Программное обеспечение CAD и 3D-печать полезны для конструкторов и инженеров-механиков, чтобы работать над проектами, прототипами и создавать столько итераций, сколько они хотят. Программное обеспечение для 3D позволяет моделировать, визуализировать и моделировать новые проекты, даже самые сложные. область электроники Начали появляться квантовые компьютеры. Квантовые вычисления — это использование квантовых явлений, таких как суперпозиция и запутанность, для выполнения вычислений. Компьютеры, выполняющие квантовые вычисления, известны как квантовые компьютеры. Считается, что квантовые компьютеры способны решать определенные вычислительные задачи, такие как целочисленная факторизация (которая лежит в основе шифрования RSA), значительно быстрее, чем классические компьютеры. Изучение квантовых вычислений является подобластью квантовой информатики."
 
 "CRUISE1_NAME" LANG "1960s Cruise Missiles"
 "CRUISE1_DESC" LANG "A cruise missile is a guided missile used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances.In the Early years of the Cold War the lack of a precise guidance system meant that the only viable way to deliver a warhead was with radar guidance which could only be applied in an anti-ship role or with a nuclear warhead for land targets with a CEP of 500-1500m."
@@ -663,14 +663,14 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "R_SONAR_L_NAME" LANG "Сонар морского патрульного самолёта"
 "R_SONAR_L_DESC" LANG "Сонар морского патрульного самолёта"
 
-"R_AWACS_CVN_LW_RADAR_NAME" LANG "Carrier AWACS LW"
-"R_AWACS_CVN_LW_RADAR_DESC" LANG "Carrier AWACS LW"
+"R_AWACS_CVN_LW_RADAR_NAME" LANG "Палубный ДРЛО с коротковолновым радаром"
+"R_AWACS_CVN_LW_RADAR_DESC" LANG "Палубный ДРЛО с коротковолновым радаром"
 
-"R_AWACS_CVN_SW_RADAR_NAME" LANG "Carrier AWACS SW"
-"R_AWACS_CVN_SW_RADAR_DESC" LANG "Carrier AWACS SW"
+"R_AWACS_CVN_SW_RADAR_NAME" LANG "Палубный ДРЛО с длинноволновым радаром"
+"R_AWACS_CVN_SW_RADAR_DESC" LANG "Палубный ДРЛО с длинноволновым радаром"
 
-"TACTICAL_NUKES_NAME" LANG "Warhead Miniaturization"
-"TACTICAL_NUKES_DESC" LANG "Warhead Miniaturization is the technological process in which nuclear warheads are miniaturized in order to fit in smaller delivery systems while retaining considerable destructive power."
+"TACTICAL_NUKES_NAME" LANG "Миниатюризация боеголовок"
+"TACTICAL_NUKES_DESC" LANG "Миниатюризация боеголовок — это технологический процесс, при котором ядерные боеголовки миниатюризируются, чтобы поместиться в меньшие системы доставки, сохраняя при этом значительную разрушительную силу."
 
 "U_SAM_SITE_DESC" LANG "Системы зенитного вооружения, связанные с ними сенсорные системы и системы управления и контроля для защиты вашего воздушного пространства.\n\nМожет быть расширен до ПРО для выполнения задачи по перехвату любого снаряда в полете\n\n\n+ Перехватывает вражеские самолеты\n+ Перехватывает ракеты (с технологией ПРО)\n+ Дешево построить\n- Не может видеть ракеты без поддержки ЗГРЛС"
 "U_SAM_SITE_NAME" LANG "Установка ПВО"
