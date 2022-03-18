@@ -79,7 +79,7 @@
 "U_Space_radar_DESC" Lang "Космический радар обнаруживает, отслеживает, каталогизирует и идентифицирует искусственные объекты, вращающиеся вокруг Земли. \nЯвляется важным компонентом противоспутниковых систем."
 
 "U_CITY_NAME" Lang "Город"
-"U_FIGHTER_Carrier_NAME" Lang "Carrier fighter" // obsolete
+"U_FIGHTER_Carrier_NAME" Lang "Авианосный истребитель" // obsolete
 "U_SHORT_WAVE_RADAR_NAME" Lang "Коротковолн. радиолокатор" // obsolete
 
 "M_NUCLEAR_BOMB_NAME" Lang "Ядерная бимба"
@@ -197,7 +197,7 @@
 "anti_ballistic_missile_DESC" Lang "Зенитные комплексы изначально создавались для борьбы с ударной авиацией, но со временем баллистические и крылатые ракеты заняли первое место в списке приоритетных целей. Но, к сожалению, ранние версии комплексов ПРО демонстрируют недостаточную эффективность - скорости и траектории полета ракетного оружия заметно отличаются от авиации. Для уверенной работы необходима глубокая модернизация всех систем. Еще одним исключительно важным элементом противоракетной обороны является система раннего предупреждения - комплекс загоризонтных радаров, способных отследить траекторию баллистической ракеты задолго до ее подлета к цели. Без развернутой системы таких радаров, никакая ПРО не будет эффективной."
 "ABM_Mk2_NAME" Lang "ПРО нового поколения"
 "ABM_Mk2_DESC" Lang "Ввод в строй новых радаров X-диапазона с активной фазированной антенной решил многие проблемы ПРО. ЗРК следующего поколения уверенно контролируют небо и могут перехватывать любые воздушные цели, вплоть до БПЛА, крылатых ракет и даже МБР на конечном участке траектории. Интегрированные в единую сеть несколько подобных комплексов накрывают немалый район практически непроницаемым куполом. За исключением массированного стратегического удара остальные виды нападения не в состоянии преодолеть эту защиту. Однако не стоит забывать и о системе раннего предупреждения - без вовремя полученных данных от загоризонтных радаров, даже новейшая ПРО не будет эффективна.\n\nСущественно увеличивается дальность и точность перехвата ракет. Также увеличивается количество одновременно сопровождаемых целей."
-"ASAT_NAME" Lang "АСАТ"
+"ASAT_NAME" Lang "Противоспутниковое оружие"
 "ASAT_DESC" Lang "Логично, что следующим шагом в разработке зенитных систем стало создание противоспутникового оружия. С появлением модернизированных комплексов ПКО и заатмосферных ракет воздушного базирования, поражение целей в ближнем космосе становится не только возможным, но и реальным. В угрожаемый период такое оружие способно ослепить противника, оперативно выводя из строя до 80% спутниковой группировки. Стоит заметить, что первое же боевое применение систем АСАТ может спровоцировать ответный ракетно-ядерный удар.\n\nПротивоспутниковая ракета может быть запущенаракетной шахтой, мобильным комплексом МБР, или Крейсером.\n\nДля обнаружения спутников и целеуказания требуется Космический радар."
 "OVER_HORIZON_RADAR_NAME" Lang "Загоризонтный радар"
 "OVER_HORIZON_RADAR_DESC" Lang "Запредельная скорость баллистических ракет сократила подлетное время до десятков минут, что фактически исключало дополнительное прицеливание при неудачном перехвате.\nВычислительные мощности требовали дополнительных ресурсов для обсчета параметров цели, и потому возникла насущная необходимость в технологиях раннего обнаружения.\nЭффект «пространственной волны» позволил создать подходящую по заданным параметрам РЛС метрового диапазона, которая использует отраженные от ионосферы зондирующие лучи.\nБез развернутого комплекса загоризонтных радаров система ПРО не сможет справляться со своей задачей."
@@ -259,17 +259,17 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_AIRPORT4_NAME" LANG "Авиабаза специальных операций"
 "U_AIRPORT4_DESC" LANG "Авиабаза, на которой размещаются самолёты специального назначения например самолёты воздушной разведки."
 
-"U_LHA_NAME" LANG "Amphibious Assault Ship"
-"U_LHA_DESC" LANG "An amphibious assault ship is a type of amphibious warfare ship employed to land and support ground forces on enemy territory by an amphibious assault. Modern ships support amphibious landing craft, with most designs including a well deck. Coming full circle, some amphibious assault ships also support V/STOL fixed-wing aircraft, now having a secondary role as aircraft carriers."
+"U_LHA_NAME" LANG "Десантный корабль-амфибия"
+"U_LHA_DESC" LANG "Десантный корабль-амфибия — тип десантного боевого корабля, используемый для высадки и поддержки сухопутных войск на территории противника путем морского десанта. Современные корабли поддерживают десантные катера, большинство конструкций которых включают внутренний ангар для малых кораблей. Завершая круг, некоторые десантные корабли также поддерживают самолеты СВВП с неподвижным крылом, которые теперь выполняют второстепенную роль в качестве авианосцев."
 
 "ASM1_M_NAME" LANG "Ракета класса «воздух-поверхность»"
-"ASM1_M_DESC" LANG "An air-to-surface missile is a missile designed to be launched from military aircraft at targets on land or sea.The two most common propulsion systems for air-to-surface missiles are rocket motors, usually with shorter range, and slower, longer-range jet engines. Some air-to-surface missiles are powered by ramjets, giving them both long range and high speed."
+"ASM1_M_DESC" LANG "Ракета класса «воздух-поверхность» — это ракета, предназначенная для запуска с военного самолета по целям на суше или на море. Двумя наиболее распространенными силовыми установками для ракет класса «воздух-поверхность» являются ракетные двигатели, обычно с меньшим радиусом действия, а также более медленные, но более дальнобойные реактивные двигатели. Некоторые ракеты класса «воздух-поверхность» приводятся в действие прямоточными воздушно-реактивными двигателями, что дает им большую дальность полета и высокую скорость."
 
-"M_CONV_CRUISE_NAME" LANG "Conventional Cruise Missile"
-"M_CONV_CRUISE_DESC" LANG "A cruise missile is a guided missile using GPS guidance and used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances with high precision. Modern cruise missiles are capable of travelling at supersonic or high subsonic speeds, are self-navigating, and are able to fly on a non-ballistic, extremely low-altitude trajectory."
+"M_CONV_CRUISE_NAME" LANG "Обычная крылатая ракета"
+"M_CONV_CRUISE_DESC" LANG "Крылатая ракета — это управляемая ракета, использующая GPS-наведение и используемая против наземных целей, которая остается в атмосфере и пролетает большую часть своей траектории полета примерно с постоянной скоростью. Крылатые ракеты предназначены для доставки больших боеголовок на большие расстояния с высокой точностью. Современные крылатые ракеты способны двигаться со сверхзвуковой или высокой дозвуковой скоростью, являются самонаводящимися и способны летать по небаллистической, чрезвычайно маловысотной траектории."
 
-"M_NUKE_CRUISE_NAME" LANG "Nuclear Cruise Missile"
-"M_NUKE_CRUISE_DESC" LANG "Cruise missiles armed with nuclear warheads were first became operational and used by soviet strategic bombers against NATO naval groups.Later with the emergance of GPS they became a viable weapon against surface targets"
+"M_NUKE_CRUISE_NAME" LANG "Крылатая ракета с Ядерной БЧ"
+"M_NUKE_CRUISE_DESC" LANG "Крылатые ракеты, вооруженные ядерными боеголовками, впервые были введены в строй и применялись советскими стратегическими бомбардировщиками против военно-морских группировок НАТО. Позже, с появлением GPS, они стали действенным оружием против наземных целей."
 
 //ПРАВИТЬ!
 "M_SHIP_SHIP_NAME" LANG "Противокорабельная ракета"
@@ -507,7 +507,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "AA1_NAME" LANG "Ранние УР «В-В»"
 "AA1_DESC" LANG "После Второй мировой войны крупные державы стремились оснастить самолеты ракетами, способными автоматически наводиться на вражеские самолеты, что значительно увеличило дальность поражения вражеских истребителей и бомбардировщиков. Управляемые зенитные ракеты той эпохи, такие как AIM-9 Sidewinder, были настолько эффективны в изменении методов ведения войны, что они по сей день продолжают использоваться даже ведущими вооруженными силами мира.\n\n\n+Улучшает точность и дальность"
 
-"AA2_NAME" LANG "УР «В-В» с полуактивной радарной ГСН "
+"AA2_NAME" LANG "УР «В-В» с полуактивной радарной ГСН"
 "AA2_DESC" LANG "Полуактивное радиолокационное самонаведение является распространенным типом системы наведения ракет, возможно, наиболее распространенным типом для ракетных систем повышенной дальности «воздух-воздух» и «земля-воздух». Название относится к тому факту, что сама ракета является лишь пассивным детектором радиолокационного сигнала, поступающего от внешнего источника, когда он отражается от цели (в отличие от активного радиолокационного самонаведения, в котором используется активный радар).\n\n\n+Улучшает точность и дальность"
 
 "AA3_NAME" LANG "УР «В-В» с активной радарной ГСН"
@@ -528,8 +528,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "M_LASER_POD_NAME" LANG "Защитный лазерный модуль"
 "M_LASER_POD_DESC" LANG "Легкий лазерный блок, способный перехватывать вражеские ЗУР и УР ВВ, значительно повышая живучесть самолетов."
 
-"M_SAM_LASER_NAME" LANG "Air Defence Laser"
-"M_SAM_LASER_DESC" LANG "Mobile version of naval lasers capable of intercepting small projectiles such as missiles at low and medium altidutes."
+"M_SAM_LASER_NAME" LANG "Лазер ПВО"
+"M_SAM_LASER_DESC" LANG "Мобильная версия морских лазеров, способная перехватывать небольшие снаряды, такие как ракеты, на малых и средних высотах."
 
 "ASM1_NAME" LANG "Боеприпасы с лазерным наведением"
 "ASM1_DESC" LANG "Боеприпасы с лазерным наведением используют полуактивное лазерное наведение для поражения обозначенной цели с большей точностью, чем неуправляемое оружие. Оружие с лазерным наведением, впервые разработанное США во время войны во Вьетнаме, быстро зарекомендовало себя при высокоточных ударах по труднодоступным точечным целям. Это оружие использует бортовую электронику для отслеживания целей обозначенных лазером, как правило, в инфракрасном спектре, и регулирует траекторию боеприпаса для точного поражения цели.\n\n\n+Оружие класса «воздух-земля» с большим уроном, но с ограниченной скоростью и дальностью применения. В большом количестве может преодолеть ПВО противника .\n\n\n+Оружие «воздух-земля» (за исключением крылатых ракет) увеличивает урон против армий, что делает его очень эффективными"
@@ -562,28 +562,28 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "TAWACS_DESC" LANG "Воздушные системы дальнего обнаружения и управления, такие как ДРЛОиУ, представляют собой мобильную длинноволновую радиолокационную платформу, которая дает командирам обзор боевой обстановки с высоты птичьего полета, отслеживание целей на огромной площади для обеспечения связи с позициями противника и передачи этой информации по каналам передачи данных к компьютерным системам оружейных платформ, таких как самолеты."
 
 "ARMY_TECH_NAME" LANG "Включить Армии"
-"ARMY_TECH_DESC" LANG "This tech is used to prohibit its research and thus armies during a game."
+"ARMY_TECH_DESC" LANG "Эта технология используется для запрета исследований и, следовательно, армий во время игры."
 
-"ARMY_NAME" LANG "Army Group"
-"ARMY_DESC" LANG "An army group is a military organization consisting of several field armies, which is self-sufficient for indefinite periods. It is usually responsible for a particular geographic area. An army group is the largest field organization handled by a single commander—usually a full general or field marshal—and it generally includes between 400,000 and 1,000,000 soldiers."
+"ARMY_NAME" LANG "Группа армий"
+"ARMY_DESC" LANG "Группа армий — военная организация, состоящая из нескольких полевых армий, самодостаточная в течение неопределенного времени. Обычно он отвечает за конкретную географическую область. Группа армий — это крупнейшая полевая организация, управляемая одним командиром — обычно полным генералом или фельдмаршалом, — и обычно включает от 400 000 до 1 000 000 солдат."
 
-"U_PARA_NAME" LANG "Airborne Division"
-"U_PARA_DESC" LANG "An Airborne Division is a light infantry division specializing in air assault operations."
+"U_PARA_NAME" LANG "Воздушно-десантная дивизия"
+"U_PARA_DESC" LANG "Воздушно-десантная дивизия — легкая пехотная дивизия, специализирующаяся на десантно-штурмовых операциях."
 
-"U_MARINES_NAME" LANG "Marine Division"
-"U_MARINES_DESC" LANG "The division is employed as the ground combat element of a Marine Expeditionary Force and may provide task-organized forces for assault operations. A Marine Division is able to provide the ground amphibious forcible entry capability to the naval expeditionary force and to conduct subsequent land operations in any operational environment."
+"U_MARINES_NAME" LANG "Дивизия морской пехоты"
+"U_MARINES_DESC" LANG "Дивизия используется в качестве наземного боевого элемента экспедиционного корпуса морской пехоты и может предоставлять оперативные силы для штурмовых операций. Дивизия морской пехоты может предоставить возможность десантирования военно-морским экспедиционным силам и проводить последующие наземные операции в любых оперативных условиях."
 
-"U_AIRTRANS_NAME" LANG "Strategic Transport"
-"U_AIRTRANS_DESC" LANG "Aircrafts capable of airlifting troops and military equipment to support military operations."
+"U_AIRTRANS_NAME" LANG "Стратегическая транспортная авиация"
+"U_AIRTRANS_DESC" LANG "Самолеты, способные перебрасывать по воздуху войска и военную технику для поддержки военных операций."
 
-"ARMY_WEP_NAME" LANG "Ground Assets"
-"ARMY_WEP_DESC" LANG "Ground Assets"
+"ARMY_WEP_NAME" LANG "Наземные средства"
+"ARMY_WEP_DESC" LANG "Наземные средства"
 
-"M_ARMY_WEP_NAME" LANG "Marine Ground Assets"
-"M_ARMY_WEP_DESC" LANG "Marine Ground Assets"
+"M_ARMY_WEP_NAME" LANG "Морские наземные средства"
+"M_ARMY_WEP_DESC" LANG "Морские наземные средства"
 
-"P_ARMY_WEP_NAME" LANG "Airborne Ground Assets"
-"P_ARMY_WEP_DESC" LANG "Airborne Ground Assets"
+"P_ARMY_WEP_NAME" LANG "Воздушно-десантные наземные средства"
+"P_ARMY_WEP_DESC" LANG "Воздушно-десантные наземные средства"
 
 "SAT_CAMERA_NAME" LANG "Система оптической визуализации"
 "SAT_CAMERA_DESC" LANG "Система оптической визуализации"
@@ -621,8 +621,8 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "LASER_ANTISAT_NAME" LANG "Противоспутниковый лазер"
 "LASER_ANTISAT_DESC" LANG "Мощный лазер, способный нейтрализовать враждебные спутники, сжигая их электронику."
 
-"U_CDMS_NAME" LANG "Anti-Ship Missile Battery"
-"U_CDMS_DESC" LANG "Anti-Ship Missile Battery is a military unit tasked with defending costal waters against enemy surface combatans.They are equivalent to cruisers in terms of ship to ship firepower."
+"U_CDMS_NAME" LANG "Батарея противокорабельных ракет"
+"U_CDMS_DESC" LANG "Батарея противокорабельных ракет — боевая единица, задачей которой является защита прибрежных вод от вражеских надводных боевых кораблей. По огневой мощи они эквивалентны крейсерам."
 
 "ARMY60_NAME" LANG "Сухопутные войска 60-х годов"
 "ARMY60_DESC" LANG "Позволяет использовать улучшенные военные транспортные средства, а также совершенствовать доктрину и подготовку."
@@ -733,10 +733,10 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "IND_EFFECT_NAME" LANG "Регион разработки"
 "IND_EFFECT_DESC" LANG "."
 
-"BOMB_PENETRATOR_M_NAME" LANG "Bunker Buster Munition"
-"BOMB_PENETRATOR_M_DESC" LANG "A bunker buster is a type of munition that is designed to penetrate hardened targets or targets buried deep underground, such as military bunkers."
+"BOMB_PENETRATOR_M_NAME" LANG "Противобункерное вооружение"
+"BOMB_PENETRATOR_M_DESC" LANG "Противобункерный — это тип боеприпаса, который предназначен для поражения укрепленных целей или целей, расположенных глубоко под землей, таких как военные бункеры."
 
-"R_SMALL_PLANE_RADAR_NAME" LANG "Small A/C Radar"
+"R_SMALL_PLANE_RADAR_NAME" LANG "Малый радар"
 "R_SMALL_PLANE_RADAR_DESC" LANG "."
 
 END
