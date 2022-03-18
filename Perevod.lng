@@ -486,23 +486,23 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "ENG7_NAME" LANG "Машиностроение 2020-х"
 "ENG7_DESC" LANG "Программное обеспечение CAD и 3D-печать полезны для конструкторов и инженеров-механиков, чтобы работать над проектами, прототипами и создавать столько итераций, сколько они хотят. Программное обеспечение для 3D позволяет моделировать, визуализировать и моделировать новые проекты, даже самые сложные. область электроники Начали появляться квантовые компьютеры. Квантовые вычисления — это использование квантовых явлений, таких как суперпозиция и запутанность, для выполнения вычислений. Компьютеры, выполняющие квантовые вычисления, известны как квантовые компьютеры. Считается, что квантовые компьютеры способны решать определенные вычислительные задачи, такие как целочисленная факторизация (которая лежит в основе шифрования RSA), значительно быстрее, чем классические компьютеры. Изучение квантовых вычислений является подобластью квантовой информатики."
 
-"CRUISE1_NAME" LANG "1960s Cruise Missiles"
-"CRUISE1_DESC" LANG "A cruise missile is a guided missile used against terrestrial targets, that remains in the atmosphere and flies the major portion of its flight path at approximately constant speed. Cruise missiles are designed to deliver a large warhead over long distances.In the Early years of the Cold War the lack of a precise guidance system meant that the only viable way to deliver a warhead was with radar guidance which could only be applied in an anti-ship role or with a nuclear warhead for land targets with a CEP of 500-1500m."
+"CRUISE1_NAME" LANG "Крылатые ракеты 1960-х"
+"CRUISE1_DESC" LANG "Крылатая ракета — это управляемая ракета, используемая против наземных целей, которая остается в атмосфере и пролетает большую часть траектории своего полета примерно с постоянной скоростью. Крылатые ракеты предназначены для доставки большой боеголовки на большие расстояния. В первые годы холодной войны отсутствие точной системы наведения означало, что единственным жизнеспособным способом доставки боеголовки было радиолокационное наведение, которое можно было применять только в противокорабельной роли или с ядерной боевой частью по наземным целям с КВО 500-1500м."
 
-"CRUISE2_NAME" LANG "1970s Cruise Missiles"
-"CRUISE2_DESC" LANG "Improvements in radar guidance slightly improved the precision of both conventional and nuclear cruise missiles and new developments in engines and aerodynamics further increased their range.\n\n\n+Improves Range,Speed and Precision"
+"CRUISE2_NAME" LANG "Крылатые ракеты 1970-х"
+"CRUISE2_DESC" LANG "Усовершенствования в радиолокационном наведении немного повысили точность как обычных, так и ядерных крылатых ракет, а новые разработки в области двигателей и аэродинамики еще больше увеличили их дальность.\n\n\n+Улучшает дальность, скорость и точность крылатых ракет"
 
-"CRUISE3_NAME" LANG "1980s Cruise Missiles"
-"CRUISE3_DESC" LANG "The introduction of GPS made cruise missiles a viable weapon against land targets in extreme ranges while new ground radar avoidance systems made them considerably harder to shoot down.\n\n\n+Improves Range,Speed and Precision\n\n\n+Increases Payload capacity"
+"CRUISE3_NAME" LANG "Крылатые ракеты 1980-х"
+"CRUISE3_DESC" LANG "Внедрение GPS сделало крылатые ракеты жизнеспособным оружием против наземных целей на экстремальных дистанциях, в то время как новые наземные радиолокационные системы уклонения сделали их значительно труднее сбить.\n\n\n+Улучшает дальность, скорость и точность крылатых ракет\n\n\n+Increases Payload capacity"
 
-"CRUISE4_NAME" LANG "2000s Cruise Missiles"
-"CRUISE4_DESC" LANG "Further improvements in missile avoidance and terrain masking protected the missiles against increasingly advanced missile defence systems.\n\n\n+Improves Range,Speed and Precision"
+"CRUISE4_NAME" LANG "Крылатые ракеты 2000-х"
+"CRUISE4_DESC" LANG "Дальнейшие улучшения в уклонении от ракет и маскировке в рельефе защитили ракеты от все более совершенных систем противоракетной обороны.\n\n\n+Улучшает дальность, скорость и точность крылатых ракет"
 
-"CRUISE5_NAME" LANG "2010s Cruise Missiles"
-"CRUISE5_DESC" LANG "By adopting stealth characteristics cruise missiles became more survivable in an ever increasingly anti-missile environment.\n\n\n+Improves Range,Speed and Precision\n\n\n+Increases Payload capacity"
+"CRUISE5_NAME" LANG "Крылатые ракеты 2010-х"
+"CRUISE5_DESC" LANG "Внедрив технологии «Стелс», крылатые ракеты стали более живучими в постоянно усиливающейся противоракетной среде.\n\n\n+Улучшает дальность, скорость и точность крылатых ракет\n\n\n+Increases Payload capacity"
 
-"CRUISE6_NAME" LANG "2020S Cruise Missiles"
-"CRUISE6_DESC" LANG "Advanced in materials science allowed the fielding of hyper-sonic cruise missiles flying over 80000 feet during their cruise phase rendering all previous air defence systems nearly obsolete.\n\n\n+Improves Range,Precision and greatly improves Speed"
+"CRUISE6_NAME" LANG "Крылатые ракеты 2020-х"
+"CRUISE6_DESC" LANG "Прогресс в материаловедении позволил гиперзвуковым крылатым ракетам летать на высоте более 80000 футов(25км) во время полета, что сделало все предыдущие системы ПРО почти устаревшими.\n\n\n+Улучшает дальность, точность и значительно повышает скорость крылатых ракет"
 
 "AA1_NAME" LANG "Ранние УР «В-В»"
 "AA1_DESC" LANG "После Второй мировой войны крупные державы стремились оснастить самолеты ракетами, способными автоматически наводиться на вражеские самолеты, что значительно увеличило дальность поражения вражеских истребителей и бомбардировщиков. Управляемые зенитные ракеты той эпохи, такие как AIM-9 Sidewinder, были настолько эффективны в изменении методов ведения войны, что они по сей день продолжают использоваться даже ведущими вооруженными силами мира.\n\n\n+Улучшает точность и дальность"
