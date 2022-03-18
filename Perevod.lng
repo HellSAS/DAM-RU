@@ -678,7 +678,7 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_SAM_SITE_NAME" LANG "Установка ПВО"
 
 "ART1_NAME" LANG "Ядерная артиллерия"
-"ART1_DESC" LANG "Nuclear artillery is a subset of limited-yield tactical nuclear weapons, in particular those weapons that are launched from the ground at battlefield targets."
+"ART1_DESC" LANG "Ядерная артиллерия это тактическиое ядерное оружие, в частонисти это оружие может быть использовано для стрельбы по целям на поле боя ."
 
 "ART2_NAME" LANG "Проект Вавилон"
 "ART2_DESC" LANG "Малыш Вавилон,представляет собой горизонтально прикрепленное устройство которое является прототипом. Его диаметр составляет 350 мм (13.8 inches), и дуло длинной 46 метров (151 feet),[1] и весом в 102 тонны. После проведения тестов со свинцовыми снарядами, Данное орудие установили на склон в 45 градусов. Снаряд пролетел 750км."
@@ -693,14 +693,14 @@ USE PREVIOUS "LANG/Rus/tech_t1.lng"
 "U_STONE_DESC" LANG "Стоунхендж,также известный как сеть космической обороны (STN), это комплекс рельсотронов.Стоунхендж имеет круглую форму и разбит на 8 секций, в каждой из секций находится турель с рельсотроном.Оружие, работает на принципе гибридной энергии, использующее порох для первоначального приведения в движение снарядов, а затем разгона их до максимальной скорости с помощью электромагнитной энергии."
 
 
-"M_NUC_ART1_NAME" LANG "10kt Nuclear Shell"
-"M_NUC_ART1_DESC" LANG "A 10kt Nuclear Shell launched by long range artillery."
+"M_NUC_ART1_NAME" LANG "10Кт Ядерный снаряд"
+"M_NUC_ART1_DESC" LANG "10кт ядерный снаряд который может быть использован дальнобойной артиллерией."
 
-"M_NUC_ART2_NAME" LANG "Heavy Nuclear Shell"
-"M_NUC_ART2_DESC" LANG "A heavy 500kt Nuclear Shell launched by long range superguns."
+"M_NUC_ART2_NAME" LANG "Тяжелый ядерный снаряд"
+"M_NUC_ART2_DESC" LANG "Это тяжелый ядерный снаряд мощностью в 500Кт может быть использован с помощью дальнобойного супероружия."
 
-"M_NUC_ART3_NAME" LANG "Rail-Gun Nuclear Shell"
-"M_NUC_ART3_DESC" LANG "A 500kt Nuclear Railgun Shell launched by massive spaceguns."
+"M_NUC_ART3_NAME" LANG "Ядерный снаряд для рельсотрона"
+"M_NUC_ART3_DESC" LANG "Это ядерный снаряд рельсотрона мощьностью в 500Кт может быть запущен с помощью космических орудий."
 
 "SUPERWEP_NAME" LANG "Супероружие"
 "SUPERWEP_DESC" LANG "Разрешает разработку и использование супероружия."
